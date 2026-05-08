@@ -1,0 +1,17 @@
+id: shengui
+title: 臣軌
+subtitle: 唐·武則天
+titleEn: The Minister's Guide
+publisher: 早稲田大学図書館
+genre: prose
+contributors:
+  - ref: C004
+    role: author
+date:
+  dynasty: 唐
+  era: 垂拱
+  era_year: 1
+layers:
+  - id: commentary
+    label: 注
+    contributor: C011

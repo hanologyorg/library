@@ -1,0 +1,31 @@
+id: laozi
+title: 帛書老子 甲本
+titleEn: The Book of Laozi on Silk, Version A
+publisher: 早稲田大学図書館
+genre: prose
+contributors:
+  - ref: Laozi
+    role: author
+date:
+  dynasty: 周
+  circa: true
+layers:
+  - id: wangbi
+    label: 王弼註
+    shortLabel: 王
+    annotator: 王弼
+    contributor: C001
+    role: commentator
+    nature: commentary
+    displayOrder: 1
+  - id: hesonggong
+    label: 河上公註
+    shortLabel: 河
+    annotator: 河上公
+    contributor: C002
+    role: commentator
+    nature: commentary
+    displayOrder: 2
+annotation:
+  defaultLabel: 原文
+  defaultShortLabel: 文
