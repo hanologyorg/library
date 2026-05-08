@@ -1,10 +1,11 @@
 id: skqs-difan
 title: 帝範
 subtitle: 四庫全書本
-titleEn: The Imperial Model (Siku Quanshu Edition)
 genre: prose
 contributors:
   - ref: 唐太宗
     role: author
-  - ref: 四庫全書館臣
-    role: annotator
+date:
+  dynasty: 唐
+  era: 貞觀
+  era_year: 22
