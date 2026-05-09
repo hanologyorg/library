@@ -2,7 +2,7 @@
 id: 9
 title: 在上位不陵下
 contributors:
-  - ref: A186
+  - ref: A169
     role: author
 date:
   dynasty: 春秋

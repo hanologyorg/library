@@ -2,7 +2,7 @@
 id: 1
 title: 論語四則
 contributors:
-  - ref: A181
+  - ref: A148
     role: author
 date:
   dynasty: 春秋

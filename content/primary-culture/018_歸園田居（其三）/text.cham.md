@@ -2,7 +2,7 @@
 id: 18
 title: 歸園田居（其三）
 contributors:
-  - ref: A192
+  - ref: A006
     role: author
 date:
   dynasty: 晉

@@ -2,7 +2,7 @@
 id: 42
 title: 示兒
 contributors:
-  - ref: A210
+  - ref: A117
     role: author
 date:
   dynasty: 宋

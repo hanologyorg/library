@@ -2,7 +2,7 @@
 id: 41
 title: 黃鶴樓
 contributors:
-  - ref: A209
+  - ref: A019
     role: author
 date:
   dynasty: 唐

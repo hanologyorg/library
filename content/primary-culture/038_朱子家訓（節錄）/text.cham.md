@@ -2,7 +2,7 @@
 id: 38
 title: 朱子家訓（節錄）
 contributors:
-  - ref: A207
+  - ref: A171
     role: author
 date:
   dynasty: 清

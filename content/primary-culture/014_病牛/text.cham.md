@@ -2,7 +2,7 @@
 id: 14
 title: 病牛
 contributors:
-  - ref: A189
+  - ref: A042
     role: author
 date:
   dynasty: 宋

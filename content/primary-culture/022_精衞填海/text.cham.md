@@ -2,7 +2,7 @@
 id: 22
 title: 精衞填海
 contributors:
-  - ref: A196
+  - ref: A102
     role: author
 date:
   dynasty: 先秦

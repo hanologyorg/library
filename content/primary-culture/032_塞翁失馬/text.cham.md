@@ -2,7 +2,7 @@
 id: 32
 title: 塞翁失馬
 contributors:
-  - ref: A203
+  - ref: A102
     role: author
 date:
   dynasty: 漢

@@ -2,7 +2,7 @@
 id: 26
 title: 季札掛劍
 contributors:
-  - ref: A199
+  - ref: A102
     role: author
 date:
   dynasty: 漢

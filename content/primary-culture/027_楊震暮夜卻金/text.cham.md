@@ -2,7 +2,7 @@
 id: 27
 title: 楊震暮夜卻金
 contributors:
-  - ref: A200
+  - ref: A102
     role: author
 date:
   dynasty: 晉

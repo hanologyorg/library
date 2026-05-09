@@ -2,7 +2,7 @@
 id: 13
 title: 大禹治水
 contributors:
-  - ref: A188
+  - ref: A102
     role: author
 date:
   dynasty: 先秦

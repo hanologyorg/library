@@ -2,7 +2,7 @@
 id: 10
 title: 閔子騫童年
 contributors:
-  - ref: A187
+  - ref: A102
     role: author
 date:
   dynasty: 漢

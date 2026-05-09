@@ -2,7 +2,7 @@
 id: 6
 title: 三字經（節錄）
 contributors:
-  - ref: A185
+  - ref: A168
     role: author
 date:
   dynasty: 宋

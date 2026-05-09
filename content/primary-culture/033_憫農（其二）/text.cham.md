@@ -2,7 +2,7 @@
 id: 33
 title: 憫農（其二）
 contributors:
-  - ref: A204
+  - ref: A029
     role: author
 date:
   dynasty: 唐

@@ -2,7 +2,7 @@
 id: 2
 title: 二子學弈
 contributors:
-  - ref: A182
+  - ref: A166
     role: author
 date:
   dynasty: 戰國

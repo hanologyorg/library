@@ -2,7 +2,7 @@
 id: 23
 title: 管寧割席
 contributors:
-  - ref: A197
+  - ref: A102
     role: author
 date:
   dynasty: 晉

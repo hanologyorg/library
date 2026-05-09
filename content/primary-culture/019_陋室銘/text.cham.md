@@ -2,7 +2,7 @@
 id: 19
 title: 陋室銘
 contributors:
-  - ref: A193
+  - ref: A027
     role: author
 date:
   dynasty: 唐

@@ -2,7 +2,7 @@
 id: 20
 title: 竹石
 contributors:
-  - ref: A194
+  - ref: A054
     role: author
 date:
   dynasty: 清

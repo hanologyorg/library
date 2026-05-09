@@ -2,7 +2,7 @@
 id: 5
 title: 程門立雪
 contributors:
-  - ref: A184
+  - ref: A102
     role: author
 date:
   dynasty: 元

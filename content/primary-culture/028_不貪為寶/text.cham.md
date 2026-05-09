@@ -2,7 +2,7 @@
 id: 28
 title: 不貪為寶
 contributors:
-  - ref: A201
+  - ref: A102
     role: author
 date:
   dynasty: 漢

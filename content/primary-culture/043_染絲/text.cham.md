@@ -2,7 +2,7 @@
 id: 43
 title: 染絲
 contributors:
-  - ref: A211
+  - ref: A173
     role: author
 date:
   dynasty: 漢

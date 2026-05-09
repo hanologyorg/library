@@ -2,7 +2,7 @@
 id: 37
 title: 清明
 contributors:
-  - ref: A206
+  - ref: A034
     role: author
 date:
   dynasty: 唐

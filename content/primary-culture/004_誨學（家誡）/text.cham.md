@@ -2,7 +2,7 @@
 id: 4
 title: 誨學（家誡）
 contributors:
-  - ref: A183
+  - ref: A167
     role: author
 date:
   dynasty: 宋

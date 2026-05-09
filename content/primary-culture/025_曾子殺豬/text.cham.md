@@ -2,7 +2,7 @@
 id: 25
 title: 曾子殺豬
 contributors:
-  - ref: A198
+  - ref: A102
     role: author
 date:
   dynasty: 漢

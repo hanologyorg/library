@@ -2,7 +2,7 @@
 id: 30
 title: 賦得古原草送別
 contributors:
-  - ref: A202
+  - ref: A028
     role: author
 date:
   dynasty: 唐

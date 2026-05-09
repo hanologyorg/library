@@ -2,7 +2,7 @@
 id: 16
 title: 己亥雜詩
 contributors:
-  - ref: A191
+  - ref: A141
     role: author
 date:
   dynasty: 清

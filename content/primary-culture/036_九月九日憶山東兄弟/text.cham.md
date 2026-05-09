@@ -2,7 +2,7 @@
 id: 36
 title: 九月九日憶山東兄弟
 contributors:
-  - ref: A205
+  - ref: A016
     role: author
 date:
   dynasty: 唐

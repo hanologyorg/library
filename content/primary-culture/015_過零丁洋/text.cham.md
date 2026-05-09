@@ -2,7 +2,7 @@
 id: 15
 title: 過零丁洋
 contributors:
-  - ref: A190
+  - ref: A049
     role: author
 date:
   dynasty: 宋

@@ -2,7 +2,7 @@
 id: 40
 title: 背影
 contributors:
-  - ref: A208
+  - ref: A172
     role: author
 date:
   dynasty: 民國
