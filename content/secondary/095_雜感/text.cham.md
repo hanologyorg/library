@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 清
+genre: poetry
 ---
 {1}仙{/1}佛茫茫兩未成，祇知獨夜不平鳴。
 

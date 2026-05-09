@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 元
+genre: poetry
 ---
 枯藤老樹{1}昏鴉{/1}，小橋流水人家，{2}古道{/2}西風瘦馬。夕陽西下，{3}斷腸人{/3}在天{4}涯{/4}！
 

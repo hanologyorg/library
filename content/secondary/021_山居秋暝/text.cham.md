@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 空山新雨後，天氣晚來秋。
 

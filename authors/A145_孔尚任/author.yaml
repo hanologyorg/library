@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:88981
+'@type': schema:Person
+ref: A145
+label: 孔尚任
+cprop:name-style: 季重
+cprop:born:
+  '@value': '1648'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1718'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q834579
+cprop:authority-viaf: '34488794'
+cprop:authority-cbdb: '65579'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AD%94%E5%B0%9A%E4%BB%BB
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Kong_Shangren
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

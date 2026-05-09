@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 漢
+genre: prose
 ---
 {1}蘇秦{/1}為{2}趙{/2}{3}合從{/3}，{4}說{/4}{5}楚威王{/5}曰︰「楚，天下之強國也。大
 

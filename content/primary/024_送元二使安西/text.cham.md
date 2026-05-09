@@ -31,9 +31,10 @@ genre: poetry
 
 {1} pron type:pinyin lang:cmn [wèi]
 
+{1} pron type:hom lang:yue [胃；wai6]
+
 {1} meaning [
-在渭水北岸。當時人們多在此送別從長安西行的人。渭：○粵[胃]，1
-[wai6]；。
+在渭水北岸。當時人們多在此送別從長安西行的人。
 ]
 
 {2} pron type:hom lang:yue [浥；jap1]

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 棄我去者昨日之日不可留，亂我心者今日之日多煩憂！
 

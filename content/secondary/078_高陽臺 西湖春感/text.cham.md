@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}接葉巢鶯{/2}，{3}平波卷絮{/3}，{4}斷橋{/4}斜日歸船。能幾番游？看花又是明
 

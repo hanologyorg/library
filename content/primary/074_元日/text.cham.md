@@ -35,4 +35,4 @@ genre: poetry
 
 {3} pron type:pinyin lang:cmn [tónɡ]
 
-{3} meaning [太陽初昇，由暗而漸漸明亮的樣子。曈：。]
+{3} meaning [太陽初昇，由暗而漸漸明亮的樣子。]

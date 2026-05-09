@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 元
+genre: poetry
 ---
 長天落綵霞，遠水{2}涵{/2}秋鏡。花如人面紅，山似{3}佛頭青{/3}。生色圍
 

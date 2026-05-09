@@ -1,0 +1,18 @@
+'@context': context.jsonld
+'@id': ctext:89862
+'@type': schema:Person
+ref: A161
+label: 劉義慶
+cprop:born:
+  '@value': '403'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '444'
+  '@type': xsd:gYear
+dynasty: 晉
+cprop:authority-wikidata: Q3256864
+cprop:authority-viaf: '108725848'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8A%89%E7%BE%A9%E6%85%B6
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

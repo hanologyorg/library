@@ -1,0 +1,17 @@
+'@context': context.jsonld
+'@id': ctext:185826
+'@type': schema:Person
+ref: C012
+label: 陸錫熊
+cprop:name-style: 健男
+cprop:born:
+  '@value': '1723'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1786'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q45490810
+cprop:authority-cbdb: '55816'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%99%86%E9%94%A1%E7%86%8A
+lib:has_raw_bio: true

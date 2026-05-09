@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': ctext:812155
+'@type': schema:Person
+ref: A055
+label: 高鼎
+cprop:name-style: 象一
+dynasty: 清
+cprop:authority-wikidata: Q45474854
+cprop:authority-cbdb: '87260'
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>孟子</text></docTitle>
+				<docAuthor><text></text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>封面</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_meng_zi" playOrder="2">
+						    <navLabel><text>孟子</text></navLabel>
+						    <content src="c0_meng_zi.xhtml" />
+					    </navPoint><navPoint id="c1_meng_zi_liang_hui_wang_shang" playOrder="3">
+									    <navLabel><text>梁惠王上</text></navLabel>
+									    <content src="c1_meng_zi_liang_hui_wang_shang.xhtml" /></navPoint><navPoint id="c2_meng_zi_liang_hui_wang_xia" playOrder="4">
+									    <navLabel><text>梁惠王下</text></navLabel>
+									    <content src="c2_meng_zi_liang_hui_wang_xia.xhtml" /></navPoint><navPoint id="c3_meng_zi_gong_sun_chou_shang" playOrder="5">
+									    <navLabel><text>公孫丑上</text></navLabel>
+									    <content src="c3_meng_zi_gong_sun_chou_shang.xhtml" /></navPoint><navPoint id="c4_meng_zi_gong_sun_chou_xia" playOrder="6">
+									    <navLabel><text>公孫丑下</text></navLabel>
+									    <content src="c4_meng_zi_gong_sun_chou_xia.xhtml" /></navPoint><navPoint id="c5_meng_zi_teng_wen_gong_shang" playOrder="7">
+									    <navLabel><text>滕文公上</text></navLabel>
+									    <content src="c5_meng_zi_teng_wen_gong_shang.xhtml" /></navPoint><navPoint id="c6_meng_zi_teng_wen_gong_xia" playOrder="8">
+									    <navLabel><text>滕文公下</text></navLabel>
+									    <content src="c6_meng_zi_teng_wen_gong_xia.xhtml" /></navPoint><navPoint id="c7_meng_zi_li_lou_shang" playOrder="9">
+									    <navLabel><text>離婁上</text></navLabel>
+									    <content src="c7_meng_zi_li_lou_shang.xhtml" /></navPoint><navPoint id="c8_meng_zi_li_lou_xia" playOrder="10">
+									    <navLabel><text>離婁下</text></navLabel>
+									    <content src="c8_meng_zi_li_lou_xia.xhtml" /></navPoint><navPoint id="c9_meng_zi_wan_zhang_shang" playOrder="11">
+									    <navLabel><text>萬章上</text></navLabel>
+									    <content src="c9_meng_zi_wan_zhang_shang.xhtml" /></navPoint><navPoint id="c10_meng_zi_wan_zhang_xia" playOrder="12">
+									    <navLabel><text>萬章下</text></navLabel>
+									    <content src="c10_meng_zi_wan_zhang_xia.xhtml" /></navPoint><navPoint id="c11_meng_zi_gao_zi_shang" playOrder="13">
+									    <navLabel><text>告子上</text></navLabel>
+									    <content src="c11_meng_zi_gao_zi_shang.xhtml" /></navPoint><navPoint id="c12_meng_zi_gao_zi_xia" playOrder="14">
+									    <navLabel><text>告子下</text></navLabel>
+									    <content src="c12_meng_zi_gao_zi_xia.xhtml" /></navPoint><navPoint id="c13_meng_zi_jin_xin_shang" playOrder="15">
+									    <navLabel><text>盡心上</text></navLabel>
+									    <content src="c13_meng_zi_jin_xin_shang.xhtml" /></navPoint><navPoint id="c14_meng_zi_jin_xin_xia" playOrder="16">
+									    <navLabel><text>盡心下</text></navLabel>
+									    <content src="c14_meng_zi_jin_xin_xia.xhtml" /></navPoint><navPoint id="c15_meng_zi_quan_lan" playOrder="17">
+									    <navLabel><text>全覽</text></navLabel>
+									    <content src="c15_meng_zi_quan_lan.xhtml" /></navPoint><navPoint id="about" playOrder="18">
+						<navLabel>
+							<text>关于</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>

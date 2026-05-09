@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 【耍孩兒】不是我竇娥罰下這等{1}無頭願{/1}，委實的冤情不淺；若沒些
 

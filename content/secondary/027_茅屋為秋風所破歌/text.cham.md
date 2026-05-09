@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 八月秋高風怒號，卷我屋上三重茅。
 

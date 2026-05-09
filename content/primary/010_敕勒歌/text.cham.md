@@ -22,7 +22,7 @@ genre: poetry
 
 {1} pron type:pinyin lang:cmn [chì]
 
-{1} meaning [少數民族族名，北朝時居朔州（今山西省北境）一帶。敕：。]
+{1} meaning [少數民族族名，北朝時居朔州（今山西省北境）一帶。]
 
 {2} meaning [平原。]
 

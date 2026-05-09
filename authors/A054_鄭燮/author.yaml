@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:820646
+'@type': schema:Person
+ref: A054
+label: 鄭燮
+cprop:name-style: 板橋
+cprop:born:
+  '@value': '1693'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1766'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q712007
+cprop:authority-viaf: '51797489'
+cprop:authority-cbdb: '65888'
+cprop:authority-ddbc: '40039'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%83%91%E7%87%AE
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zheng_Xie
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

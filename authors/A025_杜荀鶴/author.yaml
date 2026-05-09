@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:918746
+'@type': schema:Person
+ref: A025
+label: 杜荀鶴
+cprop:born:
+  '@value': '846'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '904'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q712788
+cprop:authority-viaf: '55483002'
+cprop:authority-cbdb: '34916'
+cprop:authority-ddbc: '7195'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%9C%E8%8D%80%E9%B9%A4
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Du_Xunhe
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md

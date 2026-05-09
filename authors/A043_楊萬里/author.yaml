@@ -1,0 +1,25 @@
+'@context': context.jsonld
+'@id': ctext:553062
+'@type': schema:Person
+ref: A043
+label: 楊萬里
+cprop:name-style: 廷秀
+cprop:born:
+  '@value': '1127'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1206'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q2900054
+cprop:authority-viaf: '64258218'
+cprop:authority-cbdb: '10566'
+cprop:authority-ddbc: '19461'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%A5%8A%E8%90%AC%E9%87%8C_(%E5%8D%97%E5%AE%8B)
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yang_Wanli
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興-1.md
+- publication: 積累與感興
+  file: brief-積累與感興-2.md
+lib:has_raw_bio: true

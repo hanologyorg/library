@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: prose
 ---
 {1}天尊地卑{/1}，{2}乾坤定矣{/2}。{3}卑高以陳{/3}，{4}貴賤位矣{/4}。動靜有
 

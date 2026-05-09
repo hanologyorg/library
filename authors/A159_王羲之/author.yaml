@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:634075
+'@type': schema:Person
+ref: A159
+label: 王羲之
+cprop:name-style: 逸少
+cprop:born:
+  '@value': '303'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '361'
+  '@type': xsd:gYear
+dynasty: 晉
+cprop:authority-wikidata: Q378564
+cprop:authority-viaf: '108705028'
+cprop:authority-cbdb: '25793'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BE%B2%E4%B9%8B
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wang_Xizhi
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

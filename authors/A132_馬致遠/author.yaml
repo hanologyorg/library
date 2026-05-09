@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:7754932
+'@type': schema:Person
+ref: A132
+label: 馬致遠
+cprop:born:
+  '@value': '1270'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1330'
+  '@type': xsd:gYear
+dynasty: 元
+cprop:authority-wikidata: Q2634921
+cprop:authority-viaf: '2147483647'
+cprop:authority-cbdb: '106103'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%87%B4%E8%BF%9C
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Ma_Zhiyuan
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md

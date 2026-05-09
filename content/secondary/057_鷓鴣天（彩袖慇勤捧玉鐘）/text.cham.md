@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}彩袖{/2}殷勤捧玉鍾，當年{3}拚卻{/3}醉顏紅。舞低楊柳{4}樓心{/4}月，歌盡桃
 

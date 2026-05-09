@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}寒蟬{/1}淒切，對{2}長亭{/2}晚，驟雨初歇。{3}都門{/3}{4}帳飲{/4}{5}無緒{/5}，留戀
 

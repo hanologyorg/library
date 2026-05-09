@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 清
+genre: poetry
 ---
 不惜千金買寶刀，
 

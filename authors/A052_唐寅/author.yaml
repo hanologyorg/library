@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:188559
+'@type': schema:Person
+ref: A052
+label: 唐寅
+cprop:name-style: 伯虎
+cprop:born:
+  '@value': '1470'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1524'
+  '@type': xsd:gYear
+dynasty: 明
+cprop:authority-wikidata: Q2248916
+cprop:authority-viaf: '49291826'
+cprop:authority-cbdb: '34868'
+cprop:authority-ddbc: '18140'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%94%90%E5%AF%85
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Tang_Yin
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

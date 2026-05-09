@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': ctext:749569
+'@type': schema:Person
+ref: A104
+label: 陳琳
+dynasty: 漢
+cprop:authority-wikidata: Q45621565
+cprop:authority-cbdb: '47526'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%99%88%E7%90%B3_(%E7%94%BB%E5%AE%B6)
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Chen_Lin_(painter)
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

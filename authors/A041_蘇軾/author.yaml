@@ -1,0 +1,37 @@
+'@context': context.jsonld
+'@id': ctext:291374
+'@type': schema:Person
+ref: A041
+label: 蘇軾
+cprop:name-style: 子瞻
+cprop:born:
+  '@value': '1037'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1101'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q36020
+cprop:authority-viaf: '96591338'
+cprop:authority-cbdb: '3767'
+cprop:authority-ddbc: '3555'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%BD%BC
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Su_Shi
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興-1.md
+- publication: 積累與感興
+  file: brief-積累與感興-2.md
+- publication: 積累與感興
+  file: brief-積累與感興-3.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-3.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-4.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-5.md
+lib:has_raw_bio: true

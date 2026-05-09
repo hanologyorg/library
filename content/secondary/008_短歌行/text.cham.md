@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 漢末
+genre: poetry
 ---
 對酒{1}當{/1}歌，人生幾何？譬如{2}朝露{/2}，{3}去日苦多{/3}。
 

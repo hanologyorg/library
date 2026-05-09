@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}紅酥手{/1}，{2}黃縢酒{/2}，滿城春色{3}宮牆{/3}柳。東風惡，歡情薄。一懷愁
 

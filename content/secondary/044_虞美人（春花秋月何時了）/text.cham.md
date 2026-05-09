@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 五代
+genre: poetry
 ---
 春花秋月何時了？往事知多少！小樓昨夜又東風，{1}故國{/1}不堪回
 

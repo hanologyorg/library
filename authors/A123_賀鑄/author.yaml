@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': ctext:472443
+'@type': schema:Person
+ref: A123
+label: 賀鑄
+cprop:name-style: 方回
+dynasty: 宋
+cprop:authority-wikidata: Q45388103
+cprop:authority-cbdb: '18063'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B4%BA%E9%93%B8
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

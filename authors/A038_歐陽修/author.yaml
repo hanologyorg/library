@@ -1,0 +1,30 @@
+'@context': context.jsonld
+'@id': ctext:999546
+'@type': schema:Person
+ref: A038
+label: 歐陽修
+alt_names:
+- 歐陽脩
+- 醉翁
+- 六一居士
+cprop:name-style: 永叔
+cprop:born:
+  '@value': '1007'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q334323
+cprop:authority-viaf: '49234516'
+cprop:authority-cbdb: '1384'
+cprop:authority-ddbc: '9432'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E4%BF%AE
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Ouyang_Xiu
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-3.md
+lib:has_raw_bio: true

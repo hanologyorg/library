@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 元
+genre: poetry
 ---
 自別後遙山{1}隱隱{/1}，更那堪遠水{2}粼粼{/2}。見楊柳飛綿滾滾，對桃花醉臉醺
 

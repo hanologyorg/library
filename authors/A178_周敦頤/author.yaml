@@ -1,0 +1,26 @@
+'@context': context.jsonld
+'@id': ctext:154408
+'@type': schema:Person
+ref: A178
+label: 周敦頤
+alt_names:
+- 周惇頤
+- 周子
+cprop:name-style: 茂叔
+cprop:born:
+  '@value': '1017'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1073'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q197962
+cprop:authority-viaf: '95171875'
+cprop:authority-cbdb: '504'
+cprop:authority-ddbc: '6823'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%91%A8%E6%95%A6%E9%A2%90
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhou_Dunyi
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

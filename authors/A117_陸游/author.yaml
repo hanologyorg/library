@@ -1,0 +1,24 @@
+'@context': context.jsonld
+'@id': ctext:250250
+'@type': schema:Person
+ref: A117
+label: 陸游
+cprop:name-style: 務觀
+cprop:born:
+  '@value': '1125'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1210'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q1069914
+cprop:authority-viaf: '32235876'
+cprop:authority-cbdb: '3640'
+cprop:authority-ddbc: '8955'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%99%B8%E6%B8%B8
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Lu_You
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md

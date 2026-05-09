@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}癡兒{/2}了卻公家事，{1}快閣{/1}東西{3}倚晚晴{/3}。
 

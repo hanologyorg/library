@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 周
+genre: prose
 ---
 {1}吾生也有涯{/1}，而{2}知{/2}也無涯；以有涯隨無涯，{3}殆{/3}已！已而為知
 

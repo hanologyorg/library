@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 清
+genre: poetry
 ---
 辛苦最憐天上月。{2}一昔如環{/2}，{3}昔昔都成玦{/3}。若似月輪終皎潔，
 

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 北風捲地{2}白草{/2}折，胡天八月即飛雪。
 

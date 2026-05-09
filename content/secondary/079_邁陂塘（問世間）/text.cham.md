@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}乙丑歲{/2}赴試{3}幷州{/3}，道逢捕雁者云，今旦獲一雁，殺之矣。其脫網者悲鳴
 

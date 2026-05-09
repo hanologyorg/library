@@ -1,0 +1,23 @@
+# Book config for 河上公章句 (He Shang Gong commentary on Laozi)
+# Used by: ruby fetch_ctext.rb --book heshanggong --config configs/heshanggong.yaml
+
+title_zh: 老子河上公章句
+title_en: Laozi with He Shang Gong Commentary
+
+contributors:
+  - ref: Laozi
+    role: author
+
+date:
+  dynasty: 漢
+  circa: true
+
+layers:
+  - id: heshanggong
+    label: 河上公註
+    shortLabel: 河
+    annotator: 河上公
+    contributor: C002
+    role: commentator
+    nature: commentary
+    displayOrder: 1

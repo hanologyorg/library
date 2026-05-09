@@ -2,7 +2,7 @@
 id: 109
 title: 勸學（節錄）
 contributors:
-  - ref: A171
+  - ref: A199
     role: author
 date:
   dynasty: 戰國

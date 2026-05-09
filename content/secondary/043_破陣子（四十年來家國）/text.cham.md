@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 五代
+genre: poetry
 ---
 {1}四十年來家國{/1}，{2}三千里地山河{/2}。{3}鳳閣龍樓{/3}{4}連霄漢{/4}，{5}玉樹瓊枝{/5}
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://zh.wikisource.org/wiki/%E8%87%A3%E8%BB%8C" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>臣軌</text></docTitle>
+				<docAuthor><text></text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>封面</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_chen_gui" playOrder="2">
+						    <navLabel><text>臣軌</text></navLabel>
+						    <content src="c0_chen_gui.xhtml" />
+					    </navPoint><navPoint id="about" playOrder="3">
+						<navLabel>
+							<text>关于</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>

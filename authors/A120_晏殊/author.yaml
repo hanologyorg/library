@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:941095
+'@type': schema:Person
+ref: A120
+label: 晏殊
+cprop:name-style: 同叔
+cprop:born:
+  '@value': '991'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1055'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q11089447
+cprop:authority-viaf: '29797249'
+cprop:authority-cbdb: '2073'
+cprop:authority-ddbc: '18746'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%99%8F%E6%AE%8A
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yan_Shu
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

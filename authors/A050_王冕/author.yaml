@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': ctext:557573
+'@type': schema:Person
+ref: A050
+label: 王冕
+cprop:name-style: 服周
+dynasty: 元
+cprop:authority-wikidata: Q45579038
+cprop:authority-cbdb: '67901'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%86%95_(%E6%AD%A3%E5%BE%B7%E9%80%B2%E5%A3%AB)
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md

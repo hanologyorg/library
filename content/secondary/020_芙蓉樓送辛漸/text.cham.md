@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 寒雨連江夜{1}入吳{/1}，
 

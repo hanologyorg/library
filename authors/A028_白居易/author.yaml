@@ -1,0 +1,26 @@
+'@context': context.jsonld
+'@id': ctext:85307
+'@type': schema:Person
+ref: A028
+label: 白居易
+cprop:name-style: 樂天
+cprop:born:
+  '@value': '772'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '846'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q313324
+cprop:authority-viaf: '17241292'
+cprop:authority-cbdb: '32227'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%99%BD%E5%B1%85%E6%98%93
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Bai_Juyi
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+lib:has_raw_bio: true

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 紅藕香殘{1}玉簟{/1}秋。輕解{2}羅裳{/2}，獨上{3}蘭舟{/3}。雲中誰寄{4}錦書{/4}來？
 

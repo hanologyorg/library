@@ -42,7 +42,7 @@ genre: poetry
 
 {6} pron type:hom lang:yue [泗；si3]
 
-{6} meaning [深藏的心事。思：。]
+{6} meaning [深藏的心事。]
 
 {7} meaning [相傳他是上古發明釀酒的人。這裏用作酒的代稱。]
 
@@ -64,7 +64,7 @@ genre: poetry
 
 {13} pron type:pinyin lang:cmn [yōu]
 
-{13} meaning [鹿鳴聲。呦：。]
+{13} meaning [鹿鳴聲。]
 
 {14} meaning [植物名，即艾蒿。]
 

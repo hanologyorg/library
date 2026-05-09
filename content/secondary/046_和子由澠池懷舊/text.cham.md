@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 人生到處知何似？應似飛{3}鴻{/3}踏雪泥。
 

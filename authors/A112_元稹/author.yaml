@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:554568
+'@type': schema:Person
+ref: A112
+label: 元稹
+cprop:name-style: 微之
+cprop:born:
+  '@value': '779'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '831'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q468709
+cprop:authority-viaf: '37712715'
+cprop:authority-cbdb: '32248'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%83%E7%A8%B9
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yuan_Zhen
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

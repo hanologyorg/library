@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:730865
+'@type': schema:Person
+ref: A011
+label: 賀知章
+cprop:born:
+  '@value': '659'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '744'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q1268388
+cprop:authority-viaf: '53163149'
+cprop:authority-cbdb: '15353'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B4%BA%E7%9F%A5%E7%AB%A0
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/He_Zhizhang
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興-1.md
+- publication: 積累與感興
+  file: brief-積累與感興-2.md
+lib:has_raw_bio: true

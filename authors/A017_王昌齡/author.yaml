@@ -1,0 +1,14 @@
+'@context': context.jsonld
+'@id': ctext:4276498
+'@type': schema:Person
+ref: A017
+label: 王昌齡
+dynasty: 唐
+cprop:authority-wikidata: Q45678205
+cprop:authority-cbdb: '101253'
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

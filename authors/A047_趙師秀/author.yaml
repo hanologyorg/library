@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:864476
+'@type': schema:Person
+ref: A047
+label: 趙師秀
+cprop:name-style: 紫芝
+cprop:born:
+  '@value': '1170'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q10540240
+cprop:authority-viaf: '38200774'
+cprop:authority-cbdb: '14993'
+cprop:authority-ddbc: '19293'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%B8%88%E7%A7%80
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:470957
+'@type': schema:Person
+ref: A168
+label: 王應麟
+cprop:name-style: 伯厚
+cprop:born:
+  '@value': '1223'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1296'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q5365469
+cprop:authority-viaf: '54950915'
+cprop:authority-cbdb: '19880'
+cprop:authority-ddbc: '18840'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%87%89%E9%BA%9F
+lib:has_raw_bio: true

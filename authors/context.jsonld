@@ -1,0 +1,17 @@
+{
+  "@context": {
+    "@vocab": "https://library.cham.zone/vocab/",
+    "ctext": "https://data.ctext.org/entity/",
+    "cprop": "https://data.ctext.org/property/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "schema": "https://schema.org/",
+    "lib": "https://library.cham.zone/vocab/",
+    "label": "rdfs:label",
+    "ref": "lib:ref",
+    "dynasty": "lib:dynasty",
+    "alt_names": "lib:altNames",
+    "courtesy_name": "lib:courtesyName",
+    "bio_sources": "lib:bioSources"
+  }
+}

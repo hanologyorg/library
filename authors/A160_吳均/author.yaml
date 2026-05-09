@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:143395
+'@type': schema:Person
+ref: A160
+label: 吳均
+cprop:born:
+  '@value': '469'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '520'
+  '@type': xsd:gYear
+dynasty: 南北朝
+cprop:authority-wikidata: Q10919366
+cprop:authority-viaf: '53230513'
+cprop:authority-cbdb: '439100'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%B4%E5%9D%87
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

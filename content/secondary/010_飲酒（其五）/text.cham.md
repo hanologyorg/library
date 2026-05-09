@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 晉
+genre: poetry
 ---
 {1}結廬{/1}在{2}人境{/2}，而無{3}車馬喧{/3}。
 

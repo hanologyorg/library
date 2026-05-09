@@ -1,0 +1,12 @@
+'@context': context.jsonld
+'@id': ctext:577989
+'@type': schema:Person
+ref: A149
+label: 老子
+dynasty: 周
+cprop:authority-wikidata: Q9333
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%80%81%E5%AD%90
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Laozi
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

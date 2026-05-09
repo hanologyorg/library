@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 元
+genre: poetry
 ---
 風驅急雨灑高城，
 

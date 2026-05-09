@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 去年{1}元夜{/1}時，{2}花市{/2}燈如晝。月上柳梢頭，人約黃昏後。今
 

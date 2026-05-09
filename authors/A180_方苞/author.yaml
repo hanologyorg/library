@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:680801
+'@type': schema:Person
+ref: A180
+label: 方苞
+cprop:name-style: 靈皋
+cprop:born:
+  '@value': '1668'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1749'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q11084989
+cprop:authority-viaf: '60480868'
+cprop:authority-cbdb: '34138'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%96%B9%E8%8B%9E
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Fang_Bao
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

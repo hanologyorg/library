@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:54373
+'@type': schema:Person
+ref: A122
+label: 秦觀
+cprop:name-style: 少游
+cprop:born:
+  '@value': '1049'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1100'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q832770
+cprop:authority-viaf: '6246098'
+cprop:authority-cbdb: '3043'
+cprop:authority-ddbc: '3973'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%A7%A6%E8%A7%82
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Qin_Guan
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

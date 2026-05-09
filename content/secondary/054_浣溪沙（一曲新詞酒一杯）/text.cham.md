@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 一曲新詞酒一杯，去年天氣舊亭臺。夕陽西下幾時迴？無可
 

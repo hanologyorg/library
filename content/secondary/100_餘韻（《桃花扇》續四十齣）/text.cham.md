@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 清
+genre: poetry
 ---
 【{2}秣陵秋{/2}】{3}陳隋{/3}烟月恨茫茫，井帶胭脂土帶香。{4}駘蕩{/4}柳綿沾客
 

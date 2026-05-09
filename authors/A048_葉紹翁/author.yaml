@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:420955
+'@type': schema:Person
+ref: A048
+label: 葉紹翁
+cprop:born:
+  '@value': '1100'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1151'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q10916434
+cprop:authority-viaf: '36774575'
+cprop:authority-cbdb: '22701'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8F%B6%E7%BB%8D%E7%BF%81
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Ye_Shaoweng
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

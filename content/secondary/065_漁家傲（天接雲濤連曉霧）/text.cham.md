@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 天接雲濤連曉霧，{1}星河{/1}欲轉千帆舞。彷彿夢魂歸{2}帝所{/2}，聞天語，
 

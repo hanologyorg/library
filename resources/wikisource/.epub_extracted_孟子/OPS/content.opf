@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="zh" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90</dc:identifier>
+				    <meta property="dcterms:modified">2026-05-08T11:44:11Z</meta>
+				    <dc:language>zh</dc:language>
+				    <dc:title id="meta-title">孟子</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Wikisource-logo.svg.png" href="images/Wikisource-logo.svg.png" media-type="image/png" /><item id="c0_meng_zi" href="c0_meng_zi.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_meng_zi_liang_hui_wang_shang" href="c1_meng_zi_liang_hui_wang_shang.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_meng_zi_liang_hui_wang_xia" href="c2_meng_zi_liang_hui_wang_xia.xhtml" media-type="application/xhtml+xml" />
+<item id="c3_meng_zi_gong_sun_chou_shang" href="c3_meng_zi_gong_sun_chou_shang.xhtml" media-type="application/xhtml+xml" />
+<item id="c4_meng_zi_gong_sun_chou_xia" href="c4_meng_zi_gong_sun_chou_xia.xhtml" media-type="application/xhtml+xml" />
+<item id="c5_meng_zi_teng_wen_gong_shang" href="c5_meng_zi_teng_wen_gong_shang.xhtml" media-type="application/xhtml+xml" />
+<item id="c6_meng_zi_teng_wen_gong_xia" href="c6_meng_zi_teng_wen_gong_xia.xhtml" media-type="application/xhtml+xml" />
+<item id="c7_meng_zi_li_lou_shang" href="c7_meng_zi_li_lou_shang.xhtml" media-type="application/xhtml+xml" />
+<item id="c8_meng_zi_li_lou_xia" href="c8_meng_zi_li_lou_xia.xhtml" media-type="application/xhtml+xml" />
+<item id="c9_meng_zi_wan_zhang_shang" href="c9_meng_zi_wan_zhang_shang.xhtml" media-type="application/xhtml+xml" />
+<item id="c10_meng_zi_wan_zhang_xia" href="c10_meng_zi_wan_zhang_xia.xhtml" media-type="application/xhtml+xml" />
+<item id="c11_meng_zi_gao_zi_shang" href="c11_meng_zi_gao_zi_shang.xhtml" media-type="application/xhtml+xml" />
+<item id="c12_meng_zi_gao_zi_xia" href="c12_meng_zi_gao_zi_xia.xhtml" media-type="application/xhtml+xml" />
+<item id="c13_meng_zi_jin_xin_shang" href="c13_meng_zi_jin_xin_shang.xhtml" media-type="application/xhtml+xml" />
+<item id="c14_meng_zi_jin_xin_xia" href="c14_meng_zi_jin_xin_xia.xhtml" media-type="application/xhtml+xml" />
+<item id="c15_meng_zi_quan_lan" href="c15_meng_zi_quan_lan.xhtml" media-type="application/xhtml+xml" />
+<item id="c16_g_20px_Wikimedia_logo.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c16_g_20px_Wikimedia_logo.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="c17_f_Old___Meng_Ke__meng_ke_.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c17_f_Old___Meng_Ke__meng_ke_.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c18_icon.svg_60px_PD_icon.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c18_icon.svg_60px_PD_icon.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_meng_zi" linear="yes" /><itemref idref="c1_meng_zi_liang_hui_wang_shang" linear="yes" /><itemref idref="c2_meng_zi_liang_hui_wang_xia" linear="yes" /><itemref idref="c3_meng_zi_gong_sun_chou_shang" linear="yes" /><itemref idref="c4_meng_zi_gong_sun_chou_xia" linear="yes" /><itemref idref="c5_meng_zi_teng_wen_gong_shang" linear="yes" /><itemref idref="c6_meng_zi_teng_wen_gong_xia" linear="yes" /><itemref idref="c7_meng_zi_li_lou_shang" linear="yes" /><itemref idref="c8_meng_zi_li_lou_xia" linear="yes" /><itemref idref="c9_meng_zi_wan_zhang_shang" linear="yes" /><itemref idref="c10_meng_zi_wan_zhang_xia" linear="yes" /><itemref idref="c11_meng_zi_gao_zi_shang" linear="yes" /><itemref idref="c12_meng_zi_gao_zi_xia" linear="yes" /><itemref idref="c13_meng_zi_jin_xin_shang" linear="yes" /><itemref idref="c14_meng_zi_jin_xin_xia" linear="yes" /><itemref idref="c15_meng_zi_quan_lan" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>

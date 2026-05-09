@@ -2,10 +2,11 @@
 id: 4
 title: 古詩十九首（選二）
 contributors:
-  - ref: A167
+  - ref: A003
     role: author
 date:
   dynasty: 漢
+genre: poetry
 ---
 {1}行行重行行{/1}，與君{2}生別離{/2}。
 

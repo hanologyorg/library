@@ -2,7 +2,7 @@
 id: 105
 title: 魚我所欲也
 contributors:
-  - ref: A170
+  - ref: A166
     role: author
 date:
   dynasty: 戰國

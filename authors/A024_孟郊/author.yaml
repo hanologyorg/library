@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:378414
+'@type': schema:Person
+ref: A024
+label: 孟郊
+cprop:name-style: 東野
+cprop:born:
+  '@value': '751'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '814'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q1175924
+cprop:authority-viaf: '111825217'
+cprop:authority-cbdb: '93952'
+cprop:authority-ddbc: '18517'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AD%9F%E9%83%8A
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Meng_Jiao
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

@@ -21,13 +21,17 @@ genre: prose
 
 {2} pron type:hom lang:yue [最；zeoi3]
 {2} pron type:pinyin lang:cmn [zhuì]
-{2} meaning [恒：恆常、經常。惴：恐懼。慄：戰慄。○粵[律]，[leot6]；○普[lì]。]
+{2} pron type:hom lang:yue [律；leot6]
+{2} pron type:pinyin lang:cmn [lì]
+{2} meaning [恒：恆常、經常。惴：恐懼。慄：戰慄]
 
 {3} meaning [隙：空隙，指閒暇的時間。]
 
 {4} pron type:hom lang:yue [詩；si1]
 {4} pron type:pinyin lang:cmn [shī]
-{4} meaning [施施：徐徐地行走的樣子。或解作喜悅自得的樣子。○粵[移]，[ji4]；○普[yí]。]
+{4} pron type:hom lang:yue [移；ji4]
+{4} pron type:pinyin lang:cmn [yí]
+{4} meaning [施施：徐徐地行走的樣子。或解作喜悅自得的樣子]
 
 {5} meaning [漫漫：隨意、無拘無束的樣子。]
 
@@ -74,14 +78,18 @@ genre: prose
 {23} meaning [衽席：座席。衽：席子。]
 
 {24} pron type:hom lang:yue [蝦；haa1]
-{24} pron type:pinyin lang:cmn [xiɑ̄]
-{24} meaning [岈然窪然，若垤若穴：岈：山谷深邃；一說指山勢高峻的樣子。窪：一作「洼」，低凹。若垤若穴：這是指俯視四周，高山像一個一個小土堆，山谷恍如局促的蟻穴。垤：蟻窩外沿堆積之浮土。○粵[秩]，[dit6]；○普[dié]。]
+{24} pron type:pinyin lang:cmn [xiā]
+{24} pron type:hom lang:yue [秩；dit6]
+{24} pron type:pinyin lang:cmn [dié]
+{24} meaning [岈然窪然，若垤若穴：岈：山谷深邃；一說指山勢高峻的樣子。窪：一作「洼」，低凹。若垤若穴：這是指俯視四周，高山像一個一個小土堆，山谷恍如局促的蟻穴。垤：蟻窩外沿堆積之浮土]
 
 {25} meaning [尺寸千里：眼前尺寸之間的距離，實際上相隔千里之遙。]
 
 {26} pron type:hom lang:yue [全；cyun4]
-{26} pron type:pinyin lang:cmn [cuɑ́n]
-{26} meaning [攢蹙累積：形容山勢之緊迫聚集，層疊累積。攢：聚集。蹙：緊迫。○粵[速]，[cuk1]；○普[cù]。累：堆疊。積：積聚。]
+{26} pron type:pinyin lang:cmn [cuán]
+{26} pron type:hom lang:yue [速；cuk1]
+{26} pron type:pinyin lang:cmn [cù]
+{26} meaning [攢蹙累積：形容山勢之緊迫聚集，層疊累積。攢：聚集。蹙：緊迫。。累：堆疊。積：積聚]
 
 {27} meaning [莫得遯隱：無法隱藏。遯：通「遁」。]
 
@@ -101,7 +109,7 @@ genre: prose
 {34} meaning [窮：盡頭處。]
 
 {35} pron type:hom lang:yue [雙；soeng1]
-{35} pron type:pinyin lang:cmn [shɑ̄nɡ]
+{35} pron type:pinyin lang:cmn [shāng]
 {35} meaning [引觴滿酌：拿起酒器斟滿酒。引：取、拿起。觴：酒器。酌：斟酒。]
 
 {36} meaning [頹然：萎靡。這裏形容作者站不穩、醉醺醺的樣子。]
@@ -113,7 +121,7 @@ genre: prose
 {39} meaning [萬化：萬物，這裏指大自然。]
 
 {40} pron type:hom lang:yue [名；ming4]
-{40} pron type:pinyin lang:cmn [mínɡ]
+{40} pron type:pinyin lang:cmn [míng]
 {40} meaning [冥合：相互契合。冥：暗合。]
 
 {41} meaning [嚮：通「向」，從前、過往。]

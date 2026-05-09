@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:383253
+'@type': schema:Person
+ref: A014
+label: 王之渙
+cprop:born:
+  '@value': '688'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '742'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q707247
+cprop:authority-viaf: '65847913'
+cprop:authority-cbdb: '91975'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E4%B9%8B%E6%B6%A3
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wang_Zhihuan
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

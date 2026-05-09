@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:615413
+'@type': schema:Person
+ref: A116
+label: 黃庭堅
+cprop:name-style: 魯直
+cprop:born:
+  '@value': '1045'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1105'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q709460
+cprop:authority-viaf: '37708306'
+cprop:authority-cbdb: '7111'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%BB%83%E5%BA%AD%E5%A0%85
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Huang_Tingjian
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

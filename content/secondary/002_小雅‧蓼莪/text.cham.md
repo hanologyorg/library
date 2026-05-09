@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 周
+genre: poetry
 ---
 {2}蓼蓼{/2}者莪？匪莪伊蒿。哀哀父母，生我{3}劬勞{/3}！
 

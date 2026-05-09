@@ -1,0 +1,15 @@
+'@context': context.jsonld
+'@id': ctext:6676825
+'@type': schema:Person
+ref: A013
+label: 王翰
+cprop:born:
+  '@value': '1428'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q18118851
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BF%B0_(%E5%A4%A9%E9%A0%86%E9%80%B2%E5%A3%AB)
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

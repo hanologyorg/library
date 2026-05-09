@@ -1,0 +1,15 @@
+'@context': context.jsonld
+'@id': ctext:543714
+'@type': schema:Person
+ref: A125
+label: 李清照
+dynasty: 宋
+cprop:authority-wikidata: Q45393048
+cprop:authority-cbdb: '19713'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B8%85%E7%85%A7
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Li_Qingzhao
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md

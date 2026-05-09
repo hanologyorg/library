@@ -1,0 +1,9 @@
+'@context': context.jsonld
+'@id': ctext:627028
+'@type': schema:CreativeWork
+ref: A146
+label: 《周易》
+dynasty: 周
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

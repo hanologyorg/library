@@ -1,0 +1,10 @@
+'@context': context.jsonld
+'@id': ctext:6298100
+'@type': schema:Person
+ref: A129
+label: 張炎
+cprop:name-style: 汝玉
+dynasty: 宋
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

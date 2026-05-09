@@ -26,7 +26,7 @@ genre: poetry
 
 {1} pron type:pinyin lang:cmn [lí]
 
-{1} meaning [即黃鶯，黃羽紅嘴，鳴聲婉轉動聽。鸝：。]
+{1} meaning [即黃鶯，黃羽紅嘴，鳴聲婉轉動聽。]
 
 {2} meaning [翠綠的柳枝。]
 

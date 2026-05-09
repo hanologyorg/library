@@ -2,7 +2,7 @@
 id: 113
 title: 大學（節錄）
 contributors:
-  - ref: A173
+  - ref: A153
     role: author
 date:
   dynasty: 戰國

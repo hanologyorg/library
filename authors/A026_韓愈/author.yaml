@@ -1,0 +1,26 @@
+'@context': context.jsonld
+'@id': ctext:821445
+'@type': schema:Person
+ref: A026
+label: 韓愈
+cprop:name-style: 退之
+cprop:born:
+  '@value': '768'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '824'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q318998
+cprop:authority-viaf: '108180753'
+cprop:authority-cbdb: '3332'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%9F%A9%E6%84%88
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Han_Yu
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+lib:has_raw_bio: true

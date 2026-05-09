@@ -1,0 +1,24 @@
+'@context': context.jsonld
+'@id': ctext:984814
+'@type': schema:Person
+ref: A119
+label: 范仲淹
+cprop:name-style: 希文
+cprop:born:
+  '@value': '989'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1052'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q381822
+cprop:authority-viaf: '23455320'
+cprop:authority-cbdb: '8043'
+cprop:authority-ddbc: '4867'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%8C%83%E4%BB%B2%E6%B7%B9
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Fan_Zhongyan
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md

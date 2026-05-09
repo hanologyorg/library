@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:756248
+'@type': schema:Person
+ref: A147
+label: 左丘明
+cprop:born:
+  '@value': '-556'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '-451'
+  '@type': xsd:gYear
+dynasty: 漢
+cprop:authority-wikidata: Q230192
+cprop:authority-viaf: '301561824'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B7%A6%E4%B8%98%E6%98%8E
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zuo_Qiuming
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

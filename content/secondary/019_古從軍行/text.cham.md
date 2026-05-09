@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 白日登山望{1}烽火{/1}，黄昏{2}飲馬{/2}傍{3}交河{/3}。
 

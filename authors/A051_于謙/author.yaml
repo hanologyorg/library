@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:795324
+'@type': schema:Person
+ref: A051
+label: 于謙
+cprop:name-style: 廷益
+cprop:born:
+  '@value': '1398'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1457'
+  '@type': xsd:gYear
+dynasty: 明
+cprop:authority-wikidata: Q706876
+cprop:authority-viaf: '72233824'
+cprop:authority-cbdb: '34504'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BA%8E%E8%B0%A6
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yu_Qian
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

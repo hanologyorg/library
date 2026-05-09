@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}驛{/1}外斷橋邊，寂寞開無主。已是黃昏獨自愁，更{2}著{/2}風和雨。
 

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 {2}漢皇{/2}重色思傾國，{3}御宇{/3}多年求不得。{4}楊家有女{/4}初長成，養在深
 

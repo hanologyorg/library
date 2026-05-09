@@ -1,0 +1,25 @@
+'@context': context.jsonld
+'@id': ctext:524983
+'@type': schema:Person
+ref: A165
+label: 顧炎武
+alt_names:
+- 顧亭林
+- 顧絳
+cprop:name-style: 寧人
+cprop:born:
+  '@value': '1613'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1682'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q1195906
+cprop:authority-viaf: '20481207'
+cprop:authority-cbdb: '34252'
+cprop:authority-ddbc: '21060'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%A1%BE%E7%82%8E%E6%AD%A6
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Gu_Yanwu
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

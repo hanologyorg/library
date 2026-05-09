@@ -1,0 +1,7 @@
+'@context': context.jsonld
+'@id': null
+'@type': schema:Person
+ref: C002
+label: 河上公
+dynasty: 漢
+lib:has_raw_bio: true

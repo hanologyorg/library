@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:154187
+'@type': schema:Person
+ref: A037
+label: 寇準
+cprop:name-style: 平仲
+cprop:born:
+  '@value': '961'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1023'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q3274619
+cprop:authority-viaf: '116831046'
+cprop:authority-cbdb: '898'
+cprop:authority-ddbc: '12426'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AF%87%E6%BA%96
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Kou_Zhun
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

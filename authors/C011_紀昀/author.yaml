@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:661343
+'@type': schema:Person
+ref: C011
+label: 紀昀
+cprop:name-style: 曉嵐
+cprop:born:
+  '@value': '1724'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1805'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q711989
+cprop:authority-viaf: '46795749'
+cprop:authority-cbdb: '30080'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%B4%80%E6%98%80
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Ji_Yun
+lib:has_raw_bio: true

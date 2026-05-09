@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 少年聽雨歌樓上，紅燭昏羅帳。壯年聽雨客舟中，江闊雲低，斷
 

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 清
+genre: poetry
 ---
 其五
 

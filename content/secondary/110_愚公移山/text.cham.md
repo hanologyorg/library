@@ -2,7 +2,7 @@
 id: 110
 title: 愚公移山
 contributors:
-  - ref: A172
+  - ref: A200
     role: author
 date:
   dynasty: 戰國

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 風乍起，吹皺一池春水。{2}閑引{/2}{3}鴛鴦{/3}香{4}徑{/4}裡，手{5}挼{/5}紅杏蕊。
 

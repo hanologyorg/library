@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:82307
+'@type': schema:Person
+ref: A167
+label: 諸葛亮
+alt_names:
+- 諸葛孔明
+cprop:name-style: 孔明
+cprop:born:
+  '@value': '181'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '234'
+  '@type': xsd:gYear
+dynasty: 三國
+cprop:authority-wikidata: Q198211
+cprop:authority-viaf: '116860427'
+cprop:authority-cbdb: '25403'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%AF%B8%E8%91%9B%E4%BA%AE
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhuge_Liang
+lib:has_raw_bio: true

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 晉
+genre: poetry
 ---
 燕丹善養士，志在{1}報強嬴{/1}。招集{2}百夫良{/2}，歲暮得荊卿。
 

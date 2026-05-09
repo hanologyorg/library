@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:320053
+'@type': schema:Person
+ref: A176
+label: 劉禹錫
+cprop:name-style: 夢得
+cprop:born:
+  '@value': '772'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '842'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q706837
+cprop:authority-viaf: '27872063'
+cprop:authority-cbdb: '33606'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%88%98%E7%A6%B9%E9%94%A1
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Liu_Yuxi
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

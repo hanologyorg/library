@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:186024
+'@type': schema:Person
+ref: A164
+label: 歸有光
+cprop:name-style: 熙甫
+cprop:born:
+  '@value': '1506'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1571'
+  '@type': xsd:gYear
+dynasty: 明
+cprop:authority-wikidata: Q5615339
+cprop:authority-viaf: '33344666'
+cprop:authority-cbdb: '34733'
+cprop:authority-ddbc: '17385'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BD%92%E6%9C%89%E5%85%89
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Gui_Youguang
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

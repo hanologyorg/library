@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 元
+genre: poetry
 ---
 {1}南畝耕{/1}，{2}東山卧{/2}。世態人情經歷多。閒將往事思量過，賢{3}的{/3}是他，愚的是我，爭甚麼？
 

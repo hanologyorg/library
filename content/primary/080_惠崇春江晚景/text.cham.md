@@ -24,9 +24,10 @@ genre: poetry
 
 {2} pron type:pinyin lang:cmn [lóuhɑ̄o]
 
+{2} pron type:hom lang:yue [留、好；lau4hou1]
+
 {2} meaning [
-○粵[留]、[好]的陰平聲，[lau4hou1]；。多年生草本植物，
-又名白萵，初生時其莖可食。
+多年生草本植物，又名白萵，初生時其莖可食。
 ]
 
 {3} meaning [蘆葦的嫩芽，可食用。]

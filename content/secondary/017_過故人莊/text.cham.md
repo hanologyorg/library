@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 故人{1}具{/1}雞黍，邀我至田家。
 

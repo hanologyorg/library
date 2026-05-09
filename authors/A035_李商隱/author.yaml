@@ -1,0 +1,25 @@
+'@context': context.jsonld
+'@id': ctext:615441
+'@type': schema:Person
+ref: A035
+label: 李商隱
+cprop:name-style: 義山
+cprop:born:
+  '@value': '813'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '858'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q203782
+cprop:authority-viaf: '73666'
+cprop:authority-cbdb: '24412'
+cprop:authority-ddbc: '9732'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%95%86%E9%9A%90
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Li_Shangyin
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

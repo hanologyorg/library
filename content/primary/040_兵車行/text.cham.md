@@ -159,7 +159,7 @@ genre: poetry
 隴畝：泛指農田。隴：。
 ]
 
-{34} meaning [泛指農田。隴：。]
+{34} meaning [泛指農田。]
 
 {35} meaning [此為征夫對詩人的尊稱。]
 

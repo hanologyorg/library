@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}楚天{/2}千里清秋，水隨天去秋無際。{3}遙岑{/3}遠目，{4}獻愁供恨{/4}，玉
 

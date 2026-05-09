@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}峰巒如聚{/1}，{2}波濤如怒{/2}，{3}山河表裏{/3}{4}潼關{/4}{5}路{/5}。望{6}西都{/6}，意躊
 

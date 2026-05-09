@@ -66,15 +66,20 @@ genre: prose
 {18} meaning [聖人無常師：聖人沒有固定的老師。語出《論語．子張》：子貢曰：「夫子焉不學？而亦何常師之有？」]
 
 {19} pron type:hom lang:yue [談；taam4]
-{19} pron type:pinyin lang:cmn [tɑ́n]
-{19} meaning [孔子師郯子、萇弘、師襄、老聃：郯子：春秋時郯國的國君，孔子曾向他請教官職的名稱。萇弘：周敬王的大夫，孔子曾向他請教音樂。師襄：春秋時魯國的樂官，孔子曾跟他學琴。老聃：即老子，孔子曾向他問禮。聃：相傳為老子之名。萇：姓氏。○粵[詳]，[coeng4]；○普[chɑ́nɡ]。聃：○粵[耽]，[daam1]；○普[dɑ̄n]。]
+{19} pron type:pinyin lang:cmn [tán]
+{19} pron type:hom lang:yue [詳；coeng4]
+{19} pron type:pinyin lang:cmn [cháng]
+{19} pron type:hom lang:yue [耽；daam1]
+{19} pron type:pinyin lang:cmn [dān]
+{19} pron type:hom lang:yue [耽；daam1]
+{19} meaning [孔子師郯子、萇弘、師襄、老聃：郯子：春秋時郯國的國君，孔子曾向他請教官職的名稱。萇弘：周敬王的大夫，孔子曾向他請教音樂。師襄：春秋時魯國的樂官，孔子曾跟他學琴。老聃：即老子，孔子曾向他問禮。聃：相傳為老子之名。萇：姓氏。。聃：○普[dān]]
 
 {20} meaning [三人行，則必有我師：幾個人走在一起，其中就一定有可以作為我學習的對象。語出《論語．述而》：「子曰：『三人行，必有我師焉。』」]
 
 {21} meaning [術業有專攻：學問、技藝各有專長。專攻：專門研究。]
 
 {22} pron type:hom lang:yue [盤；pun4]
-{22} pron type:pinyin lang:cmn [pɑ́n]
+{22} pron type:pinyin lang:cmn [pán]
 {22} meaning [李氏子蟠：李蟠，唐貞元十九年進士。]
 
 {23} meaning [六藝經傳，皆通習之：六藝：指《詩》、《書》、《禮》、《樂》、《易》、《春秋》六部經書。經：六經原文。傳：注釋六經的文字。]

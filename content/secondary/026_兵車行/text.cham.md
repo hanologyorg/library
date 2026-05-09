@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 車轔轔，馬蕭蕭，{1}行人{/1}弓箭各在腰，
 

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 大江東去，浪淘盡、千古風流人物。{1}故壘{/1}西邊，人道是、三國{2}周郎{/2}赤壁。亂石穿空，驚濤拍岸，捲起千堆雪。江山如畫，一時多少豪傑！
 

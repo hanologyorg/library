@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}早歲{/1}那知世事艱，中原北望{2}氣{/2}如山。
 

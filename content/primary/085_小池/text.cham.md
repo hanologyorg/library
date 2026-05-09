@@ -38,4 +38,4 @@ genre: poetry
 
 {7} pron type:pinyin lang:cmn [shɑ̀nɡ]
 
-{7} meaning [在上面。上：。]
+{7} meaning [在上面。]

@@ -1,0 +1,7 @@
+'@context': context.jsonld
+'@id': ctext:503581
+'@type': schema:CreativeWork
+ref: A169
+label: 《禮記》
+dynasty: 先秦
+lib:has_raw_bio: true

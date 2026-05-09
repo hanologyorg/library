@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}十年磨劍{/2}，{3}五陵結客{/3}，把平生、涕淚都飄盡。老去填詞，一半
 

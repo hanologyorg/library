@@ -96,7 +96,7 @@ genre: poetry
 
 {12} pron type:hom lang:yue [升；sinɡ1]
 
-{12} meaning [經不起，受不了。勝：。]
+{12} meaning [經不起，受不了。]
 
 {13} pron type:hom lang:yue [偏；pin1]
 
@@ -154,7 +154,7 @@ genre: poetry
 瀟湘：水名，在今湖南省。
 ]
 
-{27} meaning [山名，在今河北省。碣：。]
+{27} meaning [山名，在今河北省。]
 
 {28} meaning [水名，在今湖南省。]
 

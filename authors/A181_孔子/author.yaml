@@ -1,0 +1,18 @@
+'@context': context.jsonld
+'@id': ctext:196746
+'@type': schema:Person
+ref: A181
+label: 孔子
+alt_names:
+- 孔丘
+dynasty: 春秋
+cprop:authority-wikidata: Q4604
+cprop:authority-viaf: '89664672'
+cprop:authority-cbdb: '15887'
+cprop:authority-ddbc: '2174'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AD%94%E5%AD%90
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Confucius
+bio_sources:
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
+lib:has_raw_bio: true

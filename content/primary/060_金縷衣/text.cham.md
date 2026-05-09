@@ -28,7 +28,7 @@ genre: poetry
 
 {2} pron type:pinyin lang:cmn [lǚ]
 
-{2} meaning [用金線編織而成的華貴衣服。縷：。]
+{2} meaning [用金線編織而成的華貴衣服。]
 
 {3} meaning [珍惜。]
 

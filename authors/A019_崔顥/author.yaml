@@ -1,0 +1,20 @@
+'@context': context.jsonld
+'@id': ctext:426433
+'@type': schema:Person
+ref: A019
+label: 崔顥
+cprop:died:
+  '@value': '754'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q715570
+cprop:authority-viaf: '55624156'
+cprop:authority-cbdb: '94589'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B4%94%E9%A2%A2
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Cui_Hao_(poet)
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

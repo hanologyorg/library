@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 庭院深深深幾許？楊柳{1}堆煙{/1}，簾幕{2}無重數{/2}。{3}玉勒{/3}雕鞍{4}遊冶處{/4}，樓
 

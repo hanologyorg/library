@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:452161
+'@type': schema:Person
+ref: A031
+label: 賈島
+cprop:name-style: 閬仙
+cprop:born:
+  '@value': '779'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '843'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q1267957
+cprop:authority-viaf: '116898404'
+cprop:authority-cbdb: '94227'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B4%BE%E5%B2%9B
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Jia_Dao
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:919832
+'@type': schema:Person
+ref: A151
+label: 韓非
+cprop:born:
+  '@value': '-279'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '-232'
+  '@type': xsd:gYear
+dynasty: 周
+cprop:authority-wikidata: Q28959
+cprop:authority-viaf: '41969338'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%9F%A9%E9%9D%9E
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Han_Fei
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

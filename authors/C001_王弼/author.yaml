@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': ctext:7393078
+'@type': schema:Person
+ref: C001
+label: 王弼
+cprop:born:
+  '@value': '1401'
+  '@type': xsd:gYear
+dynasty: 魏
+cprop:authority-wikidata: Q18654591
+cprop:authority-cbdb: '126706'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%BC%BC_(%E5%AE%A3%E5%BE%B7%E9%80%B2%E5%A3%AB)
+lib:has_raw_bio: true

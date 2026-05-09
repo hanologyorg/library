@@ -1,0 +1,14 @@
+'@context': context.jsonld
+'@id': ctext:985466
+'@type': schema:Person
+ref: A150
+label: 莊周
+alt_names:
+- 莊子
+dynasty: 周
+cprop:authority-wikidata: Q47739
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BA%84%E5%AD%90
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhuang_Zhou
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

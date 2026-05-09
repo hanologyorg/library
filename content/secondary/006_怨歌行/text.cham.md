@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 漢
+genre: poetry
 ---
 新{1}裂{/1}齊紈素，皎潔如霜雪。
 

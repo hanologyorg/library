@@ -2,7 +2,7 @@
 id: 142
 title: 岳飛之少年時代
 contributors:
-  - ref: A167
+  - ref: A102
     role: author
 date:
   dynasty: 宋

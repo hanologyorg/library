@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:868619
+'@type': schema:Person
+ref: A144
+label: 納蘭性德
+alt_names:
+- 性德
+- 納喇性德
+cprop:born:
+  '@value': '1655'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1685'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q1131641
+cprop:authority-viaf: '18627743'
+cprop:authority-cbdb: '65803'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%BA%B3%E5%85%B0%E6%80%A7%E5%BE%B7
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Nalan_Xingde
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

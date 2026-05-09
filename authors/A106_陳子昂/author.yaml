@@ -1,0 +1,20 @@
+'@context': context.jsonld
+'@id': ctext:265688
+'@type': schema:Person
+ref: A106
+label: 陳子昂
+cprop:born:
+  '@value': '661'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '702'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q701302
+cprop:authority-viaf: '10648962'
+cprop:authority-cbdb: '31322'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%99%B3%E5%AD%90%E6%98%82
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Chen_Zi%27ang
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

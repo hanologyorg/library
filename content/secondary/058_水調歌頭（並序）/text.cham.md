@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 丙辰中秋，歡飲{1}達旦{/1}，大醉，作此篇，兼懷{2}子由{/2}。
 

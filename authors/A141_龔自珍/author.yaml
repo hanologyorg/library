@@ -1,0 +1,25 @@
+'@context': context.jsonld
+'@id': ctext:850100
+'@type': schema:Person
+ref: A141
+label: 龔自珍
+alt_names:
+- 龔鞏祚
+cprop:name-style: 璱人
+cprop:born:
+  '@value': '1792'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1841'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q1041328
+cprop:authority-viaf: '32797356'
+cprop:authority-cbdb: '66057'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%BE%9A%E8%87%AA%E7%8F%8D
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Gong_Zizhen
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md

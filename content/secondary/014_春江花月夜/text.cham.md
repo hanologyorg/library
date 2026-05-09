@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 春{1}江{/1}潮水連海平，海上明月{2}共潮生{/2}。
 

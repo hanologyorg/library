@@ -31,7 +31,7 @@ genre: poetry
 
 {1} pron type:pinyin lang:cmn [chuí]
 
-{1} meaning [無數次錘打敲擊。錘：。]
+{1} meaning [無數次錘打敲擊。]
 
 {2} meaning [尋常，平常。閑：通「閒」。]
 

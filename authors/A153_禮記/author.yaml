@@ -1,0 +1,11 @@
+'@context': context.jsonld
+'@id': ctext:503581
+'@type': schema:CreativeWork
+ref: A153
+label: 禮記
+dynasty: 周
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md

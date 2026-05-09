@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}雲鬟霧鬢{/1}勝{2}堆鴉{/2}，淺露{3}金蓮{/3}{4}簌{/4}{5}絳紗{/5}，不比{6}等閒{/6}{7}牆外花{/7}。罵你個
 

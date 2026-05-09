@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:330718
+'@type': schema:Person
+ref: A177
+label: 蘇洵
+cprop:name-style: 明允
+cprop:born:
+  '@value': '1009'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1066'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q947039
+cprop:authority-viaf: '33328350'
+cprop:authority-cbdb: '3762'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%8B%8F%E6%B4%B5
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Su_Xun
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}塞下{/1}秋來{2}風景異{/2}，{3}衡陽雁{/3}去無留意。四面{4}邊聲{/4}連{5}角{/5}起，千{6}嶂{/6}
 

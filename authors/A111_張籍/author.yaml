@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:490993
+'@type': schema:Person
+ref: A111
+label: 張籍
+cprop:name-style: 文昌
+cprop:born:
+  '@value': '766'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '830'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q836849
+cprop:authority-viaf: '266088413'
+cprop:authority-cbdb: '13575'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BC%A0%E7%B1%8D
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhang_Ji_(poet_from_Jiangnan)
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

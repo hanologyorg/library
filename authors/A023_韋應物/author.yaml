@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:946334
+'@type': schema:Person
+ref: A023
+label: 韋應物
+cprop:born:
+  '@value': '737'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '792'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q1021828
+cprop:authority-viaf: '70290030'
+cprop:authority-cbdb: '32822'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%9F%A6%E5%BA%94%E7%89%A9
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wei_Yingwu
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

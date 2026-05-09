@@ -1,0 +1,25 @@
+'@context': context.jsonld
+'@id': ctext:597351
+'@type': schema:Person
+ref: A044
+label: 朱熹
+alt_names:
+- 朱子
+cprop:name-style: 元晦
+cprop:born:
+  '@value': '1130'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1200'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q9397
+cprop:authority-viaf: '46768804'
+cprop:authority-cbdb: '3257'
+cprop:authority-ddbc: '3586'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%86%B9
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhu_Xi
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

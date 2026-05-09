@@ -1,0 +1,10 @@
+'@context': context.jsonld
+'@id': null
+'@type': schema:Person
+ref: A033
+label: 杜秋娘
+dynasty: 唐
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

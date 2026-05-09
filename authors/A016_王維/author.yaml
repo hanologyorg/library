@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:604898
+'@type': schema:Person
+ref: A016
+label: 王維
+cprop:name-style: 摩詰
+dynasty: 唐
+cprop:authority-wikidata: Q45421034
+cprop:authority-cbdb: '32174'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%BB%B4
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wang_Wei_(Tang_dynasty)
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興-1.md
+- publication: 積累與感興
+  file: brief-積累與感興-2.md
+- publication: 積累與感興
+  file: brief-積累與感興-3.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+lib:has_raw_bio: true

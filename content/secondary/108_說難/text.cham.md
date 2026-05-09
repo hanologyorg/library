@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 周
+genre: prose
 ---
 {1}凡說之難{/1}，{2}非吾知之有以說之之難也{/2}，又非吾辯之能明吾
 

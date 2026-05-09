@@ -1,0 +1,14 @@
+'@context': context.jsonld
+'@id': null
+'@type': lib:CollectiveWork
+ref: A007
+label: 北朝民歌
+dynasty: 南北朝
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興-1.md
+- publication: 積累與感興
+  file: brief-積累與感興-2.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

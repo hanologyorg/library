@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 漢
+genre: poetry
 ---
 {2}若{/2}有人兮山之阿，{3}被{/3}薜荔兮帶女羅。
 

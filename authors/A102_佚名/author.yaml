@@ -1,0 +1,9 @@
+'@context': context.jsonld
+'@id': null
+'@type': schema:Person
+ref: A102
+label: 佚名
+dynasty: 漢
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:300111
+'@type': schema:Person
+ref: A139
+label: 吳偉業
+cprop:name-style: 駿公
+cprop:born:
+  '@value': '1609'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1671'
+  '@type': xsd:gYear
+dynasty: 明
+cprop:authority-wikidata: Q697571
+cprop:authority-viaf: '67994335'
+cprop:authority-cbdb: '35118'
+cprop:authority-ddbc: '9981'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BC%9F%E4%B8%9A
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wu_Weiye
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

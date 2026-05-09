@@ -1,0 +1,16 @@
+'@context': context.jsonld
+'@id': ctext:851359
+'@type': schema:Person
+ref: A135
+label: 張可久
+cprop:name-style: 仲遠
+dynasty: 元
+cprop:authority-wikidata: Q11066658
+cprop:authority-viaf: '100034585'
+cprop:authority-cbdb: '33433'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%8F%AF%E4%B9%85
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md

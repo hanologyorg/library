@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 少年不識愁滋味，愛上層樓；愛上層樓，為賦新詞{2}彊{/2}說愁。
 

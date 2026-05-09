@@ -1,0 +1,14 @@
+'@context': context.jsonld
+'@id': ctext:71833
+'@type': schema:Person
+ref: A032
+label: 朱慶餘
+cprop:name-style: 可久
+dynasty: 唐
+cprop:authority-wikidata: Q45473704
+cprop:authority-cbdb: '92533'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%8F%AF%E4%B9%85
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhu_Qingyu
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md

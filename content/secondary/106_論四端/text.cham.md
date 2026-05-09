@@ -2,7 +2,7 @@
 id: 106
 title: 論四端
 contributors:
-  - ref: A170
+  - ref: A166
     role: author
 date:
   dynasty: 戰國

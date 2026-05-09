@@ -1,0 +1,27 @@
+'@context': context.jsonld
+'@id': ctext:670625
+'@type': schema:Person
+ref: A010
+label: 王勃
+cprop:name-style: 子安
+cprop:born:
+  '@value': '650'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '676'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q1275321
+cprop:authority-viaf: '45615690'
+cprop:authority-cbdb: '30982'
+cprop:authority-ddbc: '206'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%8B%83
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wang_Bo_(poet)
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+lib:has_raw_bio: true

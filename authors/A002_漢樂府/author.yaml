@@ -1,0 +1,12 @@
+'@context': context.jsonld
+'@id': null
+'@type': lib:CollectiveWork
+ref: A002
+label: 漢樂府
+dynasty: 漢
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興-1.md
+- publication: 積累與感興
+  file: brief-積累與感興-2.md
+lib:has_raw_bio: true

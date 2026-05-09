@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:95123
+'@type': schema:Person
+ref: A179
+label: 袁宏道
+cprop:name-style: 中郎
+cprop:born:
+  '@value': '1568'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1610'
+  '@type': xsd:gYear
+dynasty: 明
+cprop:authority-wikidata: Q2983713
+cprop:authority-viaf: '93504574'
+cprop:authority-cbdb: '35222'
+cprop:authority-ddbc: '4656'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A2%81%E5%AE%8F%E9%81%93
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yuan_Hongdao
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

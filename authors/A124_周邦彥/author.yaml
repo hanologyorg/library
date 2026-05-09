@@ -1,0 +1,14 @@
+'@context': context.jsonld
+'@id': ctext:499618
+'@type': schema:Person
+ref: A124
+label: 周邦彥
+cprop:name-style: 美成
+dynasty: 宋
+cprop:authority-wikidata: Q45383355
+cprop:authority-cbdb: '16567'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%91%A8%E9%82%A6%E5%BD%A6
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhou_Bangyan
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

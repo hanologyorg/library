@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}燎{/1}{2}沉香{/2}，消{3}溽暑{/3}。鳥雀呼晴，{4}侵曉{/4}窺{5}簷{/5}語。葉上{6}初陽{/6}乾
 

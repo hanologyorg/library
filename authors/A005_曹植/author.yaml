@@ -1,0 +1,25 @@
+'@context': context.jsonld
+'@id': ctext:584142
+'@type': schema:Person
+ref: A005
+label: 曹植
+cprop:name-style: 子建
+cprop:born:
+  '@value': '192'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '232'
+  '@type': xsd:gYear
+dynasty: 漢末
+cprop:authority-wikidata: Q698890
+cprop:authority-viaf: '59884894'
+cprop:authority-cbdb: '30270'
+cprop:authority-ddbc: '6014'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%A4%8D
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Cao_Zhi
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

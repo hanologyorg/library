@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:430269
+'@type': schema:Person
+ref: A175
+label: 李密
+cprop:born:
+  '@value': '224'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '287'
+  '@type': xsd:gYear
+dynasty: 晉
+cprop:authority-wikidata: Q701485
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%AF%86_(%E8%A5%BF%E6%99%8B)
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Li_Mi_(Shu_Han)
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

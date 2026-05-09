@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:412486
+'@type': schema:Person
+ref: A115
+label: 李煜
+cprop:name-style: 重光
+cprop:born:
+  '@value': '937'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '978'
+  '@type': xsd:gYear
+dynasty: 五代
+cprop:authority-wikidata: Q378528
+cprop:authority-viaf: '29537071'
+cprop:authority-cbdb: '3551'
+cprop:authority-ddbc: '21837'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%8E%E7%85%9C
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Li_Yu_(Southern_Tang)
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

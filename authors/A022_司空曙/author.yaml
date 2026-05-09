@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:614892
+'@type': schema:Person
+ref: A022
+label: 司空曙
+cprop:born:
+  '@value': '720'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '790'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q5953810
+cprop:authority-viaf: '308218738'
+cprop:authority-cbdb: '92446'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8F%B8%E7%A9%BA%E6%9B%99
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Sikong_Shu
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

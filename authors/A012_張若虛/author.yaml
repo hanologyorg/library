@@ -1,0 +1,12 @@
+'@context': context.jsonld
+'@id': null
+'@type': schema:Person
+ref: A012
+label: 張若虛
+dynasty: 唐
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:310547
+'@type': schema:Person
+ref: A197
+label: 岳飛
+cprop:name-style: 鵬舉
+cprop:born:
+  '@value': '1103'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1142'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q334398
+cprop:authority-viaf: '1323653'
+cprop:authority-cbdb: '8175'
+cprop:authority-ddbc: '16661'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B2%B3%E9%A3%9E
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yue_Fei
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

@@ -1,0 +1,11 @@
+'@context': context.jsonld
+'@id': ctext:981291
+'@type': schema:Person
+ref: A108
+label: 李頎
+dynasty: 唐
+cprop:authority-wikidata: Q45431098
+cprop:authority-cbdb: '40777'
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

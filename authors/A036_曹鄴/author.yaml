@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': ctext:313579
+'@type': schema:Person
+ref: A036
+label: 曹鄴
+cprop:name-style: 鄴之
+dynasty: 唐
+cprop:authority-wikidata: Q45595161
+cprop:authority-cbdb: '94473'
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

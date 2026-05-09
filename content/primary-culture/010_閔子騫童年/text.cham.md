@@ -14,7 +14,9 @@ genre: prose
 
 {1} pron type:hom lang:yue [吻；mɐn5]
 {1} pron type:pinyin lang:cmn [mĭn]
-{1} meaning [春秋時魯國人，孔子弟子。生性孝順，以德行與顏淵並稱。閔子騫：「閔」音注如上。騫：○粵[牽]，[hin1]；○漢[qiān]。]
+{1} pron type:hom lang:yue [牽；hin1]
+{1} pron type:pinyin lang:cmn [qiān]
+{1} meaning [春秋時魯國人，孔子弟子。生性孝順，以德行與顏淵並稱。閔子騫：「閔」音注如上。騫：]
 {2} pron type:hom lang:yue [娶；tsœy3]
 {2} pron type:pinyin lang:cmn [qŭ]
 {2} meaning [同「娶」。]

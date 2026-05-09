@@ -2,10 +2,11 @@
 id: 69
 title: 滿江紅
 contributors:
-  - ref: A168
+  - ref: A197
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}怒髮衝冠{/1}，{2}憑闌{/2}處、{3}瀟瀟{/3}雨歇。抬望眼、仰天{4}長嘯{/4}，壯懷激烈。
 

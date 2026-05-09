@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': null
+'@type': schema:Person
+ref: A131
+label: 關漢卿
+dynasty: 元
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-3.md

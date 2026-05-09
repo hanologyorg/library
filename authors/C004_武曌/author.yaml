@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:636060
+'@type': schema:Person
+ref: C004
+label: 武曌
+alt_names:
+- 則天皇后
+- 武則天
+cprop:born:
+  '@value': '624'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '705'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q9738
+cprop:authority-viaf: '64806992'
+cprop:authority-cbdb: '93663'
+cprop:authority-ddbc: '2099'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%AD%A6%E5%88%99%E5%A4%A9
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wu_Zetian
+lib:has_raw_bio: true

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}淳熙丙申至日{/1}，余過{2}維揚{/2}。夜雪初{3}霽{/3}，{4}薺麥彌望{/4}。入其城，則四顧蕭
 

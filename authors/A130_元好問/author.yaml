@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:222677
+'@type': schema:Person
+ref: A130
+label: 元好問
+cprop:name-style: 裕之
+cprop:born:
+  '@value': '1190'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1257'
+  '@type': xsd:gYear
+dynasty: 金
+cprop:authority-wikidata: Q831191
+cprop:authority-viaf: '45098062'
+cprop:authority-cbdb: '10074'
+cprop:authority-ddbc: '19871'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%83%E5%A5%BD%E9%97%AE
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yuan_Haowen
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

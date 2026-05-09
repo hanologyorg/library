@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:563831
+'@type': schema:Person
+ref: A008
+label: 虞世南
+cprop:name-style: 伯施
+cprop:born:
+  '@value': '558'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '638'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q559414
+cprop:authority-viaf: '110352282'
+cprop:authority-cbdb: '22793'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%99%9E%E4%B8%96%E5%8D%97
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yu_Shinan
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

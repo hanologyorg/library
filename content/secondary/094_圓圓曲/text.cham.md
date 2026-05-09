@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 明
+genre: poetry
 ---
 {2}鼎湖{/2}當日棄人間，破敵收京下{3}玉關{/3}。慟哭{4}六軍{/4}俱縞素，衝冠
 

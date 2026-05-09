@@ -45,7 +45,7 @@ genre: poetry
 
 {9} pron type:pinyin lang:cmn [sūn]
 
-{9} meaning [菜餚。飧：。熟食。]
+{9} meaning [菜餚。飧：熟食。]
 
 {9} meaning [熟食。]
 
@@ -59,7 +59,7 @@ genre: poetry
 
 {13} pron type:pinyin lang:cmn [pēi]
 
-{13} meaning [不是新釀的酒。醅：。未經蒸濾的酒。]
+{13} meaning [不是新釀的酒。醅：未經蒸濾的酒。]
 
 {14} meaning [願意。]
 

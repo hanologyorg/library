@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://zh.wikisource.org/wiki/%E8%8D%80%E5%AD%90" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>荀子</text></docTitle>
+				<docAuthor><text></text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>封面</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_xun_zi" playOrder="2">
+						    <navLabel><text>荀子</text></navLabel>
+						    <content src="c0_xun_zi.xhtml" />
+					    </navPoint><navPoint id="c1_xun_zi_xun_zi_xu" playOrder="3">
+									    <navLabel><text>荀子序</text></navLabel>
+									    <content src="c1_xun_zi_xun_zi_xu.xhtml" /></navPoint><navPoint id="c2_xun_zi_quan_xue_pian" playOrder="4">
+									    <navLabel><text>勸學篇第一</text></navLabel>
+									    <content src="c2_xun_zi_quan_xue_pian.xhtml" /></navPoint><navPoint id="c3_xun_zi_xiu_shen_pian" playOrder="5">
+									    <navLabel><text>修身篇第二</text></navLabel>
+									    <content src="c3_xun_zi_xiu_shen_pian.xhtml" /></navPoint><navPoint id="c4_xun_zi_bu_gou_pian" playOrder="6">
+									    <navLabel><text>不苟篇第三</text></navLabel>
+									    <content src="c4_xun_zi_bu_gou_pian.xhtml" /></navPoint><navPoint id="c5_xun_zi_rong_ru_pian" playOrder="7">
+									    <navLabel><text>榮辱篇第四</text></navLabel>
+									    <content src="c5_xun_zi_rong_ru_pian.xhtml" /></navPoint><navPoint id="c6_xun_zi_fei_xiang_pian" playOrder="8">
+									    <navLabel><text>非相篇第五</text></navLabel>
+									    <content src="c6_xun_zi_fei_xiang_pian.xhtml" /></navPoint><navPoint id="c7_xun_zi_fei_shi_er_zi_pian" playOrder="9">
+									    <navLabel><text>非十二子篇第六</text></navLabel>
+									    <content src="c7_xun_zi_fei_shi_er_zi_pian.xhtml" /></navPoint><navPoint id="c8_xun_zi_zhong_ni_pian" playOrder="10">
+									    <navLabel><text>仲尼篇第七</text></navLabel>
+									    <content src="c8_xun_zi_zhong_ni_pian.xhtml" /></navPoint><navPoint id="c9_xun_zi_ru_xiao_pian" playOrder="11">
+									    <navLabel><text>儒效篇第八</text></navLabel>
+									    <content src="c9_xun_zi_ru_xiao_pian.xhtml" /></navPoint><navPoint id="c10_xun_zi_wang_zhi_pian" playOrder="12">
+									    <navLabel><text>王制篇第九</text></navLabel>
+									    <content src="c10_xun_zi_wang_zhi_pian.xhtml" /></navPoint><navPoint id="c11_xun_zi_fu_guo_pian" playOrder="13">
+									    <navLabel><text>富國篇第十</text></navLabel>
+									    <content src="c11_xun_zi_fu_guo_pian.xhtml" /></navPoint><navPoint id="c12_xun_zi_wang_ba_pian" playOrder="14">
+									    <navLabel><text>王霸篇第十一</text></navLabel>
+									    <content src="c12_xun_zi_wang_ba_pian.xhtml" /></navPoint><navPoint id="c13_xun_zi_jun_dao_pian" playOrder="15">
+									    <navLabel><text>君道篇第十二</text></navLabel>
+									    <content src="c13_xun_zi_jun_dao_pian.xhtml" /></navPoint><navPoint id="c14_xun_zi_chen_dao_pian" playOrder="16">
+									    <navLabel><text>臣道篇第十三</text></navLabel>
+									    <content src="c14_xun_zi_chen_dao_pian.xhtml" /></navPoint><navPoint id="c15_xun_zi_zhi_shi_pian" playOrder="17">
+									    <navLabel><text>致士篇第十四</text></navLabel>
+									    <content src="c15_xun_zi_zhi_shi_pian.xhtml" /></navPoint><navPoint id="c16_xun_zi_yi_bing_pian" playOrder="18">
+									    <navLabel><text>議兵篇第十五</text></navLabel>
+									    <content src="c16_xun_zi_yi_bing_pian.xhtml" /></navPoint><navPoint id="c17_xun_zi_jiang_guo_pian" playOrder="19">
+									    <navLabel><text>彊國篇第十六</text></navLabel>
+									    <content src="c17_xun_zi_jiang_guo_pian.xhtml" /></navPoint><navPoint id="c18_xun_zi_tian_lun_pian" playOrder="20">
+									    <navLabel><text>天論篇第十七</text></navLabel>
+									    <content src="c18_xun_zi_tian_lun_pian.xhtml" /></navPoint><navPoint id="c19_xun_zi_zheng_lun_pian" playOrder="21">
+									    <navLabel><text>正論篇第十八</text></navLabel>
+									    <content src="c19_xun_zi_zheng_lun_pian.xhtml" /></navPoint><navPoint id="c20_xun_zi_li_lun_pian" playOrder="22">
+									    <navLabel><text>禮論篇第十九</text></navLabel>
+									    <content src="c20_xun_zi_li_lun_pian.xhtml" /></navPoint><navPoint id="c21_xun_zi_le_lun_pian" playOrder="23">
+									    <navLabel><text>樂論篇第二十</text></navLabel>
+									    <content src="c21_xun_zi_le_lun_pian.xhtml" /></navPoint><navPoint id="c22_xun_zi_jie_bi_pian" playOrder="24">
+									    <navLabel><text>解蔽篇第二十一</text></navLabel>
+									    <content src="c22_xun_zi_jie_bi_pian.xhtml" /></navPoint><navPoint id="c23_xun_zi_zheng_ming_pian" playOrder="25">
+									    <navLabel><text>正名篇第二十二</text></navLabel>
+									    <content src="c23_xun_zi_zheng_ming_pian.xhtml" /></navPoint><navPoint id="c24_xun_zi_xing_e_pian" playOrder="26">
+									    <navLabel><text>性惡篇第二十三</text></navLabel>
+									    <content src="c24_xun_zi_xing_e_pian.xhtml" /></navPoint><navPoint id="c25_xun_zi_jun_zi_pian" playOrder="27">
+									    <navLabel><text>君子篇第二十四</text></navLabel>
+									    <content src="c25_xun_zi_jun_zi_pian.xhtml" /></navPoint><navPoint id="c26_xun_zi_cheng_xiang_pian" playOrder="28">
+									    <navLabel><text>成相篇第二十五</text></navLabel>
+									    <content src="c26_xun_zi_cheng_xiang_pian.xhtml" /></navPoint><navPoint id="c27_xun_zi_fu_pian" playOrder="29">
+									    <navLabel><text>賦篇第二十六</text></navLabel>
+									    <content src="c27_xun_zi_fu_pian.xhtml" /></navPoint><navPoint id="c28_xun_zi_da_lue_pian" playOrder="30">
+									    <navLabel><text>大略篇第二十七</text></navLabel>
+									    <content src="c28_xun_zi_da_lue_pian.xhtml" /></navPoint><navPoint id="c29_xun_zi_you_zuo_pian" playOrder="31">
+									    <navLabel><text>宥坐篇第二十八</text></navLabel>
+									    <content src="c29_xun_zi_you_zuo_pian.xhtml" /></navPoint><navPoint id="c30_xun_zi_zi_dao_pian" playOrder="32">
+									    <navLabel><text>子道篇第二十九</text></navLabel>
+									    <content src="c30_xun_zi_zi_dao_pian.xhtml" /></navPoint><navPoint id="c31_xun_zi_fa_xing_pian" playOrder="33">
+									    <navLabel><text>法行篇第三十</text></navLabel>
+									    <content src="c31_xun_zi_fa_xing_pian.xhtml" /></navPoint><navPoint id="c32_xun_zi_ai_gong_pian" playOrder="34">
+									    <navLabel><text>哀公篇第三十一</text></navLabel>
+									    <content src="c32_xun_zi_ai_gong_pian.xhtml" /></navPoint><navPoint id="c33_xun_zi_yao_wen_pian" playOrder="35">
+									    <navLabel><text>堯問篇第三十二</text></navLabel>
+									    <content src="c33_xun_zi_yao_wen_pian.xhtml" /></navPoint><navPoint id="about" playOrder="36">
+						<navLabel>
+							<text>关于</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>

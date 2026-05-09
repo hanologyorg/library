@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:237271
+'@type': schema:Person
+ref: A127
+label: 姜夔
+cprop:name-style: 堯章
+cprop:born:
+  '@value': '1155'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1221'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q709586
+cprop:authority-viaf: '170520711'
+cprop:authority-cbdb: '29608'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%A4%94
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Jiang_Kui
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

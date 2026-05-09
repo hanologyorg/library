@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': ctext:110816
+'@type': schema:Person
+ref: C003
+label: 李世民
+alt_names:
+- 太宗
+dynasty: 唐
+cprop:authority-wikidata: Q9701
+cprop:authority-cbdb: '13060'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%94%90%E5%A4%AA%E5%AE%97
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang
+lib:has_raw_bio: true

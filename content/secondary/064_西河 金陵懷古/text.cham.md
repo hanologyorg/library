@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}佳麗地{/2}，{3}南朝{/3}盛事誰記？山圍故國遶清江，{4}髻鬟對起{/4}。怒濤
 

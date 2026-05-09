@@ -5,7 +5,8 @@ contributors:
   - ref: A136
     role: author
 date:
-  dynasty: 
+  dynasty: 元
+genre: poetry
 ---
 {1}冬前冬後{/1}幾村莊，溪北溪南兩{2}履{/2}霜。樹頭樹底{3}孤山{/3}上。冷風來
 

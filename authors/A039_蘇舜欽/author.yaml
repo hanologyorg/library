@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:776668
+'@type': schema:Person
+ref: A039
+label: 蘇舜欽
+cprop:name-style: 子美
+cprop:born:
+  '@value': '1008'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1048'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q2898749
+cprop:authority-viaf: '55488465'
+cprop:authority-cbdb: '7064'
+cprop:authority-ddbc: '7594'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%8B%8F%E8%88%9C%E9%92%A6
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

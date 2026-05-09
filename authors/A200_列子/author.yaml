@@ -1,0 +1,20 @@
+'@context': context.jsonld
+'@id': ctext:8420020
+'@type': schema:Person
+ref: A200
+label: 列子
+cprop:born:
+  '@value': '-449'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '-500'
+  '@type': xsd:gYear
+dynasty: 戰國
+cprop:authority-wikidata: Q2984064
+cprop:authority-viaf: '222338217'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%88%97%E7%A6%A6%E5%AF%87
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Lie_Yukou
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

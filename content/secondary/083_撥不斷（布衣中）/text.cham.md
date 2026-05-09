@@ -5,7 +5,8 @@ contributors:
   - ref: A132
     role: author
 date:
-  dynasty: 
+  dynasty: 元
+genre: poetry
 ---
 {1}布衣{/1}中，問英雄，{2}王圖霸業{/2}成何用？{3}禾黍{/3}高低{4}六代{/4}宮，{5}楸梧{/5}
 

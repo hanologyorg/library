@@ -1,0 +1,12 @@
+'@context': context.jsonld
+'@id': ctext:897401
+'@type': schema:Person
+ref: A042
+label: 李綱
+dynasty: 宋
+cprop:authority-wikidata: Q45709592
+cprop:authority-cbdb: '97204'
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

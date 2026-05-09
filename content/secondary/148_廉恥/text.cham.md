@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 明
+genre: prose
 ---
 {1}《五代史．馮道傳》{/1}論曰︰「 禮義廉恥，國之四維；四維
 

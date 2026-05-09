@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:751995
+'@type': schema:Person
+ref: A155
+label: 李斯
+cprop:born:
+  '@value': '-280'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '-208'
+  '@type': xsd:gYear
+dynasty: 秦
+cprop:authority-wikidata: Q152919
+cprop:authority-viaf: '42649330'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%AF
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Li_Si
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

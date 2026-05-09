@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 晉
+genre: prose
 ---
 {1}謝太傅{/1}寒雪日{2}內集{/2}，與兒女講論文義。{3}俄而{/3}雪驟，{4}公{/4}
 

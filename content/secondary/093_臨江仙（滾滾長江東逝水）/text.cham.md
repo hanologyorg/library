@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 明
+genre: poetry
 ---
 滾滾長江東逝水，浪花淘盡英雄。是非成敗轉頭空。青山依舊
 

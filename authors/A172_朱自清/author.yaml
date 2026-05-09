@@ -1,0 +1,7 @@
+'@context': context.jsonld
+'@id': null
+'@type': schema:Person
+ref: A172
+label: 朱自清
+dynasty: 近代
+lib:has_raw_bio: true

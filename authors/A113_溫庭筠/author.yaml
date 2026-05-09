@@ -1,0 +1,20 @@
+'@context': context.jsonld
+'@id': ctext:63915
+'@type': schema:Person
+ref: A113
+label: 溫庭筠
+cprop:born:
+  '@value': '812'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '870'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q1367928
+cprop:authority-viaf: '13112262'
+cprop:authority-cbdb: '169067'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%BA%AD%E7%AD%A0
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wen_Tingyun
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="zh" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://zh.wikisource.org/wiki/%E8%8D%80%E5%AD%90</dc:identifier>
+				    <meta property="dcterms:modified">2026-05-08T11:45:40Z</meta>
+				    <dc:language>zh</dc:language>
+				    <dc:title id="meta-title">荀子</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://zh.wikisource.org/wiki/%E8%8D%80%E5%AD%90</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Wikisource-logo.svg.png" href="images/Wikisource-logo.svg.png" media-type="image/png" /><item id="c0_xun_zi" href="c0_xun_zi.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_xun_zi_xun_zi_xu" href="c1_xun_zi_xun_zi_xu.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_xun_zi_quan_xue_pian" href="c2_xun_zi_quan_xue_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c3_xun_zi_xiu_shen_pian" href="c3_xun_zi_xiu_shen_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c4_xun_zi_bu_gou_pian" href="c4_xun_zi_bu_gou_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c5_xun_zi_rong_ru_pian" href="c5_xun_zi_rong_ru_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c6_xun_zi_fei_xiang_pian" href="c6_xun_zi_fei_xiang_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c7_xun_zi_fei_shi_er_zi_pian" href="c7_xun_zi_fei_shi_er_zi_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c8_xun_zi_zhong_ni_pian" href="c8_xun_zi_zhong_ni_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c9_xun_zi_ru_xiao_pian" href="c9_xun_zi_ru_xiao_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c10_xun_zi_wang_zhi_pian" href="c10_xun_zi_wang_zhi_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c11_xun_zi_fu_guo_pian" href="c11_xun_zi_fu_guo_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c12_xun_zi_wang_ba_pian" href="c12_xun_zi_wang_ba_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c13_xun_zi_jun_dao_pian" href="c13_xun_zi_jun_dao_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c14_xun_zi_chen_dao_pian" href="c14_xun_zi_chen_dao_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c15_xun_zi_zhi_shi_pian" href="c15_xun_zi_zhi_shi_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c16_xun_zi_yi_bing_pian" href="c16_xun_zi_yi_bing_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c17_xun_zi_jiang_guo_pian" href="c17_xun_zi_jiang_guo_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c18_xun_zi_tian_lun_pian" href="c18_xun_zi_tian_lun_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c19_xun_zi_zheng_lun_pian" href="c19_xun_zi_zheng_lun_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c20_xun_zi_li_lun_pian" href="c20_xun_zi_li_lun_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c21_xun_zi_le_lun_pian" href="c21_xun_zi_le_lun_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c22_xun_zi_jie_bi_pian" href="c22_xun_zi_jie_bi_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c23_xun_zi_zheng_ming_pian" href="c23_xun_zi_zheng_ming_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c24_xun_zi_xing_e_pian" href="c24_xun_zi_xing_e_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c25_xun_zi_jun_zi_pian" href="c25_xun_zi_jun_zi_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c26_xun_zi_cheng_xiang_pian" href="c26_xun_zi_cheng_xiang_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c27_xun_zi_fu_pian" href="c27_xun_zi_fu_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c28_xun_zi_da_lue_pian" href="c28_xun_zi_da_lue_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c29_xun_zi_you_zuo_pian" href="c29_xun_zi_you_zuo_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c30_xun_zi_zi_dao_pian" href="c30_xun_zi_zi_dao_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c31_xun_zi_fa_xing_pian" href="c31_xun_zi_fa_xing_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c32_xun_zi_ai_gong_pian" href="c32_xun_zi_ai_gong_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c33_xun_zi_yao_wen_pian" href="c33_xun_zi_yao_wen_pian.xhtml" media-type="application/xhtml+xml" />
+<item id="c34_g_20px_Wikimedia_logo.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c34_g_20px_Wikimedia_logo.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="c35_0px_Wikipedia_logo_v2.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c35_0px_Wikipedia_logo_v2.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="c36_icon.svg_60px_PD_icon.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c36_icon.svg_60px_PD_icon.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_xun_zi" linear="yes" /><itemref idref="c1_xun_zi_xun_zi_xu" linear="yes" /><itemref idref="c2_xun_zi_quan_xue_pian" linear="yes" /><itemref idref="c3_xun_zi_xiu_shen_pian" linear="yes" /><itemref idref="c4_xun_zi_bu_gou_pian" linear="yes" /><itemref idref="c5_xun_zi_rong_ru_pian" linear="yes" /><itemref idref="c6_xun_zi_fei_xiang_pian" linear="yes" /><itemref idref="c7_xun_zi_fei_shi_er_zi_pian" linear="yes" /><itemref idref="c8_xun_zi_zhong_ni_pian" linear="yes" /><itemref idref="c9_xun_zi_ru_xiao_pian" linear="yes" /><itemref idref="c10_xun_zi_wang_zhi_pian" linear="yes" /><itemref idref="c11_xun_zi_fu_guo_pian" linear="yes" /><itemref idref="c12_xun_zi_wang_ba_pian" linear="yes" /><itemref idref="c13_xun_zi_jun_dao_pian" linear="yes" /><itemref idref="c14_xun_zi_chen_dao_pian" linear="yes" /><itemref idref="c15_xun_zi_zhi_shi_pian" linear="yes" /><itemref idref="c16_xun_zi_yi_bing_pian" linear="yes" /><itemref idref="c17_xun_zi_jiang_guo_pian" linear="yes" /><itemref idref="c18_xun_zi_tian_lun_pian" linear="yes" /><itemref idref="c19_xun_zi_zheng_lun_pian" linear="yes" /><itemref idref="c20_xun_zi_li_lun_pian" linear="yes" /><itemref idref="c21_xun_zi_le_lun_pian" linear="yes" /><itemref idref="c22_xun_zi_jie_bi_pian" linear="yes" /><itemref idref="c23_xun_zi_zheng_ming_pian" linear="yes" /><itemref idref="c24_xun_zi_xing_e_pian" linear="yes" /><itemref idref="c25_xun_zi_jun_zi_pian" linear="yes" /><itemref idref="c26_xun_zi_cheng_xiang_pian" linear="yes" /><itemref idref="c27_xun_zi_fu_pian" linear="yes" /><itemref idref="c28_xun_zi_da_lue_pian" linear="yes" /><itemref idref="c29_xun_zi_you_zuo_pian" linear="yes" /><itemref idref="c30_xun_zi_zi_dao_pian" linear="yes" /><itemref idref="c31_xun_zi_fa_xing_pian" linear="yes" /><itemref idref="c32_xun_zi_ai_gong_pian" linear="yes" /><itemref idref="c33_xun_zi_yao_wen_pian" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>

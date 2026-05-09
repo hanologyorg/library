@@ -1,0 +1,20 @@
+'@context': context.jsonld
+'@id': ctext:179191
+'@type': schema:Person
+ref: A109
+label: 岑參
+cprop:born:
+  '@value': '715'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '770'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q3274331
+cprop:authority-viaf: '32797146'
+cprop:authority-cbdb: '32583'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B2%91%E5%8F%82
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Cen_Shen
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

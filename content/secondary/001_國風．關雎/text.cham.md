@@ -2,10 +2,11 @@
 id: 1
 title: 國風．關雎
 contributors:
-  - ref: A166
+  - ref: A100
     role: author
 date:
   dynasty: 周
+genre: poetry
 ---
 {1}關關{/1}{2}雎鳩{/2}，在河之{3}洲{/3}。{4}窈窕{/4}{5}淑{/5}女，{6}君子{/6}{7}好{/7}逑。
 

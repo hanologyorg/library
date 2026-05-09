@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:265192
+'@type': schema:Person
+ref: A163
+label: 王守仁
+cprop:name-style: 伯安
+cprop:born:
+  '@value': '1472'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1529'
+  '@type': xsd:gYear
+dynasty: 明
+cprop:authority-wikidata: Q378462
+cprop:authority-viaf: '269343752'
+cprop:authority-cbdb: '30374'
+cprop:authority-ddbc: '6963'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%88%E4%BB%81
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wang_Yangming
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

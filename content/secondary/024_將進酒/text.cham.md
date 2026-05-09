@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 君不見黃河之水天上來，奔流到海不復回！
 

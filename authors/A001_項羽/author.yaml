@@ -1,0 +1,16 @@
+'@context': context.jsonld
+'@id': ctext:603665
+'@type': schema:Person
+ref: A001
+label: 項羽
+alt_names:
+- 楚霸王
+- 項籍
+dynasty: 秦末
+cprop:authority-wikidata: Q182266
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%A1%B9%E7%BE%BD
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Xiang_Yu
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 我居{2}北海{/2}君南海，{3}寄雁傳書{/3}謝不能。
 

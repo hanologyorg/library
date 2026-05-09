@@ -44,7 +44,9 @@ genre: prose
 
 {8} meaning [振奮、激勵志士的精神氣節。恢弘︰發揚、擴大，作動詞用]
 
-{9} meaning [胡亂地。菲薄︰輕視。菲︰○粵[匪]，[fei2]；○普[fěi]]
+{9} pron type:hom lang:yue [匪；fei2]
+{9} pron type:pinyin lang:cmn [fěi]
+{9} meaning [胡亂地。菲薄︰輕視。菲︰]
 
 {10} meaning [隨便引用不合道理的話。義︰社會認為合宜的道理和行為]
 
@@ -62,7 +64,9 @@ genre: prose
 
 {17} meaning [宮中、宮外執法有別。異法：不同的準則]
 
-{18} meaning [當時郭攸之任侍中，費禕曾任黃門侍郎，後升為侍中，董允任黃門侍郎。禕︰○粵[衣]，[ji1]；○普[yī]]
+{18} pron type:hom lang:yue [衣；ji1]
+{18} pron type:pinyin lang:cmn [yī]
+{18} meaning [當時郭攸之任侍中，費禕曾任黃門侍郎，後升為侍中，董允任黃門侍郎。禕︰]
 
 {19} pron type:hom lang:yue [惠；wai6]
 

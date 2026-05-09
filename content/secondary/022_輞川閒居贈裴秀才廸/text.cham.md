@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 寒山轉蒼翠；秋水日{1}潺湲{/1}。
 

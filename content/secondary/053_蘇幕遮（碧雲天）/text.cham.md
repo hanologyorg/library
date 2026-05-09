@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}碧雲{/1}天，黃葉地，秋色連波，波上{2}寒煙{/2}翠。山映斜陽天接水，
 

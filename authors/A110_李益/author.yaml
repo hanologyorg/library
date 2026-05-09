@@ -1,0 +1,11 @@
+'@context': context.jsonld
+'@id': ctext:8503195
+'@type': schema:Person
+ref: A110
+label: 李益
+dynasty: 唐
+cprop:authority-wikidata: Q45709288
+cprop:authority-cbdb: '97181'
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:894522
+'@type': schema:Person
+ref: A101
+label: 屈原
+cprop:born:
+  '@value': '-343'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '-278'
+  '@type': xsd:gYear
+dynasty: 周
+cprop:authority-wikidata: Q313330
+cprop:authority-viaf: '303666736'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B1%88%E5%8E%9F
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Qu_Yuan
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

@@ -5,7 +5,8 @@ contributors:
   - ref: A132
     role: author
 date:
-  dynasty: 
+  dynasty: 元
+genre: poetry
 ---
 【步步嬌】您將那{2}一曲陽關{/2}{3}休輕放{/3}，{4}俺{/4}{5}咫尺如天樣{/5}，慢慢的捧玉
 

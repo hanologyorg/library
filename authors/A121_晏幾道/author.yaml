@@ -1,0 +1,19 @@
+'@context': context.jsonld
+'@id': ctext:580607
+'@type': schema:Person
+ref: A121
+label: 晏幾道
+cprop:name-style: 叔原
+cprop:born:
+  '@value': '1038'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1110'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q6788466
+cprop:authority-cbdb: '12352'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%99%8F%E5%87%A0%E9%81%93
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

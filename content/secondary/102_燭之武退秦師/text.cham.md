@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 漢
+genre: prose
 ---
 {3}晉侯{/3}{4}秦伯{/4}圍{5}鄭{/5}，{6}以其無禮於晉{/6}，且{7}貳於楚{/7}也。晉軍函
 

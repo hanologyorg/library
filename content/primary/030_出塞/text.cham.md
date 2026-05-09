@@ -46,7 +46,7 @@ genre: poetry
 
 {7} pron type:pinyin lang:cmn [jiɑ̄o]
 
-{7} meaning [不讓。教：。]
+{7} meaning [不讓。]
 
 {8} meaning [指騎着戰馬入侵的外族。胡：古代對西方和北方外族的通稱。]
 

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 薄霧濃雲愁{1}永晝{/1}，{2}瑞腦{/2}銷{3}金獸{/3}。佳節又重陽，{4}玉枕{/4}{5}紗廚{/5}，半夜
 

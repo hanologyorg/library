@@ -140,13 +140,13 @@ genre: poetry
 
 {21} pron type:pinyin lang:cmn [jiɑ̄n]
 
-{21} meaning [一作｢流水聲濺濺｣。濺濺：。水流聲。]
+{21} meaning [一作｢流水聲濺濺｣。濺濺：水流聲。]
 
 {22} pron type:hom lang:yue [煙；jin1]
 
 {22} pron type:pinyin lang:cmn [yɑ̄n]
 
-{22} meaning [和下文的燕山，都是當時北方的山名。燕：。]
+{22} meaning [和下文的燕山，都是當時北方的山名。]
 
 {23} pron type:hom lang:yue [冀；kei3]
 

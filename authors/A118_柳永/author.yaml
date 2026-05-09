@@ -1,0 +1,20 @@
+'@context': context.jsonld
+'@id': ctext:182333
+'@type': schema:Person
+ref: A118
+label: 柳永
+cprop:name-style: 耆卿
+cprop:born:
+  '@value': '987'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1053'
+  '@type': xsd:gYear
+dynasty: 宋
+cprop:authority-wikidata: Q625179
+cprop:authority-cbdb: '43739'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9F%B3%E6%B0%B8
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty)
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

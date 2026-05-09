@@ -2,7 +2,7 @@
 id: 112
 title: 大同與小康
 contributors:
-  - ref: A173
+  - ref: A153
     role: author
 date:
   dynasty: 戰國
@@ -20,7 +20,9 @@ genre: prose
 
 {1} pron type:pinyin lang:cmn [yù]
 
-{1} meaning [孔子當時仕於魯，以陪祭者的身份，參與魯國年終蜡祭大典。仲尼︰孔子名丘，字仲尼。與︰參加。蜡︰古時年終舉行的祭祀叫「蜡」。○粵[乍]，[zaa3]；○普[zhà]。賓︰陪祭者]
+{1} pron type:hom lang:yue [乍；zaa3]
+{1} pron type:pinyin lang:cmn [zhà]
+{1} meaning [孔子當時仕於魯，以陪祭者的身份，參與魯國年終蜡祭大典。仲尼︰孔子名丘，字仲尼。與︰參加。蜡︰古時年終舉行的祭祀叫「蜡」。。賓︰陪祭者]
 
 {2} pron type:hom lang:yue [貫；gun3]
 

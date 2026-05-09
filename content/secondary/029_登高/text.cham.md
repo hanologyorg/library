@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 風急天高猿嘯哀，{1}渚{/1}清沙白鳥飛迴。
 

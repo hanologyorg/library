@@ -1,0 +1,20 @@
+'@context': context.jsonld
+'@id': ctext:590222
+'@type': schema:Person
+ref: C013
+label: 孫士毅
+cprop:name-style: 智冶
+cprop:born:
+  '@value': '1720'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1796'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q7638500
+cprop:authority-viaf: '20942683'
+cprop:authority-cbdb: '56830'
+cprop:authority-ddbc: '11170'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AD%AB%E5%A3%AB%E6%AF%85
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Sun_Shiyi
+lib:has_raw_bio: true

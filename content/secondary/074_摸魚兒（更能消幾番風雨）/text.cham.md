@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}淳熙己亥{/2}，自湖北{3}漕移{/3}湖南，{4}同官王正之{/4}置酒小山亭，為賦。
 

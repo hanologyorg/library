@@ -5,7 +5,8 @@ contributors:
   - ref: A149
     role: author
 date:
-  dynasty: 
+  dynasty: 周
+genre: prose
 ---
 第三十三章
 

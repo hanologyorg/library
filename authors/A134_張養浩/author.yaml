@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:749197
+'@type': schema:Person
+ref: A134
+label: 張養浩
+cprop:name-style: 希孟
+cprop:born:
+  '@value': '1270'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1329'
+  '@type': xsd:gYear
+dynasty: 元
+cprop:authority-wikidata: Q11066587
+cprop:authority-viaf: '21017216'
+cprop:authority-cbdb: '27993'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%85%BB%E6%B5%A9
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhang_Yanghao
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

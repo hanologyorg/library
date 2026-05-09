@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 {1}昔人{/1}已乘黃鶴去，此地空餘黃鶴樓。
 

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 五代
+genre: poetry
 ---
 無言獨上西樓，{1}月如鉤{/1}。寂寞梧桐深院{2}鎖{/2}清秋。剪不斷，
 

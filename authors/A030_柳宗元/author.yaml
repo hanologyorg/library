@@ -1,0 +1,26 @@
+'@context': context.jsonld
+'@id': ctext:217652
+'@type': schema:Person
+ref: A030
+label: 柳宗元
+cprop:name-style: 子厚
+cprop:born:
+  '@value': '773'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '819'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q337773
+cprop:authority-viaf: '59884181'
+cprop:authority-cbdb: '3605'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9F%B3%E5%AE%97%E5%85%83
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Liu_Zongyuan
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+lib:has_raw_bio: true

@@ -52,8 +52,10 @@ genre: prose
 
 {9} pron type:pinyin lang:cmn [yɑ̄o]
 
+{9} pron type:jyut lang:yue [jiu2]
+
 {9} meaning [
-斷殺也。○粵[jiu2]；。《禮記‧王制》曰︰「不殺胎，不殀
+斷殺也。《禮記‧王制》曰︰「不殺胎，不殀
 夭。」《註》曰︰「殀，斷殺也。」
 ]
 

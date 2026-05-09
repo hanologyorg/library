@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:329941
+'@type': schema:Person
+ref: A191
+label: 杜甫
+cprop:born:
+  '@value': '712'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '770'
+  '@type': xsd:gYear
+dynasty: 唐
+cprop:authority-wikidata: Q33772
+cprop:authority-viaf: '108727755'
+cprop:authority-cbdb: '3915'
+cprop:authority-ddbc: '5221'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Du_Fu
+bio_sources:
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
+lib:has_raw_bio: true

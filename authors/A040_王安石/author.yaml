@@ -1,0 +1,23 @@
+'@context': context.jsonld
+'@id': ctext:855132
+'@type': schema:Person
+ref: A040
+label: 王安石
+alt_names:
+- 王荊公
+cprop:name-style: 介甫
+dynasty: 宋
+cprop:authority-wikidata: Q319618
+cprop:authority-viaf: '49413576'
+cprop:authority-cbdb: '1762'
+cprop:authority-ddbc: '7519'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AE%89%E7%9F%B3
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wang_Anshi
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+lib:has_raw_bio: true

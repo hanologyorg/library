@@ -1,0 +1,27 @@
+'@context': context.jsonld
+'@id': ctext:805297
+'@type': schema:Person
+ref: A004
+label: 曹操
+alt_names:
+- 魏武帝
+cprop:name-style: 孟德
+cprop:born:
+  '@value': '155'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '220'
+  '@type': xsd:gYear
+dynasty: 漢末
+cprop:authority-wikidata: Q204077
+cprop:authority-viaf: '112501523'
+cprop:authority-cbdb: '30257'
+cprop:authority-ddbc: '3207'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9B%B9%E6%93%8D
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Cao_Cao
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

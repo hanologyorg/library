@@ -1,0 +1,20 @@
+'@context': context.jsonld
+'@id': ctext:4259701
+'@type': schema:Person
+ref: A136
+label: 喬吉
+cprop:born:
+  '@value': '1280'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1345'
+  '@type': xsd:gYear
+dynasty: 元
+cprop:authority-wikidata: Q7267663
+cprop:authority-viaf: '25396321'
+cprop:authority-cbdb: '108477'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B9%94%E5%90%89
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Qiao_Ji
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

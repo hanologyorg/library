@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 {1}城闕{/1}{2}輔{/2}{3}三秦{/3}，{4}風煙{/4}望{5}五津{/5}。
 

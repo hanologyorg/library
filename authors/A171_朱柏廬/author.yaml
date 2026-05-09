@@ -1,0 +1,14 @@
+'@context': context.jsonld
+'@id': ctext:297383
+'@type': schema:Person
+ref: A171
+label: 朱柏廬
+cprop:name-style: 致一
+cprop:born:
+  '@value': '1698'
+  '@type': xsd:gYear
+dynasty: 清
+cprop:authority-wikidata: Q45644531
+cprop:authority-cbdb: '74080'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%94%A8%E7%BA%AF
+lib:has_raw_bio: true

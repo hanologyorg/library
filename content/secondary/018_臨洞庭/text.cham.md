@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 八月湖水平，{1}涵{/1}虛混太清，
 

@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {1}纖雲{/1}{2}弄巧{/2}，{3}飛星{/3}傳恨，{4}銀漢{/4}{5}迢迢{/5}暗度。{6}金風玉露{/6}一相逢，便
 

@@ -1,0 +1,18 @@
+'@context': context.jsonld
+'@id': ctext:498236
+'@type': schema:Person
+ref: A166
+label: 孟子
+dynasty: 戰國
+cprop:authority-wikidata: Q188903
+cprop:authority-viaf: '11230866'
+cprop:authority-cbdb: '134984'
+cprop:authority-ddbc: '4486'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%AD%90
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Mencius
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-1.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳-2.md
+lib:has_raw_bio: true

@@ -1,0 +1,21 @@
+'@context': context.jsonld
+'@id': ctext:464276
+'@type': schema:Person
+ref: A053
+label: 徐渭
+cprop:name-style: 文長
+cprop:born:
+  '@value': '1521'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1593'
+  '@type': xsd:gYear
+dynasty: 明
+cprop:authority-wikidata: Q890211
+cprop:authority-cbdb: '30607'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BE%90%E6%B8%AD
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Xu_Wei
+bio_sources:
+- publication: 積累與感興
+  file: brief-積累與感興.md
+lib:has_raw_bio: true

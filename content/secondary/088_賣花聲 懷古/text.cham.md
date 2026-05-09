@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 元
+genre: poetry
 ---
 {1}美人自刎烏江岸{/1}。戰火曾燒{2}赤壁{/2}山。{3}將軍空老玉門關{/3}。傷心秦
 

@@ -1,0 +1,16 @@
+'@context': context.jsonld
+'@id': ctext:391336
+'@type': schema:Person
+ref: A157
+label: 李陵
+cprop:born:
+  '@value': '-150'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '-73'
+  '@type': xsd:gYear
+dynasty: 漢
+cprop:authority-wikidata: Q704673
+cprop:authority-cbdb: '15904'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%99%B5
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Li_Ling

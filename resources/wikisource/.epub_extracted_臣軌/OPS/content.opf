@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="zh" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://zh.wikisource.org/wiki/%E8%87%A3%E8%BB%8C</dc:identifier>
+				    <meta property="dcterms:modified">2026-05-08T11:43:26Z</meta>
+				    <dc:language>zh</dc:language>
+				    <dc:title id="meta-title">臣軌</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://zh.wikisource.org/wiki/%E8%87%A3%E8%BB%8C</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Wikisource-logo.svg.png" href="images/Wikisource-logo.svg.png" media-type="image/png" /><item id="c0_chen_gui" href="c0_chen_gui.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_g_20px_Wikimedia_logo.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c1_g_20px_Wikimedia_logo.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="c2_icon.svg_60px_PD_icon.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c2_icon.svg_60px_PD_icon.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_chen_gui" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>

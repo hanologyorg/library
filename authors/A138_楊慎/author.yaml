@@ -1,0 +1,14 @@
+'@context': context.jsonld
+'@id': ctext:532045
+'@type': schema:Person
+ref: A138
+label: 楊慎
+cprop:name-style: 用修
+dynasty: 明
+cprop:authority-wikidata: Q45425175
+cprop:authority-cbdb: '34657'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%85%8E
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yang_Shen
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md

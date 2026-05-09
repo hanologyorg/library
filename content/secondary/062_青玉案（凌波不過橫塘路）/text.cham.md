@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 宋
+genre: poetry
 ---
 {2}淩波{/2}不過{3}橫塘{/3}路，但目送、{4}芳塵{/4}去。{5}錦瑟年華{/5}誰與度？{6}月臺{/6}
 

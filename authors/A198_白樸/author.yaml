@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:402703
+'@type': schema:Person
+ref: A198
+label: 白樸
+cprop:name-style: 仁甫
+cprop:born:
+  '@value': '1226'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '1306'
+  '@type': xsd:gYear
+dynasty: 元
+cprop:authority-wikidata: Q704910
+cprop:authority-viaf: '84083929'
+cprop:authority-cbdb: '10777'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%99%BD%E6%A8%B8
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Bai_Renfu
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+lib:has_raw_bio: true

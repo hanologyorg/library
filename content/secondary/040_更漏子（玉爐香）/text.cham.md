@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 {1}玉爐{/1}香，紅{2}蠟淚{/2}，偏照{3}畫堂{/3}秋思。{4}眉翠薄{/4}，{5}鬢雲殘{/5}，夜長{6}衾{/6}
 

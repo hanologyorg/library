@@ -6,6 +6,7 @@ contributors:
     role: author
 date:
   dynasty: 唐
+genre: poetry
 ---
 叟有愛子，背叟逃去，叟甚悲念之。叟少年時，亦嘗如是。故作《燕詩》以諭之矣。
 

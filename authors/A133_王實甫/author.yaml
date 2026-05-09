@@ -1,0 +1,9 @@
+'@context': context.jsonld
+'@id': null
+'@type': schema:Person
+ref: A133
+label: 王實甫
+dynasty: 元
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
