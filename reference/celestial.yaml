@@ -1,0 +1,710 @@
+# ctext.org celestial entities (116 total)
+# Source: ctext_datawiki-2026-01-22.ttl (CC-BY-NC-SA 3.0)
+---
+---
+'@id': ctext:68222
+'@type': celestial
+label: 天市垣
+wikidata: Q1145862
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%B8%82%E5%9E%A3
+wikipedia_en: https://en.wikipedia.org/wiki/Heavenly_Market_enclosure
+---
+'@id': ctext:92081
+'@type': celestial
+label: 紫微垣
+wikidata: Q1145852
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%B4%AB%E5%BE%AE%E5%9E%A3
+wikipedia_en: https://en.wikipedia.org/wiki/Purple_Forbidden_enclosure
+---
+'@id': ctext:93736
+'@type': celestial
+label: 周鼎
+wikidata: Q10921175
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%91%A8%E9%BC%8E_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:93942
+'@type': celestial
+label: 杠
+wikidata: Q11099668
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%A0
+---
+'@id': ctext:111096
+'@type': celestial
+label: 宗星
+wikidata: Q3575974
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AE%97_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:124199
+'@type': celestial
+label: 軒轅
+wikidata: Q15920028
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%BD%A9%E8%BE%95_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:128721
+'@type': celestial
+label: 女床
+wikidata: Q3347297
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A5%B3%E5%BA%8A
+---
+'@id': ctext:136290
+'@type': celestial
+label: 天廚
+wikidata: Q7245870
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%8E%A8
+---
+'@id': ctext:139420
+'@type': celestial
+label: 辰星
+wikidata: Q308
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%B0%B4%E6%98%9F
+wikipedia_en: https://en.wikipedia.org/wiki/Mercury_(planet)
+---
+'@id': ctext:145013
+'@type': celestial
+label: 長垣
+---
+'@id': ctext:153450
+'@type': celestial
+label: 宗正
+---
+'@id': ctext:154910
+'@type': celestial
+label: 車肆
+wikidata: Q17041401
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%BB%8A%E8%82%86
+---
+'@id': ctext:156141
+'@type': celestial
+label: 常陳
+wikidata: Q11060498
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B8%B8%E9%99%88
+---
+'@id': ctext:165558
+'@type': celestial
+label: 謁者
+---
+'@id': ctext:178473
+'@type': celestial
+label: 鬼宿
+wikidata: Q1145465
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%AC%BC%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Ghost_(Chinese_constellation)
+---
+'@id': ctext:180346
+'@type': celestial
+label: 壘壁陣
+wikidata: Q10929063
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%9E%92%E5%A3%81%E9%98%B5
+---
+'@id': ctext:187969
+'@type': celestial
+label: 亢宿
+wikidata: Q1145927
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BA%A2%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Neck_(Chinese_constellation)
+---
+'@id': ctext:199958
+'@type': celestial
+label: 明堂
+wikidata: Q11087757
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%98%8E%E5%A0%82_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:219674
+'@type': celestial
+label: 建星
+wikidata: Q3178599
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BB%BA_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:227541
+'@type': celestial
+label: 五緯
+wikidata: Q10882075
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BA%94%E7%B7%AF
+---
+'@id': ctext:229334
+'@type': celestial
+label: 陰德
+wikidata: Q17034221
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%99%B0%E5%BE%B7
+---
+'@id': ctext:232640
+'@type': celestial
+label: 天棓
+wikidata: Q3528041
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%A3%93
+---
+'@id': ctext:239647
+'@type': celestial
+label: 天柱
+---
+'@id': ctext:240433
+'@type': celestial
+label: 井宿
+wikidata: Q1145878
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BA%95%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Well_(Chinese_constellation)
+---
+'@id': ctext:249823
+'@type': celestial
+label: 虎賁
+---
+'@id': ctext:256740
+'@type': celestial
+label: 房宿
+wikidata: Q1145870
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%88%BF%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Room_(Chinese_constellation)
+---
+'@id': ctext:263510
+'@type': celestial
+label: 勾陳
+wikidata: Q7254772
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8B%BE%E9%99%B3
+---
+'@id': ctext:265876
+'@type': celestial
+label: 相
+wikidata: Q17066482
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%9B%B8_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:282173
+'@type': celestial
+label: 南斗
+wikidata: Q10907953
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%97%E6%96%97%E5%85%AD%E6%98%9F
+---
+'@id': ctext:282652
+'@type': celestial
+label: 御女
+wikidata: Q11071163
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BE%A1%E5%A5%B3_(%E7%B4%AB%E5%BE%AE%E5%9E%A3)
+---
+'@id': ctext:285263
+'@type': celestial
+label: 候
+wikidata: Q3141224
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%80%99_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:285485
+'@type': celestial
+label: 北辰
+wikidata: Q1211496
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E6%9E%81%E6%98%9F
+---
+'@id': ctext:291706
+'@type': celestial
+label: 天雞
+wikidata: Q10940936
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E9%B8%A1
+---
+'@id': ctext:302879
+'@type': celestial
+label: 太一
+names:
+- 太一
+- 太乙
+wikidata: Q10940984
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%AA%E4%B9%99_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:307873
+'@type': celestial
+label: 天一
+names:
+- 天一
+- 天乙
+wikidata: Q10939049
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%B9%99_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:316630
+'@type': celestial
+label: 張宿
+wikidata: Q1145915
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BC%A0%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Extended_Net
+---
+'@id': ctext:318764
+'@type': celestial
+label: 女御
+wikidata: Q64015337
+---
+'@id': ctext:319696
+'@type': celestial
+label: 外屏
+wikidata: Q10932303
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%96%E5%B1%8F_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:329456
+'@type': celestial
+label: 北極
+---
+'@id': ctext:336943
+'@type': celestial
+label: 心宿
+wikidata: Q1145909
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BF%83%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Heart_(Chinese_constellation)
+---
+'@id': ctext:355893
+'@type': celestial
+label: 填星
+names:
+- 填星
+- 鎮星
+wikidata: Q193
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%9C%9F%E6%98%9F
+wikipedia_en: https://en.wikipedia.org/wiki/Saturn
+---
+'@id': ctext:373907
+'@type': celestial
+label: 歲星
+wikidata: Q319
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F
+wikipedia_en: https://en.wikipedia.org/wiki/Jupiter
+---
+'@id': ctext:374345
+'@type': celestial
+label: 天槍
+wikidata: Q3528037
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%9E%AA_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:381454
+'@type': celestial
+label: 內五諸侯
+wikidata: Q10882190
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BA%94%E8%AF%B8%E4%BE%AF
+---
+'@id': ctext:382157
+'@type': celestial
+label: 五帝內坐
+names:
+- 五帝內坐
+- 五帝內座
+wikidata: Q10881760
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BA%94%E5%B8%9D%E5%85%A7%E5%BA%A7
+---
+'@id': ctext:382525
+'@type': celestial
+label: 傳舍
+wikidata: Q2967576
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%82%B3%E8%88%8D
+---
+'@id': ctext:386949
+'@type': celestial
+label: 天理
+wikidata: Q10940463
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%90%86
+---
+'@id': ctext:392551
+'@type': celestial
+label: 左右執法各
+---
+'@id': ctext:394275
+'@type': celestial
+label: 昴宿
+wikidata: Q1141299
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%98%B4%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Hairy_Head
+---
+'@id': ctext:397040
+'@type': celestial
+label: 列肆
+wikidata: Q10897017
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%88%97%E8%82%86
+---
+'@id': ctext:402292
+'@type': celestial
+label: 幸臣
+wikidata: Q11061556
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B9%B8%E8%87%A3_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:404452
+'@type': celestial
+label: 尾宿
+wikidata: Q1145842
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B0%BE%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Tail_(Chinese_constellation)
+---
+'@id': ctext:409671
+'@type': celestial
+label: 郎位
+wikidata: Q15938170
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%83%8E%E4%BD%8D_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:420459
+'@type': celestial
+label: 帝坐
+---
+'@id': ctext:424735
+'@type': celestial
+label: 內屏
+wikidata: Q10891267
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%A7%E5%B1%8F
+---
+'@id': ctext:437446
+'@type': celestial
+label: 天床
+wikidata: Q10939549
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%BA%8A
+---
+'@id': ctext:438970
+'@type': celestial
+label: 胃宿
+wikidata: Q210912
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%83%83%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Stomach_(Chinese_constellation)
+---
+'@id': ctext:442402
+'@type': celestial
+label: 御女
+wikidata: Q11071162
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BE%A1%E5%A5%B3_(%E6%98%9F%E5%AE%BF)
+---
+'@id': ctext:462553
+'@type': celestial
+label: 奎宿
+wikidata: Q1193839
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A5%8E%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Legs_(Chinese_constellation)
+---
+'@id': ctext:473744
+'@type': celestial
+label: 四輔
+wikidata: Q5475009
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%9B%9B%E8%BC%94
+wikipedia_en: https://en.wikipedia.org/wiki/Four_Advisors
+---
+'@id': ctext:485815
+'@type': celestial
+label: 柱史
+wikidata: Q11109296
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9F%B1%E5%8F%B2
+---
+'@id': ctext:499573
+'@type': celestial
+label: 斗宿
+wikidata: Q1146722
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%96%97%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Dipper_(Chinese_constellation)
+---
+'@id': ctext:503110
+'@type': celestial
+label: 斗
+wikidata: Q11080483
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%96%97_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:503142
+'@type': celestial
+label: 斛
+wikidata: Q11080562
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%96%9B_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:522892
+'@type': celestial
+label: 大理
+---
+'@id': ctext:526450
+'@type': celestial
+label: 三公
+wikidata: Q10865364
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%89%E5%85%AC_(%E5%A4%AA%E5%BE%AE%E5%9E%A3)
+---
+'@id': ctext:535083
+'@type': celestial
+label: 輿鬼
+wikidata: Q15938602
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%AC%BC_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:541752
+'@type': celestial
+label: 三公
+wikidata: Q10865367
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%89%E5%85%AC_(%E7%B4%AB%E5%BE%AE%E5%9E%A3)
+---
+'@id': ctext:544261
+'@type': celestial
+label: 太陰
+wikidata: Q405
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83
+wikipedia_en: https://en.wikipedia.org/wiki/Moon
+---
+'@id': ctext:563255
+'@type': celestial
+label: 太陽守
+wikidata: Q10941827
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E5%AE%88_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:572383
+'@type': celestial
+label: 畢宿
+wikidata: Q1192490
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%AF%95%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Net_(Chinese_constellation)
+---
+'@id': ctext:587871
+'@type': celestial
+label: 六甲
+wikidata: Q10893358
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%AD%E7%94%B2_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:596266
+'@type': celestial
+label: 貫索
+wikidata: Q3118751
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B2%AB%E7%B4%A2
+---
+'@id': ctext:599792
+'@type': celestial
+label: 太尊
+wikidata: Q10941225
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%B0%8A_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:607501
+'@type': celestial
+label: 宦者
+wikidata: Q3141861
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AE%A6%E8%80%85
+---
+'@id': ctext:607816
+'@type': celestial
+label: 中臺
+---
+'@id': ctext:615250
+'@type': celestial
+label: 內階
+wikidata: Q10891377
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%A7%E9%9A%8E
+---
+'@id': ctext:617513
+'@type': celestial
+label: 北斗
+wikidata: Q10460
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F
+wikipedia_en: https://en.wikipedia.org/wiki/Big_Dipper
+---
+'@id': ctext:626521
+'@type': celestial
+label: 五車
+wikidata: Q3570147
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BA%94%E8%BD%A6
+wikipedia_en: https://en.wikipedia.org/wiki/Five_Chariots
+---
+'@id': ctext:646005
+'@type': celestial
+label: 太子
+---
+'@id': ctext:653626
+'@type': celestial
+label: 從官
+wikidata: Q10884043
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BB%8E%E5%AE%98_(%E6%88%BF%E5%AE%BF)
+---
+'@id': ctext:654538
+'@type': celestial
+label: 角宿
+wikidata: Q1192463
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A7%92%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Horn_(Chinese_constellation)
+---
+'@id': ctext:657750
+'@type': celestial
+label: null
+---
+'@id': ctext:669176
+'@type': celestial
+label: 七公
+wikidata: Q3412473
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%83%E5%85%AC
+---
+'@id': ctext:684652
+'@type': celestial
+label: 進賢
+wikidata: Q17061321
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%BF%9B%E8%B4%A4_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:684662
+'@type': celestial
+label: 八穀
+wikidata: Q10892329
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%AB%E7%A9%80
+---
+'@id': ctext:687635
+'@type': celestial
+label: 天皇大帝
+wikidata: Q17023714
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%9A%87%E5%A4%A7%E5%B8%9D_(%E6%98%9F%E5%AE%98)
+wikipedia_en: https://en.wikipedia.org/wiki/Tianhuang_Emperor_(constellation)
+---
+'@id': ctext:688134
+'@type': celestial
+label: 勢
+wikidata: Q10901452
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8B%A2_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:692761
+'@type': celestial
+label: 天紀
+wikidata: Q3528025
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%B4%80_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:696669
+'@type': celestial
+label: 市樓
+wikidata: Q11059483
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B8%82%E6%A8%93
+---
+'@id': ctext:707206
+'@type': celestial
+label: 屠肆
+wikidata: Q11043438
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B1%A0%E8%82%86
+---
+'@id': ctext:720418
+'@type': celestial
+label: 天牢
+wikidata: Q10940440
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%89%A2
+---
+'@id': ctext:733716
+'@type': celestial
+label: 帛度
+wikidata: Q11060083
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B8%9B%E5%BA%A6
+---
+'@id': ctext:746987
+'@type': celestial
+label: 彗星
+wikidata: Q3559
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BD%97%E6%98%9F
+wikipedia_en: https://en.wikipedia.org/wiki/Comet
+---
+'@id': ctext:751918
+'@type': celestial
+label: 太微垣
+wikidata: Q1145944
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%AA%E5%BE%AE%E5%9E%A3
+wikipedia_en: https://en.wikipedia.org/wiki/Supreme_Palace_enclosure
+---
+'@id': ctext:771233
+'@type': celestial
+label: 三臺
+wikidata: Q7264596
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8F%B0_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:786494
+'@type': celestial
+label: 長星
+---
+'@id': ctext:791360
+'@type': celestial
+label: 氐宿
+wikidata: Q1145795
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%B0%90%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Root_(Chinese_constellation)
+---
+'@id': ctext:791495
+'@type': celestial
+label: 宗人
+wikidata: Q3575983
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AE%97%E4%BA%BA
+---
+'@id': ctext:795442
+'@type': celestial
+label: 從官
+wikidata: Q10884044
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BB%8E%E5%AE%98_(%E5%A4%AA%E5%BE%AE%E5%9E%A3)
+---
+'@id': ctext:817548
+'@type': celestial
+label: 少微
+wikidata: Q11036535
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B0%91%E5%BE%AE
+---
+'@id': ctext:835598
+'@type': celestial
+label: 天戈
+---
+'@id': ctext:838791
+'@type': celestial
+label: 天江
+wikidata: Q3528028
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B1%9F
+---
+'@id': ctext:839074
+'@type': celestial
+label: 靈臺
+wikidata: Q17034715
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%9D%88%E8%87%BA
+---
+'@id': ctext:839370
+'@type': celestial
+label: 華蓋
+---
+'@id': ctext:851214
+'@type': celestial
+label: 女史
+wikidata: Q10942725
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A5%B3%E5%8F%B2_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:873136
+'@type': celestial
+label: 九卿
+wikidata: Q10878706
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B9%9D%E5%8D%BF_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:888691
+'@type': celestial
+label: 太白
+names:
+- 太白
+- 金星
+wikidata: Q102040
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F
+wikipedia_en: https://en.wikipedia.org/wiki/Venus
+---
+'@id': ctext:895327
+'@type': celestial
+label: 熒惑
+wikidata: Q426315
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%81%AB%E6%98%9F
+wikipedia_en: https://en.wikipedia.org/wiki/Mars
+---
+'@id': ctext:931640
+'@type': celestial
+label: 內廚
+wikidata: Q10891276
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%A7%E5%BB%9A
+---
+'@id': ctext:946105
+'@type': celestial
+label: 牛宿
+wikidata: Q1143106
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%89%9B%E5%AE%BF
+wikipedia_en: https://en.wikipedia.org/wiki/Ox_(Chinese_constellation)
+---
+'@id': ctext:946800
+'@type': celestial
+label: 東咸
+wikidata: Q3036276
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%92%B8_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:965668
+'@type': celestial
+label: 郎將
+wikidata: Q17060986
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%83%8E%E5%B0%87_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:979691
+'@type': celestial
+label: 文昌
+wikidata: Q15303554
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%96%87%E6%98%8C_(%E6%98%9F%E5%AE%98)
+---
+'@id': ctext:988146
+'@type': celestial
+label: 長垣各
+---
+'@id': ctext:988906
+'@type': celestial
+label: 尚書
+wikidata: Q17024875
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B0%9A%E6%9B%B8_(%E6%98%9F%E5%AE%98)

@@ -1,0 +1,827 @@
+# ctext.org dynasty entities (112 total)
+# Source: ctext_datawiki-2026-01-22.ttl (CC-BY-NC-SA 3.0)
+---
+---
+'@id': ctext:13763
+'@type': dynasty
+label: 南宋
+names:
+- 南宋
+- 宋
+wikidata: Q1147043
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%97%E5%AE%8B
+wikipedia_en: https://en.wikipedia.org/wiki/%E5%8D%97%E5%AE%8B
+---
+'@id': ctext:16904
+'@type': dynasty
+label: 滕
+wikidata: Q1356151
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%BB%95%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Teng_(state)
+---
+'@id': ctext:18079
+'@type': dynasty
+label: 北宋
+names:
+- 北宋
+- 宋
+wikidata: Q319460
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E5%AE%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Northern_Song_Dynasty
+---
+'@id': ctext:19957
+'@type': dynasty
+label: 新羅
+names:
+- 新羅
+- 신라
+- 斯羅
+- 斯盧
+- 駟盧
+- 사라
+- 사로
+wikidata: Q28456
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%96%B0%E7%BD%97
+wikipedia_en: https://en.wikipedia.org/wiki/Silla
+---
+'@id': ctext:21264
+'@type': dynasty
+label: 劉宋
+names:
+- 劉宋
+- 宋
+wikidata: Q49697
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%88%98%E5%AE%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Liu_Song_dynasty
+---
+'@id': ctext:26256
+'@type': dynasty
+label: 金
+names:
+- 金
+- 大金
+wikidata: Q5066
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%87%91%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Jin_dynasty_(1115%E2%80%931234)
+---
+'@id': ctext:46804
+'@type': dynasty
+label: 北魏
+names:
+- 北魏
+- 後魏
+wikidata: Q875305
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E9%AD%8F
+wikipedia_en: https://en.wikipedia.org/wiki/Northern_Wei
+---
+'@id': ctext:47537
+'@type': dynasty
+label: 西漢
+wikidata: Q1072949
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%B1%89
+---
+'@id': ctext:70204
+'@type': dynasty
+label: 南梁
+wikidata: Q1069868
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%A2%81_(%E5%8D%97%E6%9C%9D)
+wikipedia_en: https://en.wikipedia.org/wiki/Liang_dynasty
+---
+'@id': ctext:78660
+'@type': dynasty
+label: 高句麗
+names:
+- 高句麗
+- 高句驪
+- 고구려
+- 高勾麗
+- 高麗
+wikidata: Q28370
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%AB%98%E5%8F%A5%E4%B8%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Goguryeo
+---
+'@id': ctext:82988
+'@type': dynasty
+label: 西山朝
+---
+'@id': ctext:89237
+'@type': dynasty
+label: 楚
+wikidata: Q504759
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%A5%9A%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Chu_(state)
+---
+'@id': ctext:94139
+'@type': dynasty
+label: 東魏
+wikidata: Q307069
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%9C%E9%AD%8F
+wikipedia_en: https://en.wikipedia.org/wiki/Eastern_Wei
+---
+'@id': ctext:105745
+'@type': dynasty
+label: 東晉
+names:
+- 東晉
+- 晉
+wikidata: Q306928
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%99%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Eastern_Jin
+---
+'@id': ctext:111809
+'@type': dynasty
+label: 後蜀
+wikidata: Q526507
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BE%8C%E8%9C%80
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Shu
+---
+'@id': ctext:119949
+'@type': dynasty
+label: 前涼
+wikidata: Q943392
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%89%8D%E5%87%89
+wikipedia_en: https://en.wikipedia.org/wiki/Former_Liang
+---
+'@id': ctext:125531
+'@type': dynasty
+label: 漢趙
+names:
+- 漢趙
+- 前趙
+wikidata: Q1574107
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%B1%89%E8%B5%B5
+wikipedia_en: https://en.wikipedia.org/wiki/Former_Zhao
+---
+'@id': ctext:132969
+'@type': dynasty
+label: 曹
+wikidata: Q284964
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9B%B9%E5%9C%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Cao_(state)
+---
+'@id': ctext:144910
+'@type': dynasty
+label: 邾婁
+wikidata: Q227007
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%82%BE%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Zou_(state)
+---
+'@id': ctext:151012
+'@type': dynasty
+label: 南唐
+wikidata: Q1326742
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%97%E5%94%90
+wikipedia_en: https://en.wikipedia.org/wiki/Southern_Tang
+---
+'@id': ctext:154711
+'@type': dynasty
+label: 西遼
+wikidata: Q862304
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%BE%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Qara_Khitai
+---
+'@id': ctext:180318
+'@type': dynasty
+label: 南漢
+wikidata: Q1198071
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%97%E6%B1%89
+wikipedia_en: https://en.wikipedia.org/wiki/Southern_Han
+---
+'@id': ctext:187208
+'@type': dynasty
+label: 前黎朝
+---
+'@id': ctext:192887
+'@type': dynasty
+label: 越
+wikidata: Q1137403
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B6%8A%E5%9C%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Yue_(state)
+---
+'@id': ctext:200221
+'@type': dynasty
+label: 代
+wikidata: Q1149098
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%BB%A3_(%E5%8D%81%E5%85%AD%E5%9B%BD)
+wikipedia_en: https://en.wikipedia.org/wiki/Dai_(Sixteen_Kingdoms)
+---
+'@id': ctext:200238
+'@type': dynasty
+label: 南燕
+wikidata: Q1329439
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%97%E7%87%95_(%E5%8D%81%E5%85%AD%E5%9C%8B)
+wikipedia_en: https://en.wikipedia.org/wiki/Southern_Yan
+---
+'@id': ctext:214824
+'@type': dynasty
+label: 後黎朝前期
+---
+'@id': ctext:215815
+'@type': dynasty
+label: 楚
+wikidata: Q13414776
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A5%9A
+---
+'@id': ctext:230819
+'@type': dynasty
+label: 桓楚
+wikidata: Q16076105
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%A1%93%E6%A5%9A_(%E8%A5%BF%E6%A5%9A)
+---
+'@id': ctext:246456
+'@type': dynasty
+label: 後黎朝後期
+---
+'@id': ctext:250261
+'@type': dynasty
+label: 後秦
+wikidata: Q1730130
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E7%A7%A6
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Qin
+---
+'@id': ctext:254244
+'@type': dynasty
+label: 阮朝
+wikidata: Q6500483
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%98%AE%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_dynasty
+---
+'@id': ctext:256883
+'@type': dynasty
+label: 孫吳
+names:
+- 孫吳
+- 吳
+wikidata: Q274488
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AD%AB%E5%90%B3
+wikipedia_en: https://en.wikipedia.org/wiki/Eastern_Wu
+---
+'@id': ctext:276412
+'@type': dynasty
+label: 西秦
+wikidata: Q1668970
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%A7%A6
+wikipedia_en: https://en.wikipedia.org/wiki/Western_Qin
+---
+'@id': ctext:279260
+'@type': dynasty
+label: 日本
+wikidata: Q208233
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A9%E7%9A%87
+wikipedia_en: https://en.wikipedia.org/wiki/Emperor_of_Japan
+---
+'@id': ctext:282114
+'@type': dynasty
+label: 陳
+wikidata: Q1069690
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%99%88%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Chen_(state)
+---
+'@id': ctext:282375
+'@type': dynasty
+label: 南吳
+wikidata: Q1323195
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%90%B4
+wikipedia_en: https://en.wikipedia.org/wiki/Yang_Wu
+---
+'@id': ctext:287392
+'@type': dynasty
+label: 後晉
+names:
+- 後晉
+- 晉
+wikidata: Q1154540
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E6%99%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Jin_(Five_Dynasties)
+---
+'@id': ctext:291872
+'@type': dynasty
+label: 大順
+wikidata: Q2370784
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%A0%86_(%E6%94%BF%E6%AC%8A)
+wikipedia_en: https://en.wikipedia.org/wiki/Shun_dynasty
+---
+'@id': ctext:296092
+'@type': dynasty
+label: 曹魏
+wikidata: Q320930
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9B%B9%E9%AD%8F
+wikipedia_en: https://en.wikipedia.org/wiki/Cao_Wei
+---
+'@id': ctext:300014
+'@type': dynasty
+label: 唐
+names:
+- 唐
+- 大唐
+wikidata: Q9683
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%94%90%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Tang_dynasty
+---
+'@id': ctext:338760
+'@type': dynasty
+label: 北齊
+names:
+- 北齊
+- 後齊
+wikidata: Q1143524
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E9%BD%90
+wikipedia_en: https://en.wikipedia.org/wiki/Northern_Qi
+---
+'@id': ctext:346693
+'@type': dynasty
+label: 後周
+wikidata: Q1154556
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E5%91%A8
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Zhou
+---
+'@id': ctext:360545
+'@type': dynasty
+label: 西涼
+wikidata: Q994451
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%B6%BC
+wikipedia_en: https://en.wikipedia.org/wiki/Western_Liang_(Sixteen_Kingdoms)
+---
+'@id': ctext:364121
+'@type': dynasty
+label: 新
+wikidata: Q504769
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%96%B0%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Xin_dynasty
+---
+'@id': ctext:371440
+'@type': dynasty
+label: 成漢
+wikidata: Q1069905
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%88%90%E6%B1%89
+wikipedia_en: https://en.wikipedia.org/wiki/Cheng_Han
+---
+'@id': ctext:378309
+'@type': dynasty
+label: 燕
+wikidata: Q1055713
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%87%95%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Yan_(state)
+---
+'@id': ctext:385056
+'@type': dynasty
+label: 清
+names:
+- 清
+- 大清
+- 國朝
+wikidata: Q8733
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%B8%85%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Qing_dynasty
+---
+'@id': ctext:391863
+'@type': dynasty
+label: 陳
+wikidata: Q62454
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%99%B3_(%E5%8D%97%E6%9C%9D)
+wikipedia_en: https://en.wikipedia.org/wiki/Chen_dynasty
+---
+'@id': ctext:410060
+'@type': dynasty
+label: 魏
+wikidata: Q912052
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%AD%8F%E5%9B%BD_(%E6%88%98%E5%9B%BD)
+wikipedia_en: https://en.wikipedia.org/wiki/Wei_(state)
+---
+'@id': ctext:430508
+'@type': dynasty
+label: 前李朝
+---
+'@id': ctext:436296
+'@type': dynasty
+label: 吳
+wikidata: Q912068
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%B4%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Wu_(state)
+---
+'@id': ctext:458199
+'@type': dynasty
+label: 秦
+wikidata: Q34756
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%A7%A6%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Qin_(state)
+---
+'@id': ctext:476271
+'@type': dynasty
+label: 閩
+wikidata: Q1192067
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%97%BD%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Min_Kingdom
+---
+'@id': ctext:499308
+'@type': dynasty
+label: 南涼
+wikidata: Q1330290
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%97%E5%87%89
+wikipedia_en: https://en.wikipedia.org/wiki/Southern_Liang_(Sixteen_Kingdoms)
+---
+'@id': ctext:514715
+'@type': dynasty
+label: 蒙古
+wikidata: Q12557
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E5%B8%9D%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Mongol_Empire
+---
+'@id': ctext:521290
+'@type': dynasty
+label: 蔡
+wikidata: Q1025803
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%94%A1%E5%9C%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Cai_(state)
+---
+'@id': ctext:526724
+'@type': dynasty
+label: 陳朝
+---
+'@id': ctext:540871
+'@type': dynasty
+label: 南明
+wikidata: Q1198163
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%97%E6%98%8E
+wikipedia_en: https://en.wikipedia.org/wiki/Southern_Ming
+---
+'@id': ctext:541169
+'@type': dynasty
+label: 李朝
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%9C%9D_(%E8%B6%8A%E5%8D%97)
+---
+'@id': ctext:603600
+'@type': dynasty
+label: 趙
+wikidata: Q197430
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Zhao_(state)
+---
+'@id': ctext:608786
+'@type': dynasty
+label: 晉
+wikidata: Q912043
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%99%8B%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Jin_(Chinese_state)
+---
+'@id': ctext:630334
+'@type': dynasty
+label: 隋
+wikidata: Q7405
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%9A%8B%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Sui_dynasty
+---
+'@id': ctext:634793
+'@type': dynasty
+label: 周
+wikidata: Q35216
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%91%A8%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Zhou_dynasty
+---
+'@id': ctext:638011
+'@type': dynasty
+label: 後金
+wikidata: Q1062546
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E9%87%91
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Jin_(1616%E2%80%931636)
+---
+'@id': ctext:643779
+'@type': dynasty
+label: 西晉
+wikidata: Q1145470
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%99%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Western_Jin_Dynasty
+---
+'@id': ctext:648879
+'@type': dynasty
+label: 後燕
+wikidata: Q1534482
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BE%8C%E7%87%95
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Yan
+---
+'@id': ctext:651097
+'@type': dynasty
+label: 北漢
+wikidata: Q1141471
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E6%B1%89
+wikipedia_en: https://en.wikipedia.org/wiki/Northern_Han
+---
+'@id': ctext:660617
+'@type': dynasty
+label: 齊
+wikidata: Q837855
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%BD%90%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Qi_(state)
+---
+'@id': ctext:665318
+'@type': dynasty
+label: 高麗
+names:
+- 高麗
+- 고려
+wikidata: Q28208
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%AB%98%E9%BA%97
+wikipedia_en: https://en.wikipedia.org/wiki/Goryeo
+---
+'@id': ctext:666219
+'@type': dynasty
+label: 北燕
+wikidata: Q2006864
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E7%87%95
+wikipedia_en: https://en.wikipedia.org/wiki/Northern_Yan
+---
+'@id': ctext:677302
+'@type': dynasty
+label: 胡朝
+---
+'@id': ctext:685945
+'@type': dynasty
+label: 元
+names:
+- 元
+- 大元
+wikidata: Q7313
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%83%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Yuan_dynasty
+---
+'@id': ctext:686544
+'@type': dynasty
+label: 西夏
+wikidata: Q7427
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A4%8F
+wikipedia_en: https://en.wikipedia.org/wiki/Western_Xia
+---
+'@id': ctext:707980
+'@type': dynasty
+label: 北遼
+wikidata: Q2214985
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E9%81%BC
+wikipedia_en: https://en.wikipedia.org/wiki/Northern_Liao
+---
+'@id': ctext:712736
+'@type': dynasty
+label: 北周
+wikidata: Q551067
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E5%91%A8
+wikipedia_en: https://en.wikipedia.org/wiki/Northern_Zhou
+---
+'@id': ctext:718683
+'@type': dynasty
+label: 北涼
+wikidata: Q1539360
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8C%97%E5%87%89
+wikipedia_en: https://en.wikipedia.org/wiki/Northern_Liang
+---
+'@id': ctext:722213
+'@type': dynasty
+label: 杞
+wikidata: Q1207032
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9D%9E%E5%9C%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Qi_(Henan)
+---
+'@id': ctext:727435
+'@type': dynasty
+label: 南齊
+wikidata: Q62456
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%97%E9%BD%90
+wikipedia_en: https://en.wikipedia.org/wiki/Southern_Qi
+---
+'@id': ctext:729136
+'@type': dynasty
+label: 鄭
+wikidata: Q197598
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%84%AD%E5%9C%8B
+wikipedia_en: https://en.wikipedia.org/wiki/Zheng_(state)
+---
+'@id': ctext:741213
+'@type': dynasty
+label: 後漢
+wikidata: Q1069829
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%BE%8C%E6%BC%A2
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Han_(Five_Dynasties)
+---
+'@id': ctext:747216
+'@type': dynasty
+label: 大朝鮮國
+names:
+- 大朝鮮國
+- 대조선국
+wikidata: Q28179
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%9C%9D%E9%B2%9C%E7%8E%8B%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Joseon
+---
+'@id': ctext:758729
+'@type': dynasty
+label: 魯
+wikidata: Q736936
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%B2%81%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Lu_(state)
+---
+'@id': ctext:786165
+'@type': dynasty
+label: 胡夏
+wikidata: Q546282
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A4%8F_(%E5%8D%81%E5%85%AD%E5%9B%BD)
+wikipedia_en: https://en.wikipedia.org/wiki/Xia_(Sixteen_Kingdoms)
+---
+'@id': ctext:792872
+'@type': dynasty
+label: 遼
+names:
+- 遼
+- 契丹
+wikidata: Q4958
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%BE%BD%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Liao_dynasty
+---
+'@id': ctext:819248
+'@type': dynasty
+label: 韓
+wikidata: Q1574130
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%9F%A9%E5%9B%BD_(%E6%88%98%E5%9B%BD)
+wikipedia_en: https://en.wikipedia.org/wiki/Han_(state)
+---
+'@id': ctext:819305
+'@type': dynasty
+label: 武周
+wikidata: Q835435
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%AD%A6%E5%91%A8
+wikipedia_en: https://en.wikipedia.org/wiki/Zhou_dynasty_(690%E2%80%93705)
+---
+'@id': ctext:830249
+'@type': dynasty
+label: 前燕
+wikidata: Q1472004
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%89%8D%E7%87%95
+wikipedia_en: https://en.wikipedia.org/wiki/Former_Yan
+---
+'@id': ctext:832138
+'@type': dynasty
+label: 黎中興朝
+---
+'@id': ctext:839760
+'@type': dynasty
+label: 百濟
+names:
+- 百濟
+- 백제
+wikidata: Q28428
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%99%BE%E6%B5%8E
+wikipedia_en: https://en.wikipedia.org/wiki/Baekje
+---
+'@id': ctext:844723
+'@type': dynasty
+label: 東漢
+names:
+- 東漢
+- 後漢
+wikidata: Q1147037
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%9C%E6%B1%89
+wikipedia_en: https://en.wikipedia.org/wiki/Eastern_Han
+---
+'@id': ctext:848497
+'@type': dynasty
+label: 後趙
+wikidata: Q2314907
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E8%B5%B5
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Zhao
+---
+'@id': ctext:852240
+'@type': dynasty
+label: 西魏
+wikidata: Q1143164
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E9%AD%8F
+wikipedia_en: https://en.wikipedia.org/wiki/Western_Wei
+---
+'@id': ctext:869353
+'@type': dynasty
+label: 後唐
+names:
+- 後唐
+- 大唐
+wikidata: Q1143126
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E5%94%90
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Tang
+---
+'@id': ctext:871724
+'@type': dynasty
+label: 後涼
+wikidata: Q2314869
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E5%87%89
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Liang_(Sixteen_Kingdoms)
+---
+'@id': ctext:874047
+'@type': dynasty
+label: 後陳朝
+---
+'@id': ctext:877588
+'@type': dynasty
+label: 前秦
+wikidata: Q1471995
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%89%8D%E7%A7%A6
+wikipedia_en: https://en.wikipedia.org/wiki/Former_Qin
+---
+'@id': ctext:878923
+'@type': dynasty
+label: 翟魏
+wikidata: Q1327602
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%BF%9F%E9%AD%8F
+wikipedia_en: https://en.wikipedia.org/wiki/Zhai_Wei
+---
+'@id': ctext:879536
+'@type': dynasty
+label: 明
+names:
+- 明
+- 大明
+wikidata: Q9903
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%98%8E%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Ming_dynasty
+---
+'@id': ctext:881064
+'@type': dynasty
+label: 蜀漢
+wikidata: Q320925
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%9C%80%E6%B1%89
+wikipedia_en: https://en.wikipedia.org/wiki/Shu_Han
+---
+'@id': ctext:898516
+'@type': dynasty
+label: 宋
+wikidata: Q7462
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AE%8B%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Song_dynasty
+---
+'@id': ctext:899738
+'@type': dynasty
+label: 莫朝
+---
+'@id': ctext:931594
+'@type': dynasty
+label: 西燕
+names:
+- 西燕
+- 燕
+wikidata: Q1149230
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%87%95
+wikipedia_en: https://en.wikipedia.org/wiki/Western_Yan
+---
+'@id': ctext:939555
+'@type': dynasty
+label: 宋
+wikidata: Q1065073
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AE%8B%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Song_(state)
+---
+'@id': ctext:951905
+'@type': dynasty
+label: 衛
+wikidata: Q1147897
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%AB%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Wey_(state)
+---
+'@id': ctext:961540
+'@type': dynasty
+label: 吳越
+wikidata: Q1193822
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%B4%E8%B6%8A%E5%9B%BD
+wikipedia_en: https://en.wikipedia.org/wiki/Wuyue
+---
+'@id': ctext:964993
+'@type': dynasty
+label: 前蜀
+wikidata: Q571453
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%89%8D%E8%9C%80
+wikipedia_en: https://en.wikipedia.org/wiki/Former_Shu
+---
+'@id': ctext:973702
+'@type': dynasty
+label: 後梁
+wikidata: Q783489
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E6%A2%81
+wikipedia_en: https://en.wikipedia.org/wiki/Later_Liang_(Five_Dynasties)
+---
+'@id': ctext:978599
+'@type': dynasty
+label: 西梁
+names:
+- 西梁
+- 後梁
+wikidata: Q849770
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%90%8E%E6%A2%81_(%E5%8D%97%E6%9C%9D)
+wikipedia_en: https://en.wikipedia.org/wiki/Western_Liang_(555%E2%80%93587)
+---
+'@id': ctext:981499
+'@type': dynasty
+label: 漢
+wikidata: Q7209
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%B1%89%E6%9C%9D
+wikipedia_en: https://en.wikipedia.org/wiki/Han_dynasty
+---
+'@id': ctext:993098
+'@type': dynasty
+label: 丁朝
+---
+'@id': ctext:4578247
+'@type': dynasty
+label: 薛延陀

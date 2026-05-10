@@ -1,0 +1,264 @@
+# ctext.org property entities (59 total)
+# Source: ctext_datawiki-2026-01-22.ttl (CC-BY-NC-SA 3.0)
+---
+---
+'@id': ctext:8146
+'@type': property
+label: recommended
+---
+'@id': ctext:38670
+'@type': property
+label: killed
+---
+'@id': ctext:74176
+'@type': property
+label: ctext-work
+label_en: Chinese Text Project work identifier
+---
+'@id': ctext:78454
+'@type': property
+label: rebelled-against
+---
+'@id': ctext:88766
+'@type': property
+label: creator
+label_en: Creator
+---
+'@id': ctext:90680
+'@type': property
+label: authority-sinica
+label_en: Academia Sinica identifier
+---
+'@id': ctext:137112
+'@type': property
+label: commentary-on
+---
+'@id': ctext:138378
+'@type': property
+label: targettype
+---
+'@id': ctext:147187
+'@type': property
+label: location
+---
+'@id': ctext:170468
+'@type': property
+label: died-date
+label_en: Date of death
+---
+'@id': ctext:200356
+'@type': property
+label: mother
+label_en: Biological mother
+---
+'@id': ctext:225565
+'@type': property
+label: label_en
+---
+'@id': ctext:231414
+'@type': property
+label: ruled
+---
+'@id': ctext:231906
+'@type': property
+label: died-age
+label_en: Age at death
+---
+'@id': ctext:256691
+'@type': property
+label: born-date
+label_en: Date of birth
+---
+'@id': ctext:259510
+'@type': property
+label: contained-in
+---
+'@id': ctext:284586
+'@type': property
+label: kind-of
+---
+'@id': ctext:296579
+'@type': property
+label: associated-place
+label_en: Associated place
+---
+'@id': ctext:346843
+'@type': property
+label: identical-to
+---
+'@id': ctext:371626
+'@type': property
+label: type
+label_en: Type
+---
+'@id': ctext:392684
+'@type': property
+label: authority-cbdb
+label_en: CBDB identifier
+---
+'@id': ctext:473715
+'@type': property
+label: born
+label_en: Year of birth
+---
+'@id': ctext:490932
+'@type': property
+label: authority-ddbc
+label_en: DDBC identifier
+---
+'@id': ctext:493636
+'@type': property
+label: description_en
+---
+'@id': ctext:539391
+'@type': property
+label: father
+label_en: Biological father
+---
+'@id': ctext:545681
+'@type': property
+label: student-of
+---
+'@id': ctext:552124
+'@type': property
+label: exam-status
+---
+'@id': ctext:570500
+'@type': property
+label: to-date
+---
+'@id': ctext:571568
+'@type': property
+label: spouse-of
+---
+'@id': ctext:588183
+'@type': property
+label: authority-wikidata
+label_en: Wikidata identifier
+---
+'@id': ctext:596361
+'@type': property
+label: associated-person
+label_en: Associated person
+---
+'@id': ctext:611655
+'@type': property
+label: qualifies
+---
+'@id': ctext:639958
+'@type': property
+label: completed-date
+---
+'@id': ctext:641394
+'@type': property
+label: ruler
+label_en: Ruler
+---
+'@id': ctext:682098
+'@type': property
+label: part-of
+---
+'@id': ctext:706348
+'@type': property
+label: from-date
+---
+'@id': ctext:740005
+'@type': property
+label: link-wikipedia_zh
+label_en: Chinese Wikipedia link
+---
+'@id': ctext:747736
+'@type': property
+label: indexed-in
+label_en: Indexed in a bibliographic work or list
+---
+'@id': ctext:782650
+'@type': property
+label: sourcetype
+---
+'@id': ctext:806097
+'@type': property
+label: member-of
+---
+'@id': ctext:808501
+'@type': property
+label: population-households
+---
+'@id': ctext:812307
+'@type': property
+label: location-relative
+---
+'@id': ctext:828896
+'@type': property
+label: name
+label_en: Name
+---
+'@id': ctext:836757
+'@type': property
+label: died
+label_en: Year of death
+---
+'@id': ctext:837210
+'@type': property
+label: population-persons
+---
+'@id': ctext:852756
+'@type': property
+label: father-adoptive
+label_en: Adoptive father
+---
+'@id': ctext:861579
+'@type': property
+label: authority-viaf
+label_en: VIAF identifier
+---
+'@id': ctext:861701
+'@type': property
+label: held-office
+---
+'@id': ctext:903259
+'@type': property
+label: associated-dynasty
+label_en: Associated dynasty
+---
+'@id': ctext:906892
+'@type': property
+label: work-subject
+label_en: Subject of the work
+---
+'@id': ctext:914766
+'@type': property
+label: link-wikipedia_en
+label_en: English Wikipedia link
+---
+'@id': ctext:922182
+'@type': property
+label: name-style
+---
+'@id': ctext:1154725
+'@type': property
+label: label_zh
+---
+'@id': ctext:2894242
+'@type': property
+label: date
+---
+'@id': ctext:5123266
+'@type': property
+label: name-posthumous
+---
+'@id': ctext:5274010
+'@type': property
+label: name-temple
+---
+'@id': ctext:5793157
+'@type': property
+label: replaced-with
+---
+'@id': ctext:6464908
+'@type': property
+label: property-wikidata
+---
+'@id': ctext:6877309
+'@type': property
+label: name-art

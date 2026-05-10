@@ -1,0 +1,16 @@
+source: ctext_datawiki-2026-01-22.ttl
+license: CC-BY-NC-SA 3.0
+total_entities: 92174
+types:
+  property: 59
+  dynasty: 112
+  organization: 40
+  examstatus: 26
+  celestial: 116
+  office: 7057
+  era: 1136
+  qualifier: 16
+  place: 1878
+  event: 42
+  person: 54317
+  work: 27375

@@ -1,0 +1,172 @@
+# ctext.org organization entities (40 total)
+# Source: ctext_datawiki-2026-01-22.ttl (CC-BY-NC-SA 3.0)
+---
+---
+'@id': ctext:69929
+'@type': organization
+label: 漢軍正紅旗
+---
+'@id': ctext:82544
+'@type': organization
+label: 漢軍鑲紅旗
+---
+'@id': ctext:111686
+'@type': organization
+label: 蒙古正紅旗
+---
+'@id': ctext:113366
+'@type': organization
+label: 漢洲正白旗
+---
+'@id': ctext:128319
+'@type': organization
+label: 蒙古科爾沁旗
+---
+'@id': ctext:137593
+'@type': organization
+label: 蒙古鑲藍旗
+---
+'@id': ctext:145532
+'@type': organization
+label: 義和團
+---
+'@id': ctext:157445
+'@type': organization
+label: 滿洲鑲黃旗
+---
+'@id': ctext:219589
+'@type': organization
+label: 察哈爾正白旗
+---
+'@id': ctext:256696
+'@type': organization
+label: 蒙古鑲白旗
+---
+'@id': ctext:270699
+'@type': organization
+label: 八卦教
+wikidata: Q10892022
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%85%AB%E5%8D%A6%E6%95%99
+wikipedia_en: https://en.wikipedia.org/wiki/Baguadao
+---
+'@id': ctext:277673
+'@type': organization
+label: 漢軍鑲黃旗
+---
+'@id': ctext:308977
+'@type': organization
+label: 漢軍正藍旗
+---
+'@id': ctext:417220
+'@type': organization
+label: 白蓮
+---
+'@id': ctext:428610
+'@type': organization
+label: 蒙古鑲紅旗
+---
+'@id': ctext:435378
+'@type': organization
+label: 漢軍旗
+wikidata: Q11133120
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%B1%89%E5%86%9B%E5%85%AB%E6%97%97
+wikipedia_en: https://en.wikipedia.org/wiki/Han_Chinese_Eight_Banners
+---
+'@id': ctext:465007
+'@type': organization
+label: 滿洲正紅旗
+---
+'@id': ctext:483854
+'@type': organization
+label: 漢軍正白旗
+---
+'@id': ctext:492366
+'@type': organization
+label: 漢軍鑲白旗
+---
+'@id': ctext:511701
+'@type': organization
+label: 滿洲正藍旗
+---
+'@id': ctext:524299
+'@type': organization
+label: 滿州鑲黃旗
+---
+'@id': ctext:551879
+'@type': organization
+label: 滿洲鑲紅旗
+---
+'@id': ctext:579723
+'@type': organization
+label: 滿洲正黃旗
+---
+'@id': ctext:581870
+'@type': organization
+label: 蒙古鑲黃旗
+---
+'@id': ctext:588844
+'@type': organization
+label: 蒙古正藍旗
+---
+'@id': ctext:592742
+'@type': organization
+label: 蒙古正黃旗
+---
+'@id': ctext:615154
+'@type': organization
+label: 滿洲鑲白旗
+---
+'@id': ctext:730931
+'@type': organization
+label: 漢軍正黃旗
+---
+'@id': ctext:741409
+'@type': organization
+label: 滿州鑲紅旗
+---
+'@id': ctext:755647
+'@type': organization
+label: 元祐黨
+---
+'@id': ctext:763936
+'@type': organization
+label: 滿州正白旗
+---
+'@id': ctext:790260
+'@type': organization
+label: 蒙古正白旗
+---
+'@id': ctext:817607
+'@type': organization
+label: 滿洲鑲藍旗
+---
+'@id': ctext:820974
+'@type': organization
+label: 漢軍鑲藍旗
+---
+'@id': ctext:825479
+'@type': organization
+label: 白蓮教
+wikidata: Q1142216
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%99%BD%E8%93%AE%E6%95%99
+wikipedia_en: https://en.wikipedia.org/wiki/White_Lotus
+---
+'@id': ctext:876597
+'@type': organization
+label: 索倫正紅旗
+---
+'@id': ctext:882231
+'@type': organization
+label: 齊齊哈爾鑲紅旗
+---
+'@id': ctext:942636
+'@type': organization
+label: 滿洲正白旗
+---
+'@id': ctext:989860
+'@type': organization
+label: 義和拳
+---
+'@id': ctext:5809984
+'@type': organization
+label: 忠孝軍

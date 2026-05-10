@@ -1,0 +1,74 @@
+# ctext.org qualifier entities (16 total)
+# Source: ctext_datawiki-2026-01-22.ttl (CC-BY-NC-SA 3.0)
+---
+---
+'@id': ctext:21282
+'@type': qualifier
+label: role
+---
+'@id': ctext:96215
+'@type': qualifier
+label: stated-category
+label_en: Stated category
+---
+'@id': ctext:108900
+'@type': qualifier
+label: to-date
+---
+'@id': ctext:137042
+'@type': qualifier
+label: juan-size
+label_en: Fascicle count (卷)
+---
+'@id': ctext:161271
+'@type': qualifier
+label: at-place
+---
+'@id': ctext:252306
+'@type': qualifier
+label: from-date
+---
+'@id': ctext:258118
+'@type': qualifier
+label: edition
+---
+'@id': ctext:328840
+'@type': qualifier
+label: at-date
+label_en: At date
+---
+'@id': ctext:393468
+'@type': qualifier
+label: ce-size
+label_en: Volume count (冊)
+---
+'@id': ctext:559692
+'@type': qualifier
+label: spouse-type
+---
+'@id': ctext:644434
+'@type': qualifier
+label: bu-size
+---
+'@id': ctext:680527
+'@type': qualifier
+label: authority-hvd
+label_en: TGAZ identifier
+---
+'@id': ctext:692993
+'@type': qualifier
+label: pian-size
+---
+'@id': ctext:696883
+'@type': qualifier
+label: role-status
+---
+'@id': ctext:825589
+'@type': qualifier
+label: authority-ddbc_place
+label_en: DDBC place identifier
+---
+'@id': ctext:858319
+'@type': qualifier
+label: stated-subcategory
+label_en: Stated subcategory

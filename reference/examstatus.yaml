@@ -1,0 +1,128 @@
+# ctext.org examstatus entities (26 total)
+# Source: ctext_datawiki-2026-01-22.ttl (CC-BY-NC-SA 3.0)
+---
+---
+'@id': ctext:83338
+'@type': examstatus
+label: 優貢
+names:
+- 優貢
+- 優貢生
+---
+'@id': ctext:99260
+'@type': examstatus
+label: 副貢
+---
+'@id': ctext:211451
+'@type': examstatus
+label: 監生
+---
+'@id': ctext:213521
+'@type': examstatus
+label: 廩生
+---
+'@id': ctext:218183
+'@type': examstatus
+label: 歲貢生
+---
+'@id': ctext:234330
+'@type': examstatus
+label: 繙譯舉人
+---
+'@id': ctext:282106
+'@type': examstatus
+label: 諸生
+---
+'@id': ctext:337949
+'@type': examstatus
+label: 廩貢生
+---
+'@id': ctext:379511
+'@type': examstatus
+label: 貢生
+---
+'@id': ctext:397342
+'@type': examstatus
+label: 國子監生
+---
+'@id': ctext:405710
+'@type': examstatus
+label: 生員
+---
+'@id': ctext:415385
+'@type': examstatus
+label: 孝廉方正
+---
+'@id': ctext:483810
+'@type': examstatus
+label: 例貢
+---
+'@id': ctext:516877
+'@type': examstatus
+label: 武舉人
+---
+'@id': ctext:547830
+'@type': examstatus
+label: 博學鴻詞
+wikidata: Q9531580
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%AD%B8%E5%AE%8F%E8%BE%AD%E7%A7%91
+---
+'@id': ctext:572662
+'@type': examstatus
+label: 選拔貢生
+names:
+- 選拔貢生
+- 拔貢生
+- 拔貢
+wikidata: Q30941333
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%8B%94%E8%B2%A2
+---
+'@id': ctext:647104
+'@type': examstatus
+label: 賜進士出身
+---
+'@id': ctext:683811
+'@type': examstatus
+label: 武進士
+wikidata: Q10368611
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%AD%A6%E9%80%B2%E5%A3%AB
+---
+'@id': ctext:739118
+'@type': examstatus
+label: 舉人
+wikidata: Q836724
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E4%B8%BE%E4%BA%BA
+wikipedia_en: https://en.wikipedia.org/wiki/Juren
+---
+'@id': ctext:739705
+'@type': examstatus
+label: 繙譯進士
+wikidata: Q15899696
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%B9%99%E8%AD%AF%E9%80%B2%E5%A3%AB
+---
+'@id': ctext:744418
+'@type': examstatus
+label: 副榜貢生
+---
+'@id': ctext:806322
+'@type': examstatus
+label: 中式副榜
+---
+'@id': ctext:887838
+'@type': examstatus
+label: 進士
+wikidata: Q420477
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%BF%9B%E5%A3%AB
+wikipedia_en: https://en.wikipedia.org/wiki/Jinshi
+---
+'@id': ctext:965691
+'@type': examstatus
+label: 恩貢
+---
+'@id': ctext:3349331
+'@type': examstatus
+label: 賢良
+---
+'@id': ctext:6023836
+'@type': examstatus
+label: 貢士

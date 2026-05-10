@@ -1,0 +1,186 @@
+# ctext.org event entities (42 total)
+# Source: ctext_datawiki-2026-01-22.ttl (CC-BY-NC-SA 3.0)
+---
+---
+'@id': ctext:54154
+'@type': event
+label: 疫
+---
+'@id': ctext:57940
+'@type': event
+label: 長春節
+---
+'@id': ctext:94149
+'@type': event
+label: 承天節
+---
+'@id': ctext:103729
+'@type': event
+label: 同天節
+---
+'@id': ctext:122904
+'@type': event
+label: 降聖節
+---
+'@id': ctext:141226
+'@type': event
+label: 壽聖節
+---
+'@id': ctext:201114
+'@type': event
+label: 元成節
+---
+'@id': ctext:222715
+'@type': event
+label: 先天節
+---
+'@id': ctext:276921
+'@type': event
+label: 天寧節
+---
+'@id': ctext:280120
+'@type': event
+label: 天祐節
+names:
+- 天祐節
+- 瑞慶節
+---
+'@id': ctext:300198
+'@type': event
+label: 開基節
+---
+'@id': ctext:314992
+'@type': event
+label: 萬春節
+---
+'@id': ctext:323146
+'@type': event
+label: 火災
+names:
+- 火災
+- 火
+---
+'@id': ctext:331196
+'@type': event
+label: 長寧節
+---
+'@id': ctext:443714
+'@type': event
+label: 天慶節
+---
+'@id': ctext:450699
+'@type': event
+label: 乾會節
+---
+'@id': ctext:460529
+'@type': event
+label: 會慶節
+---
+'@id': ctext:488214
+'@type': event
+label: 諸慶節
+---
+'@id': ctext:492415
+'@type': event
+label: 萬壽節
+---
+'@id': ctext:499741
+'@type': event
+label: 壽崇節
+---
+'@id': ctext:502553
+'@type': event
+label: 寧貺節
+---
+'@id': ctext:521088
+'@type': event
+label: 天瑞節
+---
+'@id': ctext:538176
+'@type': event
+label: 天符節
+---
+'@id': ctext:538269
+'@type': event
+label: 天應節
+---
+'@id': ctext:558751
+'@type': event
+label: 興龍節
+---
+'@id': ctext:575973
+'@type': event
+label: 天申節
+---
+'@id': ctext:634954
+'@type': event
+label: 乾元節
+---
+'@id': ctext:647835
+'@type': event
+label: 水
+---
+'@id': ctext:721356
+'@type': event
+label: 乾明節
+names:
+- 乾明節
+- 壽寧節
+---
+'@id': ctext:745503
+'@type': event
+label: 聖節
+---
+'@id': ctext:791238
+'@type': event
+label: 七夕
+---
+'@id': ctext:861643
+'@type': event
+label: 旱
+---
+'@id': ctext:863681
+'@type': event
+label: 坤成節
+---
+'@id': ctext:871269
+'@type': event
+label: 天基節
+---
+'@id': ctext:884862
+'@type': event
+label: 真元節
+---
+'@id': ctext:886522
+'@type': event
+label: 天貺節
+---
+'@id': ctext:892149
+'@type': event
+label: 乾龍節
+---
+'@id': ctext:960465
+'@type': event
+label: 重明節
+---
+'@id': ctext:974794
+'@type': event
+label: 靖康之難
+names:
+- 靖康之難
+- 靖康之禍
+wikidata: Q1326831
+wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%9D%96%E5%BA%B7%E4%B9%8B%E5%8F%98
+wikipedia_en: https://en.wikipedia.org/wiki/Jingkang_incident
+---
+'@id': ctext:981057
+'@type': event
+label: 饑
+---
+'@id': ctext:996328
+'@type': event
+label: 應聖節
+---
+'@id': ctext:2747350
+'@type': event
+label: 端午節
