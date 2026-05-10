@@ -18,3 +18,5 @@ bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
 lib:has_raw_bio: true
+cprop:associated-dynasty:
+  '@id': ctext:634793
