@@ -9,7 +9,7 @@ date:
   circa: true
 genre: prose
 source:
-  textRef: heshanggong
+  textRef: heshanggong-laozi
   relation: section
 ---
 
