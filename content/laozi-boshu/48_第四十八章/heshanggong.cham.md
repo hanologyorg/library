@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
@@ -11,13 +11,12 @@ nature: commentary
 
 {1} commentary [道謂之自然之道也。日損者，情欲文飾日以消損。]
 
-{1} commentary [損情欲也。又損之，所以漸去。]
+@verse:0:12:16 commentary [損情欲也。又損之，所以漸去。]
 
-{1} commentary [當恬淡如嬰兒，無所造為也。]
+@verse:0:17:22 commentary [當恬淡如嬰兒，無所造為也。]
 
-{1} commentary [情欲斷絕，德於道合，則無所不施，無所不為也。]
+@verse:0:23:29 commentary [情欲斷絕，德於道合，則無所不施，無所不為也。]
 
-{2} commentary [取，治也。治天下當以無事，不當以勞煩也。]
+{1} commentary [取，治也。治天下當以無事，不當以勞煩也。]
 
-{2} commentary [及其好有事，則政教煩，民不安，故不足以治天下也。]
-
+@verse:1:11:23 commentary [及其好有事，則政教煩，民不安，故不足以治天下也。]

@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
@@ -9,17 +9,16 @@ nature: commentary
 ## 注釋
 {1} commentary [先開張之者，欲極其奢淫。]
 
-{1} commentary [先強大之者，欲使遇禍患。]
+@verse:0:10:19 commentary [先強大之者，欲使遇禍患。]
 
 {1} commentary [先興之者，欲使其驕危。]
 
 {1} commentary [先與之者，欲極其貪心。]
 
-{1} commentary [此四事，其道微，其效明也。]
+@verse:0:40:44 commentary [此四事，其道微，其效明也。]
 
-{2} commentary [柔弱者久長，剛強者先亡也。]
+{1} commentary [柔弱者久長，剛強者先亡也。]
 
-{3} commentary [魚脫於淵，謂去剛得柔，不可複製焉。]
+@verse:2:0:6 commentary [魚脫於淵，謂去剛得柔，不可複製焉。]
 
 {3} commentary [利器者，謂權道也。治國權者，不可以示執事之臣也。治身道者，不可以示非其人也。]
-

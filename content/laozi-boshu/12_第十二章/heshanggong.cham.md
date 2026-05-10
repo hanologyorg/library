@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
@@ -17,9 +17,8 @@ nature: commentary
 
 {1} commentary [妨，傷也。難得之貨，謂金銀珠玉，心貪意欲，不知饜足，則行傷身辱也。]
 
-{2} commentary [守五性，去六情，節志氣，養神明。]
+{1} commentary [守五性，去六情，節志氣，養神明。]
 
-{2} commentary [目不妄視，妄視洩精於外。]
+@verse:1:10:13 commentary [目不妄視，妄視洩精於外。]
 
-{2} commentary [去彼目之妄視，取此腹之養性。]
-
+@verse:1:14:19 commentary [去彼目之妄視，取此腹之養性。]

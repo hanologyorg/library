@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C001
+contributor: A201
 role: commentator
 nature: commentary
 ---
@@ -11,11 +11,10 @@ nature: commentary
 
 {2} commentary [勝人者，有力而已矣，未若自勝者無物以損其力，用其智於人，未若用其智於己也。用其力於人，未若用其力於己也。明用於己，則物無避焉，力用於己，則物無改焉。]
 
-{3} commentary [知足自不失，故富也。]
+@verse:2:0:5 commentary [知足自不失，故富也。]
 
-{3} commentary [勤能行之，其志必獲，故曰强行者有志矣。]
+@verse:2:7:13 commentary [勤能行之，其志必獲，故曰强行者有志矣。]
 
-{4} commentary [以明自察，量力而行，不失其所，必獲久長矣。]
+@verse:3:0:7 commentary [以明自察，量力而行，不失其所，必獲久長矣。]
 
 {4} commentary [雖死而以為生之道不亡，乃得全其壽，身沒而道猶存，況身存而道不卒乎。]
-

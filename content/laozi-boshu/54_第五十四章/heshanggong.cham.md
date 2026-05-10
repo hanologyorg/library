@@ -1,19 +1,19 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
 
 ## 注釋
-{1} commentary [建，立也。善以道立身立國者，不可得引而拔之。]
+@verse:0:0:5 commentary [建，立也。善以道立身立國者，不可得引而拔之。]
 
-{1} commentary [善以道抱精神者，終不可拔引解脫。]
+@verse:0:6:11 commentary [善以道抱精神者，終不可拔引解脫。]
 
 {1} commentary [為人子孫能修道如是，長生不死，世世以久，祭祀先祖，宗廟無絕時。]
 
-{2} commentary [修道於身，愛氣養神，益壽延年。其德如是，乃為真人。]
+{1} commentary [修道於身，愛氣養神，益壽延年。其德如是，乃為真人。]
 
 {2} commentary [修道於家，父慈子孝，兄友弟順，夫信妻貞。其德如是，乃有餘慶及於來世子孫。]
 
@@ -23,15 +23,14 @@ nature: commentary
 
 {2} commentary [人主修道於天下，不言而化，不教而治，下之應上，信如影響。其德如是，乃為普傳。]
 
-{3} commentary [以修道之身，觀不修道之身，孰亡孰存也。]
+{2} commentary [以修道之身，觀不修道之身，孰亡孰存也。]
 
-{3} commentary [以修道之家，觀不修道之家。]
+@verse:2:5:9 commentary [以修道之家，觀不修道之家。]
 
-{3} commentary [以修道之鄉，觀不修道之鄉也。]
+@verse:2:10:14 commentary [以修道之鄉，觀不修道之鄉也。]
 
 {3} commentary [以修道之國，觀不修道之國也。]
 
-{3} commentary [以修道之主，觀不修道之主也。]
+@verse:2:20:26 commentary [以修道之主，觀不修道之主也。]
 
-{4} commentary [老子言，吾何知天下修道者昌，背道者亡。以此五事觀而知之也。]
-
+{3} commentary [老子言，吾何知天下修道者昌，背道者亡。以此五事觀而知之也。]

@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C001
+contributor: A201
 role: commentator
 nature: commentary
 ---
@@ -17,5 +17,4 @@ nature: commentary
 
 {1} commentary [大辯因物而言，己無所造，故若訥也。]
 
-{2} commentary [躁罷然後勝寒，靜無為以勝熱，以此推之，則清靜為天下正也。靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也。]
-
+{1} commentary [躁罷然後勝寒，靜無為以勝熱，以此推之，則清靜為天下正也。靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也。]

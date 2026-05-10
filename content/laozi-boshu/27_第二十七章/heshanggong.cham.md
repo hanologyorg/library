@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
@@ -17,7 +17,7 @@ nature: commentary
 
 {1} commentary [善以道結事者，乃可結其心，不如繩索可得解也。]
 
-{2} commentary [聖人所以常教人忠孝者，欲以救人性命。]
+@verse:1:0:8 commentary [聖人所以常教人忠孝者，欲以救人性命。]
 
 {2} commentary [使貴賤各得其所也。]
 
@@ -27,15 +27,14 @@ nature: commentary
 
 {2} commentary [聖人善救人物，是謂襲明大道。]
 
-{3} commentary [人之行善者，聖人即以為人師。]
+{2} commentary [人之行善者，聖人即以為人師。]
 
 {3} commentary [資，用也。人行不善者，聖人猶教導使為善，得以給用也。]
 
-{4} commentary [獨無輔也。]
+@verse:3:0:4 commentary [獨無輔也。]
 
 {4} commentary [無所使也。]
 
 {4} commentary [雖自以為智。言此人乃大迷惑。]
 
 {4} commentary [能通此意，是謂知微妙要道也。]
-

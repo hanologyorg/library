@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C001
+contributor: A201
 role: commentator
 nature: commentary
 ---
@@ -11,7 +11,6 @@ nature: commentary
 
 {2} commentary [無在於一，而求之於眾也，道視之不可見，聽之不可聞，搏之不可得，如其知之，不須出戶，若其不知，出愈遠愈迷也。]
 
-{3} commentary [得物之致，故雖不行而慮可知也。識物之宗，故雖不見，而是非之理可得而名也。]
+@verse:2:0:13 commentary [得物之致，故雖不行而慮可知也。識物之宗，故雖不見，而是非之理可得而名也。]
 
 {3} commentary [明物之性，因之而已。故雖不為而使之成矣。]
-

@@ -1,17 +1,17 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
 
 ## 注釋
-{1} commentary [昔，往也。一，無為，道之子也。]
+@verse:0:0:5 commentary [昔，往也。一，無為，道之子也。]
 
-{1} commentary [言天得一故能垂象清明。]
+@verse:0:6:11 commentary [言天得一故能垂象清明。]
 
-{1} commentary [言地得一故能安靜不動搖。]
+@verse:0:12:17 commentary [言地得一故能安靜不動搖。]
 
 {1} commentary [言神得一故能變化無形。]
 
@@ -19,9 +19,9 @@ nature: commentary
 
 {1} commentary [言萬物皆須道以生成也。]
 
-{1} commentary [言侯王得一故能為天下平正。]
+@verse:0:30:39 commentary [言侯王得一故能為天下平正。]
 
-{2} commentary [致，誡也。謂下六事也。]
+@verse:1:0:3 commentary [致，誡也。謂下六事也。]
 
 {2} commentary [言天當有陰陽弛張，晝夜更用，不可但欲清明無已時，將恐分裂不為天。]
 
@@ -35,17 +35,16 @@ nature: commentary
 
 {2} commentary [言侯王當屈己以下人，汲汲求賢，不可但欲貴高於人無已時，將恐顛蹶失其位。]
 
-{3} commentary [言必欲尊貴，當以薄賤為本，若禹稷躬稼，舜陶河濱，周公下白屋也。]
+{2} commentary [言必欲尊貴，當以薄賤為本，若禹稷躬稼，舜陶河濱，周公下白屋也。]
 
-{3} commentary [言必欲尊貴，當以下為本基，猶築牆造功，因卑成高，下不堅固，後必傾危。]
+{2} commentary [言必欲尊貴，當以下為本基，猶築牆造功，因卑成高，下不堅固，後必傾危。]
 
-{4} commentary [孤寡喻孤獨，不轂喻不能如車轂為眾輻所湊。]
+{3} commentary [孤寡喻孤獨，不轂喻不能如車轂為眾輻所湊。]
 
-{4} commentary [言侯王至尊貴，能以孤寡自稱，此非以賤為本乎，以曉人。]
+{3} commentary [言侯王至尊貴，能以孤寡自稱，此非以賤為本乎，以曉人。]
 
-{4} commentary [嗟嘆之辭。]
+@verse:3:23:24 commentary [嗟嘆之辭。]
 
-{5} commentary [致，就也。言人就車數之為輻、為輪、為轂、為衡、為轝，無有名為車者，故成為車，以喻侯王不以尊號自名，故能成其貴。]
+{4} commentary [致，就也。言人就車數之為輻、為輪、為轂、為衡、為轝，無有名為車者，故成為車，以喻侯王不以尊號自名，故能成其貴。]
 
-{5} commentary [琭琭喻少，落落喻多，玉少故見貴，石多故見賤。言不欲如玉為人所貴，如石為人所賤，當處其中也。]
-
+{4} commentary [琭琭喻少，落落喻多，玉少故見貴，石多故見賤。言不欲如玉為人所貴，如石為人所賤，當處其中也。]

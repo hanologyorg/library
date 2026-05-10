@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C001
+contributor: A201
 role: commentator
 nature: commentary
 ---
@@ -11,5 +11,6 @@ nature: commentary
 
 {2} commentary [小怨則不足以報，大怨則天下之所欲誅，順天下之所同者，德也。]
 
-{3} commentary [以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎，故曰，猶難之也。]
+{2} commentary [以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎，故曰，猶難之也。]
 
+{6} commentary []

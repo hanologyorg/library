@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
@@ -9,9 +9,9 @@ nature: commentary
 ## 注釋
 {1} commentary [言道氾氾，若浮若沉，若有若無，視之不見，說之難殊。]
 
-{1} commentary [道可左可右，無所不宜。]
+@verse:0:4:8 commentary [道可左可右，無所不宜。]
 
-{2} commentary [恃，待也。萬物皆待道而生。]
+{1} commentary [恃，待也。萬物皆待道而生。]
 
 {2} commentary [道不辭謝而逆止也。]
 
@@ -19,13 +19,12 @@ nature: commentary
 
 {2} commentary [道雖愛養萬物，不如人主有所收取。]
 
-{2} commentary [萬物皆歸道受氣，道非如人主有所禁止也。]
+@verse:2:1:10 commentary [道匿德藏名，怕然無為，似若微小也。]
 
-{3} commentary [道匿德藏名，怕然無為，似若微小也。]
+{3} commentary [萬物皆歸道受氣，道非如人主有所禁止也。]
 
 {3} commentary [萬物橫來橫去，使名自在，故可名於大也。]
 
 {4} commentary [聖人法道匿德藏名，不為滿大。]
 
 {4} commentary [聖人以身師導，不言而化，萬事修治，故能成其大。]
-

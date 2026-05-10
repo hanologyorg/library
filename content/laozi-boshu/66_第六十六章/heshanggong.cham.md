@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
@@ -11,11 +11,11 @@ nature: commentary
 
 {1} commentary [以卑下，故能為百谷王也。]
 
-{2} commentary [欲在民之上也。]
+{1} commentary [欲在民之上也。]
 
-{2} commentary [法江海處謙虛。]
+{1} commentary [法江海處謙虛。]
 
-{2} commentary [欲在民之前也。]
+@verse:1:17:20 commentary [欲在民之前也。]
 
 {2} commentary [先人而後己也。]
 
@@ -28,4 +28,3 @@ nature: commentary
 {2} commentary [天下無厭聖人時，是由聖人不與人爭先後也。]
 
 {2} commentary [言人皆有為，無有與吾爭無為。]
-

@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C002
+contributor: A202
 role: commentator
 nature: commentary
 ---
@@ -13,25 +13,25 @@ nature: commentary
 
 {1} commentary [專守精氣使不亂，則形體能應之而柔順。]
 
-{1} commentary [能如嬰兒內無思慮，外無政事，則精神不去也。]
+@verse:0:16:19 commentary [能如嬰兒內無思慮，外無政事，則精神不去也。]
 
-{2} commentary [當洗其心，使潔淨也。心居玄冥之處，覽知萬事，故謂之玄覽也。]
+{1} commentary [當洗其心，使潔淨也。心居玄冥之處，覽知萬事，故謂之玄覽也。]
 
-{2} commentary [不淫邪也，淨能無疵病乎。]
+{1} commentary [不淫邪也，淨能無疵病乎。]
 
-{2} commentary [治身者，愛氣則身全；治國者，愛民則國安。]
+{1} commentary [治身者，愛氣則身全；治國者，愛民則國安。]
 
-{2} commentary [無有能知道滿於天下者。]
+{2} commentary [治身者呼吸精氣，無令耳聞﹔治國者，布施惠德，無令下知也。]
 
-{3} commentary [治身者呼吸精氣，無令耳聞﹔治國者，布施惠德，無令下知也。]
+{2} commentary [天門謂北極紫微宮。開闔謂終始五際也。治身之天門謂鼻孔，開謂喘息也，闔謂呼吸也。]
 
-{3} commentary [天門謂北極紫微宮。開闔謂終始五際也。治身之天門謂鼻孔，開謂喘息也，闔謂呼吸也。]
+@verse:2:5:8 commentary [治身當如雌牝，安靜柔弱，治國應變，合而不唱也。]
 
-{3} commentary [治身當如雌牝，安靜柔弱，治國應變，合而不唱也。]
+@verse:2:10:14 commentary [言達明白，如日月四通，滿於天下八極之外。故曰：視之不見，聽之不聞，彰布之於十方，煥煥煌煌也。]
 
-{3} commentary [言達明白，如日月四通，滿於天下八極之外。故曰：視之不見，聽之不聞，彰布之於十方，煥煥煌煌也。]
+{3} commentary [無有能知道滿於天下者。]
 
-{4} commentary [道生萬物而畜養之。]
+@verse:3:0:5 commentary [道生萬物而畜養之。]
 
 {4} commentary [道生萬物，無所取有。]
 
@@ -39,5 +39,4 @@ nature: commentary
 
 {4} commentary [道長養萬物，不宰割以為器用。]
 
-{4} commentary [言道行德，玄冥不可得見，欲使人如道也。]
-
+@verse:3:17:21 commentary [言道行德，玄冥不可得見，欲使人如道也。]

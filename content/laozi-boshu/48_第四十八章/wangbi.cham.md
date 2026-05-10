@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C001
+contributor: A201
 role: commentator
 nature: commentary
 ---
@@ -11,11 +11,10 @@ nature: commentary
 
 {1} commentary [務欲反虛無也。]
 
-{1} commentary [有為則有所失，故無為乃無所不為也。]
+@verse:0:12:29 commentary [有為則有所失，故無為乃無所不為也。]
 
-{2} commentary [動常因也。]
+{1} commentary [動常因也。]
 
-{2} commentary [自己造也。]
+@verse:1:11:15 commentary [自己造也。]
 
-{2} commentary [失統本也。]
-
+@verse:1:17:23 commentary [失統本也。]

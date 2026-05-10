@@ -1,7 +1,7 @@
 ---
 type: secondary
 base: text.cham.md
-contributor: C001
+contributor: A201
 role: commentator
 nature: commentary
 ---
@@ -11,3 +11,4 @@ nature: commentary
 
 {1} commentary [其唯於道而論之，若郤至之行，盛饌之餘也。本雖美，更可薉也。本雖有功而自伐之，故更為肬贅者也。]
 
+{1} commentary []
