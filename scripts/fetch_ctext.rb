@@ -2,22 +2,17 @@
 # frozen_string_literal: true
 
 # ctext.org importer — fetches classical Chinese texts from archive.org
-# and generates CHAM (Classical Han with Annotations Markup) files.
+# snapshots and generates CHAM (Classical Han with Annotations Markup) files.
 #
-# Uses the archaeo gem for all Wayback Machine interaction:
-#   - Archaeo::CdxApi      — find latest snapshot per page
-#   - Archaeo::Fetcher     — download archived pages
-#   - Archaeo::HttpClient  — retries, rate-limit handling, gzip
+# Uses the archaeo gem (>= 0.2.3) for all Wayback Machine interaction:
+#   - Archaeo::CdxApi          — find latest snapshot per page
+#   - Archaeo::Fetcher         — download archived pages
+#   - Archaeo::RateLimitError  — specific 503 handling
 #
 # Usage:
-#   ruby fetch_ctext.rb --book heshanggong
+#   ruby fetch_ctext.rb --book heshanggong --config configs/heshanggong.yaml
 #   ruby fetch_ctext.rb --book heshanggong --start 35 --end 81 --force
 #   ruby fetch_ctext.rb --book heshanggong --page 1 --dry-run
-#
-# Config (optional YAML):
-#   ruby fetch_ctext.rb --book heshanggong --config configs/heshanggong.yaml
-#
-# If no --start/--end given, attempts to discover pages from the index.
 
 require "nokogiri"
 require "archaeo"
@@ -25,7 +20,6 @@ require "optparse"
 require "fileutils"
 require "yaml"
 
-# Shared archaeo clients (with generous retries for rate-limiting)
 CDX     = Archaeo::CdxApi.new
 FETCHER = Archaeo::Fetcher.new
 
@@ -45,7 +39,7 @@ module CtextParser
         segments << [current_text, current_comments.dup]
       elsif !current_text.empty?
         segments << [current_text, []]
-      elsif !current_comments.any? && segments.any?
+      elsif !current_comments.empty? && segments.any?
         last = segments.last
         segments[-1] = [last[0], last[1] + current_comments.dup]
       end
@@ -105,13 +99,12 @@ end
 module ChamWriter
   module_function
 
-  def write_book(output_dir, book, config, pages)
-    title_zh = config["title_zh"] || book
-    title_en = config["title_en"] || book
-    layer_id = config.dig("layers", 0, "id") || "commentary"
+  def write_book(output_dir, book_id, config)
+    title_zh = config["title_zh"] || book_id
+    title_en = config["title_en"] || book_id
 
     yaml = {
-      "id" => book,
+      "id" => book_id,
       "title" => title_zh,
       "titleEn" => title_en,
       "publisher" => "ctext.org",
@@ -126,7 +119,7 @@ module ChamWriter
     puts "Written book.yaml"
   end
 
-  def write_chapter(output_dir, page_info, book, config, segments, dry_run:)
+  def write_chapter(output_dir, page_info, book_id, config, segments, dry_run:)
     num = page_info[:num]
     title = page_info[:title] || page_info[:label] || num.to_s
     layer_id = config.dig("layers", 0, "id") || "commentary"
@@ -134,7 +127,7 @@ module ChamWriter
     dir_name = format("%03d_%s", num, title.gsub(%r{[/\\]}, "_"))
     chapter_dir = File.join(output_dir, dir_name)
 
-    # text.cham.md
+    # text.cham.md frontmatter
     lines = ["---", "id: #{num}", "title: #{title}"]
     if config["contributors"]
       lines << "contributors:"
@@ -144,7 +137,7 @@ module ChamWriter
       lines << "date:"
       config["date"].each { |k, v| lines << "  #{k}: #{v}" }
     end
-    lines += ["genre: prose", "source:", "  textRef: #{book}", "  relation: section", "---", ""]
+    lines += ["genre: prose", "source:", "  textRef: #{book_id}", "  relation: section", "---", ""]
 
     marker = 0
     text_lines = []
@@ -188,8 +181,8 @@ end
 
 # --- Fetching with archaeo ---
 
-def fetch_page(book, num)
-  url_path = "ctext.org/#{book}/#{num}"
+def fetch_page(ctext_book, num)
+  url_path = "ctext.org/#{ctext_book}/#{num}"
 
   snapshot = CDX.newest(url_path)
   unless snapshot
@@ -205,13 +198,16 @@ def fetch_page(book, num)
 
   puts "  Warning: page has no ctext content (status=#{page.status_code})"
   nil
+rescue Archaeo::RateLimitError => e
+  puts "  Rate limited, will retry: #{e.message}"
+  :rate_limited
 rescue Archaeo::Error => e
   puts "  Archaeo error: #{e.message}"
   nil
 end
 
-def discover_pages(book)
-  url_path = "ctext.org/#{book}"
+def discover_pages(ctext_book)
+  url_path = "ctext.org/#{ctext_book}"
   puts "Discovering pages from #{url_path}..."
 
   begin
@@ -223,6 +219,9 @@ def discover_pages(book)
 
     page = FETCHER.fetch("https://#{url_path}", timestamp: snapshot.timestamp.to_s)
     doc = Nokogiri::HTML(page.content)
+  rescue Archaeo::RateLimitError => e
+    puts "  Rate limited: #{e.message}"
+    return []
   rescue => e
     puts "  Index fetch failed: #{e.message}"
     return []
@@ -232,7 +231,7 @@ def discover_pages(book)
   seen = Set.new
   doc.css("a[href]").each do |a|
     href = a["href"]
-    next unless href =~ %r{(?:^|/)#{book}/(\d+)$}
+    next unless href =~ %r{(?:^|/)#{ctext_book}/(\d+)$}
     num = $1.to_i
     next if seen.include?(num)
     seen << num
@@ -246,9 +245,6 @@ def discover_pages(book)
     puts "  No pages found in index"
   end
   pages
-rescue => e
-  puts "  Discovery failed: #{e.message}"
-  []
 end
 
 # --- Main ---
@@ -277,12 +273,13 @@ unless options[:book]
   exit 1
 end
 
-book = options[:book]
+ctext_book = options[:book]
 config = options[:config_file] ? (YAML.load_file(options[:config_file]) || {}) : {}
-output_dir = File.expand_path(options[:output_dir] || File.join(__dir__, "..", "content", book))
+book_id = config["id"] || ctext_book
+output_dir = File.expand_path(options[:output_dir] || File.join(__dir__, "..", "content", book_id))
 
 # Discover or build page list
-pages = discover_pages(book)
+pages = discover_pages(ctext_book)
 pages = pages.select { |p| p[:num] >= options[:start] } if options[:start]
 pages = pages.select { |p| p[:num] <= options[:end_ch] } if options[:end_ch]
 
@@ -295,16 +292,17 @@ unless pages.any?
   exit 1
 end
 
-puts "\nImporting '#{book}' — #{pages.length} pages via archaeo"
+puts "\nImporting '#{ctext_book}' (id: #{book_id}) — #{pages.length} pages via archaeo"
 puts "Output: #{output_dir}"
 puts "(dry run)" if options[:dry_run]
 
 unless options[:dry_run]
   FileUtils.mkdir_p(output_dir)
-  ChamWriter.write_book(output_dir, book, config, pages)
+  ChamWriter.write_book(output_dir, book_id, config)
 end
 
 errors = []
+max_retries = 3
 
 pages.each do |page_info|
   num = page_info[:num]
@@ -318,13 +316,29 @@ pages.each do |page_info|
   end
 
   puts "\nPage #{num}:"
-  html = fetch_page(book, num)
+
+  retries = 0
+  html = nil
+  loop do
+    html = fetch_page(ctext_book, num)
+    break if html != :rate_limited
+    retries += 1
+    if retries <= max_retries
+      wait = options[:delay] * (2 ** retries)
+      puts "  Retry #{retries}/#{max_retries} in #{wait}s..."
+      sleep(wait)
+    else
+      puts "  Max retries reached for page #{num}"
+      html = nil
+      break
+    end
+  end
 
   if html
     title, segments = CtextParser.parse_page(html)
     page_info[:title] = title if title && !title.empty?
     if segments.any?
-      ChamWriter.write_chapter(output_dir, page_info, book, config, segments, dry_run: options[:dry_run])
+      ChamWriter.write_chapter(output_dir, page_info, book_id, config, segments, dry_run: options[:dry_run])
     else
       puts "  WARNING: no segments parsed"
       errors << num
@@ -338,7 +352,7 @@ end
 
 if errors.any?
   $stderr.puts "\nErrors in pages: #{errors}"
-  $stderr.puts "Retry: #{$0} --book #{book} --start #{errors.first} --end #{errors.last} --force"
+  $stderr.puts "Retry: #{$0} --book #{ctext_book} --start #{errors.first} --end #{errors.last} --force"
 else
   puts "\nDone. All #{pages.length} pages processed."
 end

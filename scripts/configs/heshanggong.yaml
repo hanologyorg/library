@@ -1,6 +1,7 @@
 # Book config for 河上公章句 (He Shang Gong commentary on Laozi)
-# Used by: ruby fetch_ctext.rb --book heshanggong --config configs/heshanggong.yaml
+# Usage: ruby fetch_ctext.rb --book heshanggong --config configs/heshanggong.yaml
 
+id: heshanggong-laozi
 title_zh: 老子河上公章句
 title_en: Laozi with He Shang Gong Commentary
 
