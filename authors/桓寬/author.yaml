@@ -1,0 +1,12 @@
+'@context': context.jsonld
+'@id': ctext:187891
+'@type': schema:Person
+ref: 桓寬
+label: 桓寬
+cprop:name-style: 次公
+dynasty: 漢
+cprop:authority-wikidata: Q11113234
+cprop:authority-viaf: '264172789'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%A1%93%E5%AF%AC
+cprop:associated-dynasty:
+  '@id': ctext:981499

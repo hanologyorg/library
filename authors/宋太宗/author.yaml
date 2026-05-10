@@ -1,0 +1,22 @@
+'@context': context.jsonld
+'@id': ctext:909601
+'@type': schema:Person
+ref: 宋太宗
+label: 宋太宗
+alt_names:
+- 趙光義
+- 趙炅
+- 趙匡乂
+- 太宗
+dynasty: 宋
+cprop:authority-wikidata: Q7473
+cprop:authority-cbdb: '9002'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%AE%8B%E5%A4%AA%E5%AE%97
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Emperor_Taizong_of_Song
+cprop:died-date: date:13363.3.3.30
+cprop:died-age: '59'
+cprop:father: ctext:989833
+cprop:held-office:
+- ctext:768623 (from date:545062.1.10.24)
+- ctext:937281 (from date:545062.2.7.9)
+- ctext:534510 (from date:436212.2.6.46)

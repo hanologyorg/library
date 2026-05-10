@@ -1,0 +1,15 @@
+'@context': context.jsonld
+'@id': ctext:2143423
+'@type': schema:Person
+ref: 尹文
+label: 尹文
+cprop:born:
+  '@value': '-350'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '-284'
+  '@type': xsd:gYear
+dynasty: 周
+cprop:authority-wikidata: Q16031704
+cprop:authority-viaf: '30341350'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%B0%B9%E6%96%87

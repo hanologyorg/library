@@ -1,0 +1,13 @@
+'@context': context.jsonld
+'@id': ctext:433339
+'@type': schema:Person
+ref: 鬼谷子
+label: 鬼谷子
+cprop:born:
+  '@value': '-400'
+  '@type': xsd:gYear
+dynasty: 周
+cprop:authority-wikidata: Q705744
+cprop:authority-viaf: '38235856'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%AC%BC%E8%B0%B7%E5%AD%90
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Guiguzi

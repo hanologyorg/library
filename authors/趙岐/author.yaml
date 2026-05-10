@@ -1,0 +1,18 @@
+'@context': context.jsonld
+'@id': ctext:528384
+'@type': schema:Person
+ref: 趙岐
+label: 趙岐
+cprop:born:
+  '@value': '108'
+  '@type': xsd:gYear
+cprop:died:
+  '@value': '201'
+  '@type': xsd:gYear
+dynasty: 漢
+cprop:authority-wikidata: Q5365514
+cprop:authority-viaf: '66024927'
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%B2%90
+cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhao_Qi_(Han_dynasty)
+cprop:associated-dynasty:
+  '@id': ctext:981499

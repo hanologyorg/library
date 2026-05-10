@@ -1,0 +1,8 @@
+'@context': context.jsonld
+'@id': ctext:7641808
+'@type': schema:Person
+ref: 文子
+label: 文子
+dynasty: 周
+cprop:authority-wikidata: Q18234350
+cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%96%87%E5%AD%90
