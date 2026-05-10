@@ -1,0 +1,25 @@
+id: laozi-heshanggong-wiki
+title: 老子河上公章句
+titleEn: Laozi with He Shang Gong Commentary (Wikisource)
+publisher: Wikisource
+genre: prose
+contributors:
+  - ref: Laozi
+    role: author
+  - ref: Heshanggong
+    role: commentator
+date:
+  dynasty: 漢
+  circa: true
+layers:
+  - id: heshanggong
+    label: 河上公註
+    shortLabel: 河
+    annotator: 河上公
+    contributor: C002
+    role: commentator
+    nature: commentary
+    displayOrder: 1
+annotation:
+  defaultLabel: 原文
+  defaultShortLabel: 文

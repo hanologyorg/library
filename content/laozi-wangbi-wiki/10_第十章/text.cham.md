@@ -1,0 +1,32 @@
+---
+id: 10
+title: 第十章
+contributors:
+  - ref: Laozi
+    role: author
+date:
+  dynasty: 魏
+  circa: true
+genre: prose
+source:
+  textRef: laozi-wangbi-wiki
+  relation: section
+---
+{1}載營魄抱一，能無離乎？{/1}
+
+{2}專氣致柔，能嬰兒乎？{/2}
+
+{3}滌除玄覽，能無疵乎？{/3}
+
+{4}愛國治民，能無知乎？{/4}
+
+{5}天門開闔，能為雌乎？{/5}
+
+{6}明白四達，能無為乎？{/6}
+
+{7}生之，{/7}
+
+{8}畜之。{/8}
+
+{9}生而不有，為而不恃，長而不宰，是謂玄德。{/9}
+

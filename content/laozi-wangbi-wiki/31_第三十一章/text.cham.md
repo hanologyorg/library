@@ -1,0 +1,16 @@
+---
+id: 31
+title: 第三十一章
+contributors:
+  - ref: Laozi
+    role: author
+date:
+  dynasty: 魏
+  circa: true
+genre: prose
+source:
+  textRef: laozi-wangbi-wiki
+  relation: section
+---
+{1}夫佳兵者，不祥之器，物或惡之，故有道者不處。君子居則貴左，用兵則貴右。兵者不祥之器，非君子之器，不得已而用之，恬淡為上。勝而不美，而美之者，是樂殺人。夫樂殺人者，則不可以得志於天下矣。吉事尚左，凶事尚右。偏將軍居左，上將軍居右，言以喪禮處之。殺人之眾，以哀悲泣之，戰勝，以喪禮處之。{/1}
+

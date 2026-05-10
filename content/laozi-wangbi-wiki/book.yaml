@@ -1,0 +1,25 @@
+id: laozi-wangbi-wiki
+title: 道德經（王弼本）
+titleEn: Daodejing (Wang Bi Recension, Wikisource)
+publisher: Wikisource
+genre: prose
+contributors:
+  - ref: Laozi
+    role: author
+  - ref: WangBi
+    role: commentator
+date:
+  dynasty: 魏
+  circa: true
+layers:
+  - id: wangbi
+    label: 王弼註
+    shortLabel: 王
+    annotator: 王弼
+    contributor: C001
+    role: commentator
+    nature: commentary
+    displayOrder: 1
+annotation:
+  defaultLabel: 原文
+  defaultShortLabel: 文
