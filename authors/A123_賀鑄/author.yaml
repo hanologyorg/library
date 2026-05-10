@@ -11,3 +11,5 @@ cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%B4%BA%E9%93%B8
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:associated-dynasty:
+  '@id': ctext:898516

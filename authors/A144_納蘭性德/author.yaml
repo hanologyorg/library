@@ -21,3 +21,7 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Nalan_Xingde
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:authority-sinica: '9268'
+cprop:father: ctext:787656
+cprop:associated-dynasty:
+  '@id': ctext:385056

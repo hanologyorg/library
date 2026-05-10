@@ -5,9 +5,20 @@ ref: C003
 label: 李世民
 alt_names:
 - 太宗
+- 唐太宗
 dynasty: 唐
 cprop:authority-wikidata: Q9701
 cprop:authority-cbdb: '13060'
 cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%94%90%E5%A4%AA%E5%AE%97
 cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang
 lib:has_raw_bio: true
+cprop:born-date: date:708035.18.12.55
+cprop:died-date: date:133295.23.5.6
+cprop:father: ctext:839543
+cprop:held-office:
+- ctext:550189 (from date:880757.9.6.60)
+- ctext:547465 (from date:880757.1.12.9)
+- ctext:813250 (from date:880757.1.6.11)
+- ctext:535998 (from date:880757.1.6.17)
+- ctext:2971342 (from date:880757.1.6.20)
+- ctext:534510 (from date:880757.8.11.40)

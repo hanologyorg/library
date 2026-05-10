@@ -18,3 +18,5 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Liu_Yong_(Song_dynasty)
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:associated-dynasty:
+  '@id': ctext:898516

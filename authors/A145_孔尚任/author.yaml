@@ -19,3 +19,7 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Kong_Shangren
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:name-art: 東塘
+cprop:authority-sinica: '9011'
+cprop:associated-dynasty:
+  '@id': ctext:385056

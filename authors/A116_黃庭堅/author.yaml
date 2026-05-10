@@ -19,3 +19,8 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Huang_Tingjian
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:name-art: 山谷道人
+cprop:authority-sinica: '18491'
+cprop:place: ctext:843889
+cprop:associated-dynasty:
+  '@id': ctext:898516

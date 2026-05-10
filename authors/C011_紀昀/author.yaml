@@ -17,3 +17,15 @@ cprop:authority-cbdb: '30080'
 cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%B4%80%E6%98%80
 cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Ji_Yun
 lib:has_raw_bio: true
+cprop:died-date: date:60736.g2.2.6
+cprop:authority-sinica: '143'
+cprop:held-office:
+- ctext:545837 (from date:60736.g53.6.12)
+- ctext:813223 (from date:60736.g53.10.23)
+- ctext:983980 (from date:60736.g54.8.53)
+- ctext:813223 (from date:901967.50.1.54)
+- ctext:983980 (from date:901967.52.1.24)
+- ctext:983980 (from date:901967.19)
+- ctext:319155 (from date:60736.g2.1.48)
+cprop:exam-status:
+- ctext:887838

@@ -18,3 +18,10 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Sima_Qian
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
+alias_refs:
+- A185
+cprop:authority-sinica: '18369'
+cprop:associated-dynasty:
+  '@id': ctext:981499

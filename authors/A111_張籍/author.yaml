@@ -19,3 +19,7 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhang_Ji_(poet_from_Jiang
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:exam-status:
+- ctext:887838
+cprop:associated-dynasty:
+  '@id': ctext:300014

@@ -19,4 +19,13 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Su_Xun
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
 lib:has_raw_bio: true
+alias_refs:
+- A190
+cprop:name-art: 老泉
+cprop:authority-sinica: '18233'
+cprop:place: ctext:623813
+cprop:associated-dynasty:
+  '@id': ctext:898516

@@ -19,3 +19,14 @@ cprop:authority-cbdb: '25403'
 cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%AF%B8%E8%91%9B%E4%BA%AE
 cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhuge_Liang
 lib:has_raw_bio: true
+alias_refs:
+- A174
+- A186
+bio_sources:
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
+cprop:died-date: date:669881.12.8
+cprop:died-age: '54'
+cprop:father: ctext:167600

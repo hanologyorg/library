@@ -22,3 +22,7 @@ bio_sources:
   file: brief-積學與涵泳-1.md
 - publication: 積學與涵泳
   file: brief-積學與涵泳-2.md
+cprop:name-art: 放翁
+cprop:authority-sinica: '18485'
+cprop:associated-dynasty:
+  '@id': ctext:898516

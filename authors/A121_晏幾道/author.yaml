@@ -17,3 +17,6 @@ cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E6%99%8F%E5%87%A0%E9%81%
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:name-art: 小山
+cprop:associated-dynasty:
+  '@id': ctext:898516

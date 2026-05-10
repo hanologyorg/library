@@ -19,3 +19,8 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yuan_Zhen
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:authority-sinica: '18100'
+cprop:held-office:
+- ctext:353332 (from date:886246.2.2.18)
+cprop:associated-dynasty:
+  '@id': ctext:300014

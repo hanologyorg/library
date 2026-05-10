@@ -19,3 +19,9 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Xin_Qiji
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
+alias_refs:
+- A195
+cprop:associated-dynasty:
+  '@id': ctext:898516

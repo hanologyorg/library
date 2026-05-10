@@ -21,3 +21,9 @@ bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
 lib:has_raw_bio: true
+cprop:authority-sinica: '18205'
+cprop:place: ctext:403246
+cprop:held-office:
+- ctext:558321 (from date:474358.5.9.19)
+- ctext:547465 (from date:474358.7.2.54)
+- ctext:626287 (from date:887904.4.5.20)

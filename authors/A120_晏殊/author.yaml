@@ -20,3 +20,15 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Yan_Shu
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:died-date: date:601665.2.1.24
+cprop:place: ctext:708578
+cprop:held-office:
+- ctext:689850 (from date:981305.1.8.43)
+- ctext:85216 (from date:440341.1.9.5)
+- ctext:626965 (from date:981305.1.8.38)
+- ctext:335667 (from date:312963.3.3.25)
+- ctext:692488 (from date:997417)
+cprop:exam-status:
+- ctext:887838
+cprop:associated-dynasty:
+  '@id': ctext:898516

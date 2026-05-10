@@ -7,6 +7,7 @@ alt_names:
 - 孫卿子
 - 孫卿
 - 荀況
+- 荀卿
 dynasty: 戰國
 cprop:authority-wikidata: Q216072
 cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E8%8D%80%E5%AD%90
@@ -14,4 +15,8 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Xun_Kuang
 bio_sources:
 - publication: NSS指定文言經典
   file: brief-NSS指定文言經典.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
 lib:has_raw_bio: true
+alias_refs:
+- A199

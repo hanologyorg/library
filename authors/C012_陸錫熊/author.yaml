@@ -15,3 +15,6 @@ cprop:authority-wikidata: Q45490810
 cprop:authority-cbdb: '55816'
 cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E9%99%86%E9%94%A1%E7%86%8A
 lib:has_raw_bio: true
+cprop:authority-sinica: '4854'
+cprop:exam-status:
+- ctext:887838

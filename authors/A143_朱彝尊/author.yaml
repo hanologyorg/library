@@ -5,6 +5,7 @@ ref: A143
 label: 朱彝尊
 alt_names:
 - 朱彞尊
+- 朱彜尊
 cprop:name-style: 錫鬯
 cprop:born:
   '@value': '1629'
@@ -21,3 +22,7 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhu_Yizun
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:name-art: 竹垞
+cprop:authority-sinica: '9563'
+cprop:associated-dynasty:
+  '@id': ctext:385056

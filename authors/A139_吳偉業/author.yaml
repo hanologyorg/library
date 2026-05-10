@@ -20,3 +20,10 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wu_Weiye
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:name-art: 梅村
+cprop:authority-sinica: '2163'
+cprop:exam-status:
+- ctext:887838
+- ctext:887838
+cprop:associated-dynasty:
+  '@id': ctext:385056

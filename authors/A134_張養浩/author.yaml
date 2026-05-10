@@ -19,3 +19,6 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Zhang_Yanghao
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:name-art: 雲莊
+cprop:associated-dynasty:
+  '@id': ctext:685945

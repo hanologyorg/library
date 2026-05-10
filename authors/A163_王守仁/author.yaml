@@ -20,3 +20,10 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Wang_Yangming
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:name-art: 陽明
+cprop:authority-sinica: '11920'
+cprop:father: ctext:973771
+cprop:exam-status:
+- ctext:887838
+cprop:associated-dynasty:
+  '@id': ctext:879536

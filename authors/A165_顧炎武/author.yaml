@@ -23,3 +23,9 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Gu_Yanwu
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:authority-sinica: '8622'
+cprop:place: ctext:35800
+cprop:exam-status:
+- ctext:282106
+cprop:associated-dynasty:
+  '@id': ctext:385056

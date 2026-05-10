@@ -15,3 +15,9 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Confucius
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
+alias_refs:
+- A181
+cprop:born-date: date:810717.22
+cprop:died-date: date:234260.41

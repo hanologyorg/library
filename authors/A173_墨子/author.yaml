@@ -8,3 +8,7 @@ cprop:authority-wikidata: Q272411
 cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E5%A2%A8%E5%AD%90
 cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Mozi
 lib:has_raw_bio: true
+cprop:associated-dynasty:
+  '@id': ctext:898516
+alt_names:
+- 墨翟

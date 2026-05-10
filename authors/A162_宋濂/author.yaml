@@ -20,3 +20,6 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Song_Lian
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:authority-sinica: '9801'
+cprop:associated-dynasty:
+  '@id': ctext:879536

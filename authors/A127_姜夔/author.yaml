@@ -19,3 +19,7 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Jiang_Kui
 bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
+cprop:name-art: 白石道人
+cprop:authority-sinica: '18223'
+cprop:associated-dynasty:
+  '@id': ctext:898516

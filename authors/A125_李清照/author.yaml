@@ -13,3 +13,11 @@ bio_sources:
   file: brief-積學與涵泳-1.md
 - publication: 積學與涵泳
   file: brief-積學與涵泳-2.md
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
+alias_refs:
+- A194
+cprop:name-art: 易安居士
+cprop:authority-sinica: '18180'
+cprop:associated-dynasty:
+  '@id': ctext:898516

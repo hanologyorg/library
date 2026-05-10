@@ -17,3 +17,8 @@ cprop:authority-cbdb: '19880'
 cprop:authority-ddbc: '18840'
 cprop:link-wikipedia_zh: https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%87%89%E9%BA%9F
 lib:has_raw_bio: true
+cprop:authority-sinica: '18131'
+cprop:exam-status:
+- ctext:887838
+cprop:associated-dynasty:
+  '@id': ctext:898516
