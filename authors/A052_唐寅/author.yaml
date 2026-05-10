@@ -21,3 +21,4 @@ bio_sources:
 - publication: 積累與感興
   file: brief-積累與感興.md
 lib:has_raw_bio: true
+cprop:authority-sinica: '18285'

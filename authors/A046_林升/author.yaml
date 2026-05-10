@@ -1,9 +1,14 @@
 '@context': context.jsonld
-'@id': null
+'@id': ctext:386924
 '@type': schema:Person
 ref: A046
 label: 林升
+alt_names:
+- 林昇
+cprop:name-style: 彥明
 dynasty: 宋
+cprop:authority-wikidata: Q45429841
+cprop:authority-cbdb: '42154'
 bio_sources:
 - publication: 積累與感興
   file: brief-積累與感興.md

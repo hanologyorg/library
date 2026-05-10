@@ -15,3 +15,11 @@ bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳.md
 lib:has_raw_bio: true
+cprop:died-date: date:495872.19.12
+cprop:authority-sinica: '18113'
+cprop:held-office:
+- ctext:526722 (from date:275588.6.4.15)
+- ctext:736381 (from date:527542.2.1.7)
+- ctext:754708 (from date:527542.2.1.22)
+cprop:associated-dynasty:
+  '@id': ctext:898516

@@ -23,3 +23,12 @@ bio_sources:
 - publication: 積累與感興
   file: brief-積累與感興.md
 lib:has_raw_bio: true
+cprop:died-date: date:573356.6.3.1
+cprop:authority-sinica: '18370'
+cprop:father: ctext:131763
+cprop:held-office:
+- ctext:532302 (from date:685307.5.8.30)
+- ctext:532302 (from date:573356.1.12.13)
+- ctext:811864
+cprop:associated-dynasty:
+  '@id': ctext:898516

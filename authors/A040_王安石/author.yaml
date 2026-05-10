@@ -21,3 +21,33 @@ bio_sources:
 - publication: 積學與涵泳
   file: brief-積學與涵泳-2.md
 lib:has_raw_bio: true
+cprop:born-date: date:27110.g58.11._13
+cprop:died-date: date:509569.1.4.30
+cprop:died-age: '66'
+cprop:father: ctext:490172
+cprop:place: ctext:708578
+cprop:held-office:
+- ctext:161901 (from date:545497.4.9.35)
+- ctext:689850 (from date:479677.2.2.37)
+- ctext:353332 (from date:479677.3.12.4)
+- ctext:832281 (from date:479677.7.4.23)
+- ctext:614519 (from date:562206.8.3.57)
+- ctext:920943 (from date:562206.3.9.22)
+- ctext:692550
+- ctext:363891
+- ctext:847606 (from date:920090.3.1.10)
+- ctext:202245 (from date:479677.8.6.48)
+- ctext:243442 (from date:479677.8.6.48)
+- ctext:820461 (from date:479677.9.10.43)
+- ctext:353332 (from date:479677.8.2.10)
+- ctext:716618 (from date:479677.8.9.57)
+- ctext:202245 (from date:562206.1.1.52)
+- ctext:582829 (from date:562206.1.1.52)
+- ctext:127938 (from date:562206.1.1.52)
+- ctext:320800 (from date:296109.5.5.46)
+- ctext:166782 (from date:296109.6.6.15)
+- ctext:832281 (from date:545497.4.r3.40)
+cprop:exam-status:
+- ctext:887838
+cprop:associated-dynasty:
+  '@id': ctext:898516

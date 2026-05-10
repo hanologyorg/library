@@ -19,4 +19,13 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Liu_Yuxi
 bio_sources:
 - publication: 積累與感興
   file: brief-積累與感興.md
+- publication: 積學與涵泳
+  file: brief-積學與涵泳.md
 lib:has_raw_bio: true
+alias_refs:
+- A176
+cprop:authority-sinica: '18572'
+cprop:exam-status:
+- ctext:887838
+cprop:associated-dynasty:
+  '@id': ctext:300014

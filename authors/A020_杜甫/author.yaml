@@ -33,4 +33,8 @@ bio_sources:
   file: brief-積學與涵泳-2.md
 - publication: 積學與涵泳
   file: brief-積學與涵泳-3.md
+- publication: NSS指定文言經典
+  file: brief-NSS指定文言經典.md
 lib:has_raw_bio: true
+alias_refs:
+- A191

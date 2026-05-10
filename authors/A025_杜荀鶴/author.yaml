@@ -19,3 +19,5 @@ cprop:link-wikipedia_en: https://en.wikipedia.org/wiki/Du_Xunhe
 bio_sources:
 - publication: 積累與感興
   file: brief-積累與感興.md
+cprop:associated-dynasty:
+  '@id': ctext:300014

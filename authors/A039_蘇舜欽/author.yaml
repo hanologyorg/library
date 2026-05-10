@@ -20,3 +20,6 @@ bio_sources:
 - publication: 積累與感興
   file: brief-積累與感興.md
 lib:has_raw_bio: true
+cprop:name-art: 滄浪翁
+cprop:associated-dynasty:
+  '@id': ctext:898516

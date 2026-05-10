@@ -10,3 +10,6 @@ bio_sources:
 - publication: 積累與感興
   file: brief-積累與感興.md
 lib:has_raw_bio: true
+cprop:held-office:
+- ctext:558409 (from date:926676.4.7.2)
+- ctext:314158 (from date:474358.1.8.27)
