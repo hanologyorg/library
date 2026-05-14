@@ -11,25 +11,25 @@ nature: commentary
 
 {1} commentary [歎與俗相返之遠也。]
 
-{1} commentary [眾人迷於美進，惑於榮利，欲進心競，故熙熙如享太牢，如春登臺也。]
+{4} commentary [眾人迷於美進，惑於榮利，欲進心競，故熙熙如享太牢，如春登臺也。]
 
-{1} commentary [言我廓然無形之可名、無兆之可舉，如嬰兒之未能孩也。]
+{5} commentary [言我廓然無形之可名、無兆之可舉，如嬰兒之未能孩也。]
 
-{1} commentary [若無所宅。]
+{5} commentary [若無所宅。]
 
-{1} commentary [眾人無不有懷有志，盈溢胸心，故曰，皆有餘也。我獨廓然無為無欲，若遺失之也。]
+{6} commentary [眾人無不有懷有志，盈溢胸心，故曰，皆有餘也。我獨廓然無為無欲，若遺失之也。]
 
-{1} commentary [絕愚之人，心無所別析，意無所好欲，猶然其情不可覩我頹然若此也。]
+{6} commentary [絕愚之人，心無所別析，意無所好欲，猶然其情不可覩我頹然若此也。]
 
-{1} commentary [無所別析，不可為明。]
+{6} commentary [無所別析，不可為明。]
 
-{1} commentary [耀其光也。]
+{6} commentary [耀其光也。]
 
-{1} commentary [分別別析也。]
+{6} commentary [分別別析也。]
 
-{1} commentary [情不可覩。]
+{6} commentary [情不可覩。]
 
-{1} commentary [無所繫縶。]
+{7} commentary [無所繫縶。]
 
 @verse:7:0:5 commentary [以，用也。皆欲有所施用也。]
 

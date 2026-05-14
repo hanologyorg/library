@@ -11,9 +11,9 @@ nature: commentary
 
 {1} commentary [勇於不敢有為，則活其身。]
 
-@verse:0:15:18 commentary [謂敢與不敢也。]
+@verse:0:17:20 commentary [謂敢與不敢也。]
 
-@verse:0:18:22 commentary [活身為利，殺身為害。]
+@verse:0:20:24 commentary [活身為利，殺身為害。]
 
 @verse:1:0:4 commentary [惡有為也。]
 
@@ -21,12 +21,12 @@ nature: commentary
 
 {2} commentary [言聖人之明德猶難於勇敢，況無聖人之德而欲行之乎？]
 
-{2} commentary [天不與人爭貴賤，而人自畏之。]
+{3} commentary [天不與人爭貴賤，而人自畏之。]
 
-@verse:2:10:15 commentary [天不言，萬物自動以應時。]
+@verse:2:12:17 commentary [天不言，萬物自動以應時。]
 
-@verse:2:16:21 commentary [天不呼召，萬物皆負陰而向陽。]
+@verse:2:19:24 commentary [天不呼召，萬物皆負陰而向陽。]
 
 {3} commentary [繟，寬也。天道雖寬博，善謀慮人事，修善行惡，各蒙其報也。]
 
-{3} commentary [天所網羅恢恢甚大，雖疏遠，司察人善惡，無有所失。]
+{4} commentary [天所網羅恢恢甚大，雖疏遠，司察人善惡，無有所失。]

@@ -13,7 +13,7 @@ nature: commentary
 
 @verse:2:0:5 commentary [知足自不失，故富也。]
 
-@verse:2:7:13 commentary [勤能行之，其志必獲，故曰强行者有志矣。]
+@verse:2:8:14 commentary [勤能行之，其志必獲，故曰强行者有志矣。]
 
 @verse:3:0:7 commentary [以明自察，量力而行，不失其所，必獲久長矣。]
 

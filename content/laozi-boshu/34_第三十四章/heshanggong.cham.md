@@ -11,7 +11,7 @@ nature: commentary
 
 @verse:0:4:8 commentary [道可左可右，無所不宜。]
 
-{1} commentary [恃，待也。萬物皆待道而生。]
+{2} commentary [恃，待也。萬物皆待道而生。]
 
 {2} commentary [道不辭謝而逆止也。]
 

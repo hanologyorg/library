@@ -11,14 +11,14 @@ nature: commentary
 
 {1} commentary [人死和氣竭，精神亡，故堅強也。]
 
-@verse:0:15:24 commentary [和氣存也。]
+@verse:0:17:26 commentary [和氣存也。]
 
-@verse:0:25:30 commentary [和氣去也。]
+@verse:0:28:33 commentary [和氣去也。]
 
-{1} commentary [以上二事觀之，知堅強者死，柔弱者生也。]
+{2} commentary [以上二事觀之，知堅強者死，柔弱者生也。]
 
-{2} commentary [強大之兵輕戰樂殺，毒流怨結，眾弱為一強，故不勝。]
+{3} commentary [強大之兵輕戰樂殺，毒流怨結，眾弱為一強，故不勝。]
 
 {3} commentary [本強大則枝葉共生其上。]
 
-{3} commentary [興物造功，大木處下，小物處上。天道抑強扶弱，自然之效。]
+{4} commentary [興物造功，大木處下，小物處上。天道抑強扶弱，自然之效。]

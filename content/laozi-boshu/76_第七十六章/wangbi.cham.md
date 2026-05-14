@@ -7,9 +7,9 @@ nature: commentary
 ---
 
 ## 注釋
-{1} commentary [强兵以暴於天下者，物之所惡也，故必不得勝。]
+{3} commentary [强兵以暴於天下者，物之所惡也，故必不得勝。]
 
-{1} commentary [物所加也。]
+{3} commentary [物所加也。]
 
 @verse:3:0:4 commentary [木之本也。]
 

@@ -13,20 +13,20 @@ nature: commentary
 
 {1} commentary [道之於萬物，獨怳忽往來，於其無所定也。]
 
-{1} commentary [道唯忽怳無形，之中獨有萬物法象。]
+{2} commentary [道唯忽怳無形，之中獨有萬物法象。]
 
-{1} commentary [道唯怳忽，其中有一，經營生化，因氣立質。]
+{2} commentary [道唯怳忽，其中有一，經營生化，因氣立質。]
 
-{1} commentary [道唯窈冥無形，其中有精實，神明相薄，陰陽交會也。]
+{2} commentary [道唯窈冥無形，其中有精實，神明相薄，陰陽交會也。]
 
-{1} commentary [言存精氣，其妙甚真，非有飾也。]
+{2} commentary [言存精氣，其妙甚真，非有飾也。]
 
-@verse:1:35:39 commentary [道匿功藏名，其信在中也。]
+@verse:1:38:42 commentary [道匿功藏名，其信在中也。]
 
-{2} commentary [自，從也。自古至今，道常在不去。]
+{3} commentary [自，從也。自古至今，道常在不去。]
 
-{2} commentary [閱，稟也。甫，始也。言道稟與，萬物始生，從道受氣。]
+{3} commentary [閱，稟也。甫，始也。言道稟與，萬物始生，從道受氣。]
 
-{2} commentary [吾何以知萬物從道受氣。]
+{4} commentary [吾何以知萬物從道受氣。]
 
-@verse:3:9:11 commentary [此，今也。以今萬物皆得道精氣而生，動作起居，非道不然。]
+@verse:3:10:12 commentary [此，今也。以今萬物皆得道精氣而生，動作起居，非道不然。]
