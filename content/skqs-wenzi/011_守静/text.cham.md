@@ -1,9 +1,6 @@
 ---
 id: 11
 title: 守静
-contributors:
-  - ref: 文子
-    role: author
 date:
   dynasty: 周
 genre: prose
