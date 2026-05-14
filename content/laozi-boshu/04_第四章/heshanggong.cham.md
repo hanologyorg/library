@@ -7,13 +7,13 @@ nature: commentary
 ---
 
 ## 注釋
-@verse:0:0:6 commentary [沖，中也。道匿名藏譽，其用在中。]
+@verse:0:0:5 commentary [沖，中也。道匿名藏譽，其用在中。]
 
 {1} commentary [或，常也。道常謙虛不盈滿。]
 
 {1} commentary [道淵深不可知，似為萬物之宗祖。]
 
-{1} commentary [銳，進也。人欲銳精進取功名，當挫止之，法道不自見也。]
+{2} commentary [銳，進也。人欲銳精進取功名，當挫止之，法道不自見也。]
 
 @verse:1:4:7 commentary [紛，結恨也。當念道無為以解釋。]
 
@@ -21,8 +21,8 @@ nature: commentary
 
 @verse:1:12:15 commentary [當與眾庶同垢塵，不當自別殊。]
 
-{2} commentary [言當湛然安靜，故能長存不亡。]
+{3} commentary [言當湛然安靜，故能長存不亡。]
 
-{2} commentary [老子言：我不知，道所從生。]
+{3} commentary [老子言：我不知，道所從生。]
 
-@verse:2:14:18 commentary [道自在天帝之前，此言道乃先天地之生也。至今在者，以能安靜湛然，不勞煩，欲使人修身法道。]
+@verse:2:15:19 commentary [道自在天帝之前，此言道乃先天地之生也。至今在者，以能安靜湛然，不勞煩，欲使人修身法道。]

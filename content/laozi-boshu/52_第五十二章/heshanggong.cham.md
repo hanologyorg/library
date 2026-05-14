@@ -11,11 +11,11 @@ nature: commentary
 
 @verse:0:5:10 commentary [道為天下萬物之母。]
 
-{1} commentary [子，一也。既知道己，當復知一也。]
+{2} commentary [子，一也。既知道己，當復知一也。]
 
-{1} commentary [己知一，當復守道反無為也。]
+{2} commentary [己知一，當復守道反無為也。]
 
-@verse:1:15:19 commentary [不危殆也。]
+@verse:1:16:20 commentary [不危殆也。]
 
 @verse:2:0:3 commentary [兌，目也。目不妄視也。]
 
@@ -23,13 +23,13 @@ nature: commentary
 
 {3} commentary [人當塞目不妄視，閉口不妄言，則終生不勤苦。]
 
-{3} commentary [開目視情欲也。]
+{4} commentary [開目視情欲也。]
 
 @verse:3:4:7 commentary [濟，益也。益情欲之事。]
 
 {4} commentary [禍亂成也。]
 
-@verse:4:0:4 commentary [萌芽未動，禍亂未見為小，昭然獨見為明。]
+@verse:4:0:5 commentary [萌芽未動，禍亂未見為小，昭然獨見為明。]
 
 {5} commentary [守柔弱，日以強大也。]
 

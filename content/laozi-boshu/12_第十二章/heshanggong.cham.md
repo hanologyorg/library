@@ -19,6 +19,6 @@ nature: commentary
 
 {1} commentary [守五性，去六情，節志氣，養神明。]
 
-@verse:1:10:13 commentary [目不妄視，妄視洩精於外。]
+@verse:1:11:14 commentary [目不妄視，妄視洩精於外。]
 
-@verse:1:14:19 commentary [去彼目之妄視，取此腹之養性。]
+@verse:1:16:21 commentary [去彼目之妄視，取此腹之養性。]

@@ -11,17 +11,17 @@ nature: commentary
 
 @verse:0:4:7 commentary [德，一也。一主布氣而蓄養。]
 
-@verse:0:8:11 commentary [一為萬物設形像也。]
+@verse:0:9:12 commentary [一為萬物設形像也。]
 
 {1} commentary [一為萬物作寒暑之勢以成之。]
 
-{1} commentary [道德所為，無不盡驚動，而尊敬之。]
+{2} commentary [道德所為，無不盡驚動，而尊敬之。]
 
-{2} commentary [道一不命召萬物，而常自然應之如影響。]
+{3} commentary [道一不命召萬物，而常自然應之如影響。]
 
-{3} commentary [道之於萬物，非但生而已，乃復長養、成孰、覆育，全其性命。人君治國治身，亦當如是也。]
+{4} commentary [道之於萬物，非但生而已，乃復長養、成孰、覆育，全其性命。人君治國治身，亦當如是也。]
 
-{4} commentary [道生萬物，不有所取以為利也。]
+{5} commentary [道生萬物，不有所取以為利也。]
 
 {5} commentary [道所施為，不恃望其報也。]
 

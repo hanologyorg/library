@@ -9,11 +9,11 @@ nature: commentary
 ## 注釋
 @verse:0:0:6 commentary [言貴道德，不好武力也。]
 
-@verse:0:7:12 commentary [善以道戰者，禁邪於胸心，絕禍於未萌，無所誅怒也。]
+@verse:0:8:13 commentary [善以道戰者，禁邪於胸心，絕禍於未萌，無所誅怒也。]
 
 {1} commentary [善以道勝敵者，附近以仁，來遠以德，不與敵爭，而敵自服也。]
 
-@verse:0:20:27 commentary [善用人自輔佐者，常為人執謙下也。]
+@verse:0:23:30 commentary [善用人自輔佐者，常為人執謙下也。]
 
 @verse:1:0:6 commentary [謂上為之下也。是乃不與人爭之道德也。]
 

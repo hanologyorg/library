@@ -11,4 +11,4 @@ nature: commentary
 
 {1} commentary [難得之貨，塞人正路，故令人行妨也。]
 
-{1} commentary [為腹者以物養己，為目者以物役己，故聖人不為目也。]
+{2} commentary [為腹者以物養己，為目者以物役己，故聖人不為目也。]

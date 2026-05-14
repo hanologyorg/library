@@ -9,9 +9,9 @@ nature: commentary
 ## 注釋
 {1} commentary [希言者，謂愛言也。愛言者，自然之道。]
 
-{1} commentary [飄風，疾風也。驟雨，暴雨也。言疾不能長，暴不能久也。]
+{2} commentary [飄風，疾風也。驟雨，暴雨也。言疾不能長，暴不能久也。]
 
-{2} commentary [孰，誰也。誰為此飄風暴雨者乎？天地所為。]
+{3} commentary [孰，誰也。誰為此飄風暴雨者乎？天地所為。]
 
 {3} commentary [不能終於朝暮也。]
 
@@ -19,15 +19,15 @@ nature: commentary
 
 {3} commentary [從，為也。人為事當如道安靜，不當如飄風驟雨也。]
 
-@verse:3:4:9 commentary [道者，謂好道人也。同於道者，所謂與道同也。]
+@verse:3:3:9 commentary [道者，謂好道人也。同於道者，所謂與道同也。]
 
-@verse:3:10:15 commentary [德者，謂好德之人也。同於德者，所謂與德同也。]
+@verse:3:11:17 commentary [德者，謂好德之人也。同於德者，所謂與德同也。]
 
-@verse:3:16:21 commentary [失，謂任己而失人也。同於失者，所謂與失同也。]
+@verse:3:19:25 commentary [失，謂任己而失人也。同於失者，所謂與失同也。]
 
-{4} commentary [與道同者，道亦樂得之也。]
+{5} commentary [與道同者，道亦樂得之也。]
 
-{4} commentary [與德同者，德亦樂得之也。]
+{5} commentary [與德同者，德亦樂得之也。]
 
 {5} commentary [與失同者，失亦樂失之也。]
 

@@ -13,7 +13,7 @@ nature: commentary
 
 {1} commentary [謂道德大盈滿之君也。若沖者，貴不敢驕也，富不敢奢也。]
 
-@verse:0:15:19 commentary [其用心如是，則無窮盡時也。]
+@verse:0:16:20 commentary [其用心如是，則無窮盡時也。]
 
 {1} commentary [大直，謂修道法度正直如一也。若屈者，不與俗人爭，若可屈折。]
 

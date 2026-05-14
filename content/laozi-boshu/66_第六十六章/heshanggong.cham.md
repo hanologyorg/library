@@ -11,11 +11,11 @@ nature: commentary
 
 {1} commentary [以卑下，故能為百谷王也。]
 
-{1} commentary [欲在民之上也。]
+{2} commentary [欲在民之上也。]
 
-{1} commentary [法江海處謙虛。]
+{2} commentary [法江海處謙虛。]
 
-@verse:1:17:20 commentary [欲在民之前也。]
+@verse:1:20:23 commentary [欲在民之前也。]
 
 {2} commentary [先人而後己也。]
 

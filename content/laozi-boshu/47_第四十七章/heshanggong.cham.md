@@ -13,8 +13,8 @@ nature: commentary
 
 {2} commentary [謂去其家觀人家，去其身觀人身，所觀益遠，所見益少也。]
 
-@verse:2:0:8 commentary [聖人不上天，不入淵，能知天下者，以心知之也。]
+@verse:2:0:10 commentary [聖人不上天，不入淵，能知天下者，以心知之也。]
 
-@verse:2:9:13 commentary [上好道，下好德；上好武，下好力。聖人原小知大，察內知外。]
+@verse:2:12:16 commentary [上好道，下好德；上好武，下好力。聖人原小知大，察內知外。]
 
 {3} commentary [上無所為，則下無事，家給人足，萬物自化就也。]
