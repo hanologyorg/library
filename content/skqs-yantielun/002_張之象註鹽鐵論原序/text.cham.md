@@ -1,9 +1,6 @@
 ---
 id: 2
 title: 張之象註鹽鐵論原序
-contributors:
-  - ref: 桓寬
-    role: author
 date:
   dynasty: 漢
 genre: prose
