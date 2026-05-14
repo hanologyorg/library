@@ -1,3 +1,5 @@
 resources/**/*.pdf
 # Resource pull planning docs (not source code)
 DONE.resources-pull/
+# Planning notes (transient)
+TODO.semantic-annotations/
