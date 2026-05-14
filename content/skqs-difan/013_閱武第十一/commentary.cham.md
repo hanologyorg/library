@@ -1,5 +1,4 @@
 ---
-type: secondary
 base: text.cham.md
 contributor: 四庫全書館臣
 role: commentator
@@ -28,7 +27,7 @@ nature: commentary
 
 {9} meaning [勾踐習衍其兵威]
 
-{10} meaning [徐偃王忘失其武備]
+{7} meaning [徐偃王忘失其武備]
 
 {11} meaning [上闕以字引孔子之言以證之也言不預教練其民卒驅之以赴敵是猶委棄之也又孫子兵法曰兵甲不堅器械不精練習不熟是以其卒與敵也與亦猶棄也]
 

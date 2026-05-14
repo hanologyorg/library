@@ -1,13 +1,6 @@
 ---
 id: 14
 title: 崇文第十二
-contributors:
-  - ref: 唐太宗
-    role: author
-date:
-  dynasty: 唐
-  era: 貞觀
-  era_year: 22
 genre: prose
 ---
 

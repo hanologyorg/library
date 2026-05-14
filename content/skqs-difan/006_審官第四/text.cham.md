@@ -1,13 +1,6 @@
 ---
 id: 6
 title: 審官第四
-contributors:
-  - ref: 唐太宗
-    role: author
-date:
-  dynasty: 唐
-  era: 貞觀
-  era_year: 22
 genre: prose
 ---
 

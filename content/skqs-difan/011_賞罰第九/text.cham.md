@@ -1,13 +1,6 @@
 ---
 id: 11
 title: 賞罰第九
-contributors:
-  - ref: 唐太宗
-    role: author
-date:
-  dynasty: 唐
-  era: 貞觀
-  era_year: 22
 genre: prose
 ---
 

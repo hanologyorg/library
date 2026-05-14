@@ -1,13 +1,6 @@
 ---
 id: 3
 title: 君體第一
-contributors:
-  - ref: 唐太宗
-    role: author
-date:
-  dynasty: 唐
-  era: 貞觀
-  era_year: 22
 genre: prose
 ---
 
