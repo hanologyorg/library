@@ -1,9 +1,6 @@
 ---
 id: 1
 title: 提要
-contributors:
-  - ref: 宋太宗
-    role: author
 date:
   dynasty: 宋
 genre: prose

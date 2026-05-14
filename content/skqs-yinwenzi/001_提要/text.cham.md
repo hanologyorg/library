@@ -1,9 +1,6 @@
 ---
 id: 1
 title: 提要
-contributors:
-  - ref: 尹文
-    role: author
 date:
   dynasty: 周
 genre: prose

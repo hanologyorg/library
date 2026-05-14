@@ -1,9 +1,6 @@
 ---
 id: 16
 title: 道徳
-contributors:
-  - ref: 文子
-    role: author
 date:
   dynasty: 周
 genre: prose

@@ -1,9 +1,6 @@
 ---
 id: 4
 title: 九守
-contributors:
-  - ref: 文子
-    role: author
 date:
   dynasty: 周
 genre: prose

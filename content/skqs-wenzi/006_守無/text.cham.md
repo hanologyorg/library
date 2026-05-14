@@ -1,9 +1,6 @@
 ---
 id: 6
 title: 守無
-contributors:
-  - ref: 文子
-    role: author
 date:
   dynasty: 周
 genre: prose

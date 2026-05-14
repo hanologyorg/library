@@ -1,9 +1,6 @@
 ---
 id: 13
 title: 守弱
-contributors:
-  - ref: 文子
-    role: author
 date:
   dynasty: 周
 genre: prose

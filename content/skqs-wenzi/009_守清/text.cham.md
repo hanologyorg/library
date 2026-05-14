@@ -1,9 +1,6 @@
 ---
 id: 9
 title: 守清
-contributors:
-  - ref: 文子
-    role: author
 date:
   dynasty: 周
 genre: prose
