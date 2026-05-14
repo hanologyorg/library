@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+			<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+				<head>
+					<meta name="dtb:uid" content="https://zh.wikisource.org/wiki/%E6%8F%A1%E7%AB%92%E7%B6%93_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29" />
+					<meta name="dtb:depth" content="1" />
+					<meta name="dtb:totalPageCount" content="0" />
+					<meta name="dtb:maxPageNumber" content="0" />
+				</head>
+				<docTitle><text>握竒經 (四庫全書本)</text></docTitle>
+				<docAuthor><text></text></docAuthor>
+				<navMap>
+					<navPoint id="title" playOrder="1">
+						<navLabel><text>封面</text></navLabel>
+						<content src="title.xhtml"/>
+					</navPoint><navPoint id="c0_wo_qi_jing__si_ku_quan_shu_ben_" playOrder="2">
+						    <navLabel><text>握竒經 (四庫全書本)</text></navLabel>
+						    <content src="c0_wo_qi_jing__si_ku_quan_shu_ben_.xhtml" />
+					    </navPoint><navPoint id="about" playOrder="3">
+						<navLabel>
+							<text>关于</text>
+						</navLabel>
+						<content src="about.xhtml"/>
+					</navPoint>
+			       </navMap>
+			</ncx>

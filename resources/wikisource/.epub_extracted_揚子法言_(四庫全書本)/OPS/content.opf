@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		      <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0" xml:lang="zh" prefix="cc: http://creativecommons.org/ns#">
+			     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+				    <dc:identifier id="uid">https://zh.wikisource.org/wiki/%E6%8F%9A%E5%AD%90%E6%B3%95%E8%A8%80_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29</dc:identifier>
+				    <meta property="dcterms:modified">2026-05-11T02:05:49Z</meta>
+				    <dc:language>zh</dc:language>
+				    <dc:title id="meta-title">揚子法言 (四庫全書本)</dc:title>
+				    <meta refines="#meta-title" property="title-type">main</meta>
+				    <dc:source>https://zh.wikisource.org/wiki/%E6%8F%9A%E5%AD%90%E6%B3%95%E8%A8%80_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29</dc:source>
+				    <dc:rights xml:lang="en">Creative Commons BY-SA 3.0</dc:rights>
+				    <link rel="cc:license" href="http://creativecommons.org/licenses/by-sa/3.0/" />
+				    <dc:rights xml:lang="en">GNU Free Documentation License</dc:rights>
+				    <link rel="cc:license" href="http://www.gnu.org/copyleft/fdl.html" />
+				    <dc:contributor id="meta-bkp">Wikisource</dc:contributor>
+				    <meta refines="#meta-bkp" property="role" scheme="marc:relators">bkp</meta><meta name="cover" content="title" /></metadata>
+			     <manifest>
+				    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
+				    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/><item id="title" href="title.xhtml" media-type="application/xhtml+xml" />
+				    <item id="mainCss" href="main.css" media-type="text/css" /><item id="Wikisource-logo.svg.png" href="images/Wikisource-logo.svg.png" media-type="image/png" /><item id="c0_yang_zi_fa_yan__si_ku_quan_shu_ben_" href="c0_yang_zi_fa_yan__si_ku_quan_shu_ben_.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_yang_zi_fa_yan__si_ku_quan_shu_ben__juan01" href="c1_yang_zi_fa_yan__si_ku_quan_shu_ben__juan01.xhtml" media-type="application/xhtml+xml" />
+<item id="c2_yang_zi_fa_yan__si_ku_quan_shu_ben__quan_lan" href="c2_yang_zi_fa_yan__si_ku_quan_shu_ben__quan_lan.xhtml" media-type="application/xhtml+xml" />
+<item id="c1_yang_zi_fa_yan__si_ku_quan_shu_ben__juan01" href="c1_yang_zi_fa_yan__si_ku_quan_shu_ben__juan01.xhtml" media-type="application/xhtml+xml" />
+<item id="c3_yang_zi_fa_yan__si_ku_quan_shu_ben__juan02" href="c3_yang_zi_fa_yan__si_ku_quan_shu_ben__juan02.xhtml" media-type="application/xhtml+xml" />
+<item id="c4_yang_zi_fa_yan__si_ku_quan_shu_ben__juan03" href="c4_yang_zi_fa_yan__si_ku_quan_shu_ben__juan03.xhtml" media-type="application/xhtml+xml" />
+<item id="c5_yang_zi_fa_yan__si_ku_quan_shu_ben__juan04" href="c5_yang_zi_fa_yan__si_ku_quan_shu_ben__juan04.xhtml" media-type="application/xhtml+xml" />
+<item id="c6_yang_zi_fa_yan__si_ku_quan_shu_ben__juan05" href="c6_yang_zi_fa_yan__si_ku_quan_shu_ben__juan05.xhtml" media-type="application/xhtml+xml" />
+<item id="c7_yang_zi_fa_yan__si_ku_quan_shu_ben__juan06" href="c7_yang_zi_fa_yan__si_ku_quan_shu_ben__juan06.xhtml" media-type="application/xhtml+xml" />
+<item id="c8_yang_zi_fa_yan__si_ku_quan_shu_ben__juan07" href="c8_yang_zi_fa_yan__si_ku_quan_shu_ben__juan07.xhtml" media-type="application/xhtml+xml" />
+<item id="c9_yang_zi_fa_yan__si_ku_quan_shu_ben__juan08" href="c9_yang_zi_fa_yan__si_ku_quan_shu_ben__juan08.xhtml" media-type="application/xhtml+xml" />
+<item id="c10_yang_zi_fa_yan__si_ku_quan_shu_ben__juan09" href="c10_yang_zi_fa_yan__si_ku_quan_shu_ben__juan09.xhtml" media-type="application/xhtml+xml" />
+<item id="c11_yang_zi_fa_yan__si_ku_quan_shu_ben__juan10" href="c11_yang_zi_fa_yan__si_ku_quan_shu_ben__juan10.xhtml" media-type="application/xhtml+xml" />
+<item id="c12_icon.svg_60px_PD_icon.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c12_icon.svg_60px_PD_icon.svg.png_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/png" />
+<item id="c13_age3623_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c13_age3623_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c14_age3478_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c14_age3478_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c15_age2818_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c15_age2818_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c16_age3932_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c16_age3932_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c17_age2974_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c17_age2974_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c18_age3368_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c18_age3368_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c19_age3392_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c19_age3392_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c20_age2615_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c20_age2615_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c21_age2959_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c21_age2959_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c22_age3129_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c22_age3129_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c23_age2734_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c23_age2734_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c24_age3256_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c24_age3256_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c25_age2894_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c25_age2894_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c26_age3593_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c26_age3593_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c27_age3220_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c27_age3220_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c28_age3160_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c28_age3160_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="c29_age3004_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" href="images/c29_age3004_20px_SKQSfont.pdf.jpg_utm_source_zh.wikisource.org_utm_campaign_parser_utm_content_thumbnail" media-type="image/jpeg" />
+<item id="about" href="about.xhtml" media-type="application/xhtml+xml" />
+			     </manifest>
+			     <spine toc="ncx"><itemref idref="title" linear="yes" /><itemref idref="c0_yang_zi_fa_yan__si_ku_quan_shu_ben_" linear="yes" /><itemref idref="c1_yang_zi_fa_yan__si_ku_quan_shu_ben__juan01" linear="yes" /><itemref idref="c2_yang_zi_fa_yan__si_ku_quan_shu_ben__quan_lan" linear="yes" /><itemref idref="c1_yang_zi_fa_yan__si_ku_quan_shu_ben__juan01" linear="yes" /><itemref idref="c3_yang_zi_fa_yan__si_ku_quan_shu_ben__juan02" linear="yes" /><itemref idref="c4_yang_zi_fa_yan__si_ku_quan_shu_ben__juan03" linear="yes" /><itemref idref="c5_yang_zi_fa_yan__si_ku_quan_shu_ben__juan04" linear="yes" /><itemref idref="c6_yang_zi_fa_yan__si_ku_quan_shu_ben__juan05" linear="yes" /><itemref idref="c7_yang_zi_fa_yan__si_ku_quan_shu_ben__juan06" linear="yes" /><itemref idref="c8_yang_zi_fa_yan__si_ku_quan_shu_ben__juan07" linear="yes" /><itemref idref="c9_yang_zi_fa_yan__si_ku_quan_shu_ben__juan08" linear="yes" /><itemref idref="c10_yang_zi_fa_yan__si_ku_quan_shu_ben__juan09" linear="yes" /><itemref idref="c11_yang_zi_fa_yan__si_ku_quan_shu_ben__juan10" linear="yes" /><itemref idref="about" linear="yes" />
+			     </spine>
+		      </package>

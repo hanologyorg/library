@@ -1,0 +1,108 @@
+body {
+	line-height: 1.2;
+}
+
+/* images */
+div.floatright {
+	float: right;
+	clear: right;
+	position: relative;
+	margin: 0.5em 0 0.8em 1.4em;
+}
+
+div.floatleft {
+	float: left;
+	clear: left;
+	position: relative;
+	margin: 0.5em 1.4em 0.8em 0;
+}
+
+.center {
+	width: 100%;
+	text-align: center;
+}
+
+.center * {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.thumbcaption {
+	text-align: left;
+	font-size: 95%;
+}
+
+div.tright {
+	float: right;
+	clear: right;
+	margin: 0.5em 0 0.8em 1.4em;
+}
+
+div.tleft {
+	float: left;
+	clear: left;
+	margin: 0.5em 1.4em 0.8em 0;
+}
+
+.small {
+	font-size: 94%;
+}
+
+/* Styles simplified from resources/src/mediawiki.skinning/content.media-common.less */
+.mw-valign-middle {
+	vertical-align: middle;
+}
+
+.mw-valign-baseline {
+	vertical-align: baseline;
+}
+
+.mw-valign-sub {
+	vertical-align: sub;
+}
+
+.mw-valign-super {
+	vertical-align: super;
+}
+
+.mw-valign-top {
+	vertical-align: top;
+}
+
+.mw-valign-text-top {
+	vertical-align: text-top;
+}
+
+.mw-valign-bottom {
+	vertical-align: bottom;
+}
+
+.mw-valign-text-bottom {
+	vertical-align: text-bottom;
+}
+
+.mw-halign-right {
+	margin: 0 0 0.5em 0.5em;
+	clear: right;
+	float: right;
+}
+
+.mw-halign-left {
+	margin: 0 0.5em 0.5em 0;
+	clear: left;
+	float: left;
+}
+
+.mw-halign-none {
+	clear: none;
+	float: none;
+}
+
+.mw-halign-center {
+	margin: 0 auto;
+	display: table;
+	border-collapse: collapse;
+	clear: none;
+	float: none;
+}
+
