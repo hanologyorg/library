@@ -1,9 +1,6 @@
 ---
 id: 1
 title: 提要
-contributors:
-  - ref: 桓寬
-    role: author
 date:
   dynasty: 漢
 genre: prose
